@@ -1,0 +1,36 @@
+{
+  "success": true,
+  "errorCode": null,
+  "desc": null,
+  "data": {
+    "table": [
+      {
+        "id": "1",
+        "username": "admin"
+      }
+    ],
+    "search": [
+      {
+        "id": 1,
+        "chartQueryId": 1,
+        "searchName": "id",
+        "labelName": "ID",
+        "searchOrder": 1,
+        "searchType": 2,
+        "defaultType": 3,
+        "defaultValue": "1",
+        "extInfo": ""
+      }
+    ],
+    "columns": [
+      {
+        "title": "ID",
+        "key": "id"
+      },
+      {
+        "title": "用户名",
+        "key": "username"
+      }
+    ]
+  }
+}

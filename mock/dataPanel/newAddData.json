@@ -1,0 +1,664 @@
+{
+  "success": true,
+  "errorCode": null,
+  "desc": null,
+  "data": {
+    "target": 196.5,
+    "sum": {
+      "2018-08-09": {
+        "tradeConsumeTotal": 1983299,
+        "green": true
+      },
+      "2018-08-10": {
+        "tradeConsumeTotal": 1997203,
+        "green": true
+      },
+      "2018-08-11": {
+        "tradeConsumeTotal": 1572123,
+        "green": false
+      },
+      "2018-08-12": {
+        "tradeConsumeTotal": 1635216,
+        "green": false
+      },
+      "2018-08-13": {
+        "tradeConsumeTotal": 1602837,
+        "green": false
+      },
+      "2018-08-14": {
+        "tradeConsumeTotal": 1831583,
+        "green": false
+      },
+      "2018-08-15": {
+        "tradeConsumeTotal": 1769076,
+        "green": false
+      }
+    },
+    "avg": {
+      "tradeConsumeTotal": 1770191.01,
+      "green": false
+    },
+    "华东一部": [
+      {
+        "newTradeName": "JF",
+        "owner": "方愉涵",
+        "target": 50.0,
+        "avg": 456975.86,
+        "green": false,
+        "consume": [
+          {
+            "curDate": "2018-08-09",
+            "green": false,
+            "tradeConsumeTotal": 499999
+          },
+          {
+            "curDate": "2018-08-10",
+            "green": false,
+            "tradeConsumeTotal": 470906
+          },
+          {
+            "curDate": "2018-08-11",
+            "green": false,
+            "tradeConsumeTotal": 452275
+          },
+          {
+            "curDate": "2018-08-12",
+            "green": false,
+            "tradeConsumeTotal": 470568
+          },
+          {
+            "curDate": "2018-08-13",
+            "green": false,
+            "tradeConsumeTotal": 395978
+          },
+          {
+            "curDate": "2018-08-14",
+            "green": false,
+            "tradeConsumeTotal": 461668
+          },
+          {
+            "curDate": "2018-08-15",
+            "green": false,
+            "tradeConsumeTotal": 450517
+          }
+        ]
+      },
+      {
+        "newTradeName": "新闻资讯",
+        "owner": "胡逸童",
+        "target": 15.0,
+        "avg": 148729.29,
+        "green": false,
+        "consume": [
+          {
+            "curDate": "2018-08-09",
+            "green": false,
+            "tradeConsumeTotal": 138925
+          },
+          {
+            "curDate": "2018-08-10",
+            "green": false,
+            "tradeConsumeTotal": 136493
+          },
+          {
+            "curDate": "2018-08-11",
+            "green": false,
+            "tradeConsumeTotal": 143607
+          },
+          {
+            "curDate": "2018-08-12",
+            "green": true,
+            "tradeConsumeTotal": 172402
+          },
+          {
+            "curDate": "2018-08-13",
+            "green": true,
+            "tradeConsumeTotal": 159923
+          },
+          {
+            "curDate": "2018-08-14",
+            "green": true,
+            "tradeConsumeTotal": 167664
+          },
+          {
+            "curDate": "2018-08-15",
+            "green": false,
+            "tradeConsumeTotal": 122091
+          }
+        ]
+      },
+      {
+        "newTradeName": "教育",
+        "owner": "胡逸童",
+        "target": 12.0,
+        "avg": 92889.71,
+        "green": false,
+        "consume": [
+          {
+            "curDate": "2018-08-09",
+            "green": false,
+            "tradeConsumeTotal": 113335
+          },
+          {
+            "curDate": "2018-08-10",
+            "green": false,
+            "tradeConsumeTotal": 106190
+          },
+          {
+            "curDate": "2018-08-11",
+            "green": false,
+            "tradeConsumeTotal": 77296
+          },
+          {
+            "curDate": "2018-08-12",
+            "green": false,
+            "tradeConsumeTotal": 82734
+          },
+          {
+            "curDate": "2018-08-13",
+            "green": false,
+            "tradeConsumeTotal": 91886
+          },
+          {
+            "curDate": "2018-08-14",
+            "green": false,
+            "tradeConsumeTotal": 92613
+          },
+          {
+            "curDate": "2018-08-15",
+            "green": false,
+            "tradeConsumeTotal": 86174
+          }
+        ]
+      },
+      {
+        "newTradeName": "展会家居",
+        "owner": "郑涵文",
+        "target": 6.0,
+        "avg": 45182.71,
+        "green": false,
+        "consume": [
+          {
+            "curDate": "2018-08-09",
+            "green": false,
+            "tradeConsumeTotal": 54950
+          },
+          {
+            "curDate": "2018-08-10",
+            "green": false,
+            "tradeConsumeTotal": 49723
+          },
+          {
+            "curDate": "2018-08-11",
+            "green": false,
+            "tradeConsumeTotal": 43063
+          },
+          {
+            "curDate": "2018-08-12",
+            "green": false,
+            "tradeConsumeTotal": 44060
+          },
+          {
+            "curDate": "2018-08-13",
+            "green": false,
+            "tradeConsumeTotal": 43740
+          },
+          {
+            "curDate": "2018-08-14",
+            "green": false,
+            "tradeConsumeTotal": 42301
+          },
+          {
+            "curDate": "2018-08-15",
+            "green": false,
+            "tradeConsumeTotal": 38442
+          }
+        ]
+      },
+      {
+        "newTradeName": "彩票",
+        "owner": "董文龙",
+        "target": 5.0,
+        "avg": 9107.86,
+        "green": false,
+        "consume": [
+          {
+            "curDate": "2018-08-09",
+            "green": false,
+            "tradeConsumeTotal": 7974
+          },
+          {
+            "curDate": "2018-08-10",
+            "green": false,
+            "tradeConsumeTotal": 9005
+          },
+          {
+            "curDate": "2018-08-11",
+            "green": false,
+            "tradeConsumeTotal": 8940
+          },
+          {
+            "curDate": "2018-08-12",
+            "green": false,
+            "tradeConsumeTotal": 8529
+          },
+          {
+            "curDate": "2018-08-13",
+            "green": false,
+            "tradeConsumeTotal": 8474
+          },
+          {
+            "curDate": "2018-08-14",
+            "green": false,
+            "tradeConsumeTotal": 9070
+          },
+          {
+            "curDate": "2018-08-15",
+            "green": false,
+            "tradeConsumeTotal": 11763
+          }
+        ]
+      },
+      {
+        "newTradeName": "竞拍",
+        "owner": "杨晓",
+        "target": 1.5,
+        "avg": 53667.43,
+        "green": true,
+        "consume": [
+          {
+            "curDate": "2018-08-09",
+            "green": true,
+            "tradeConsumeTotal": 88827
+          },
+          {
+            "curDate": "2018-08-10",
+            "green": true,
+            "tradeConsumeTotal": 56498
+          },
+          {
+            "curDate": "2018-08-11",
+            "green": true,
+            "tradeConsumeTotal": 26883
+          },
+          {
+            "curDate": "2018-08-12",
+            "green": true,
+            "tradeConsumeTotal": 59457
+          },
+          {
+            "curDate": "2018-08-13",
+            "green": true,
+            "tradeConsumeTotal": 41152
+          },
+          {
+            "curDate": "2018-08-14",
+            "green": true,
+            "tradeConsumeTotal": 61856
+          },
+          {
+            "curDate": "2018-08-15",
+            "green": true,
+            "tradeConsumeTotal": 40999
+          }
+        ]
+      },
+      {
+        "newTradeName": "电商平台",
+        "owner": "杨晓",
+        "target": 2.0,
+        "avg": 33163.29,
+        "green": true,
+        "consume": [
+          {
+            "curDate": "2018-08-09",
+            "green": true,
+            "tradeConsumeTotal": 37058
+          },
+          {
+            "curDate": "2018-08-10",
+            "green": true,
+            "tradeConsumeTotal": 37118
+          },
+          {
+            "curDate": "2018-08-11",
+            "green": true,
+            "tradeConsumeTotal": 39805
+          },
+          {
+            "curDate": "2018-08-12",
+            "green": true,
+            "tradeConsumeTotal": 39088
+          },
+          {
+            "curDate": "2018-08-13",
+            "green": true,
+            "tradeConsumeTotal": 27343
+          },
+          {
+            "curDate": "2018-08-14",
+            "green": true,
+            "tradeConsumeTotal": 30783
+          },
+          {
+            "curDate": "2018-08-15",
+            "green": true,
+            "tradeConsumeTotal": 20948
+          }
+        ]
+      },
+      {
+        "newTradeName": "应用分发",
+        "owner": "刘寿伟",
+        "target": 10.0,
+        "avg": 60921.29,
+        "green": false,
+        "consume": [
+          {
+            "curDate": "2018-08-09",
+            "green": false,
+            "tradeConsumeTotal": 72439
+          },
+          {
+            "curDate": "2018-08-10",
+            "green": true,
+            "tradeConsumeTotal": 157884
+          },
+          {
+            "curDate": "2018-08-11",
+            "green": false,
+            "tradeConsumeTotal": 8361
+          },
+          {
+            "curDate": "2018-08-12",
+            "green": false,
+            "tradeConsumeTotal": 6009
+          },
+          {
+            "curDate": "2018-08-13",
+            "green": false,
+            "tradeConsumeTotal": 11765
+          },
+          {
+            "curDate": "2018-08-14",
+            "green": false,
+            "tradeConsumeTotal": 52744
+          },
+          {
+            "curDate": "2018-08-15",
+            "green": true,
+            "tradeConsumeTotal": 117247
+          }
+        ]
+      },
+      {
+        "newTradeName": "游戏",
+        "owner": "郑涵文",
+        "target": 5.0,
+        "avg": 48932.86,
+        "green": false,
+        "consume": [
+          {
+            "curDate": "2018-08-09",
+            "green": false,
+            "tradeConsumeTotal": 33204
+          },
+          {
+            "curDate": "2018-08-10",
+            "green": false,
+            "tradeConsumeTotal": 33000
+          },
+          {
+            "curDate": "2018-08-11",
+            "green": false,
+            "tradeConsumeTotal": 38500
+          },
+          {
+            "curDate": "2018-08-12",
+            "green": false,
+            "tradeConsumeTotal": 27495
+          },
+          {
+            "curDate": "2018-08-13",
+            "green": true,
+            "tradeConsumeTotal": 53174
+          },
+          {
+            "curDate": "2018-08-14",
+            "green": true,
+            "tradeConsumeTotal": 83223
+          },
+          {
+            "curDate": "2018-08-15",
+            "green": true,
+            "tradeConsumeTotal": 73934
+          }
+        ]
+      },
+      {
+        "newTradeName": "会籍卡",
+        "owner": "杨晓",
+        "target": 3.0,
+        "avg": 16152.29,
+        "green": false,
+        "consume": [
+          {
+            "curDate": "2018-08-09",
+            "green": false,
+            "tradeConsumeTotal": 20108
+          },
+          {
+            "curDate": "2018-08-10",
+            "green": false,
+            "tradeConsumeTotal": 13294
+          },
+          {
+            "curDate": "2018-08-11",
+            "green": false,
+            "tradeConsumeTotal": 13751
+          },
+          {
+            "curDate": "2018-08-12",
+            "green": false,
+            "tradeConsumeTotal": 14636
+          },
+          {
+            "curDate": "2018-08-13",
+            "green": false,
+            "tradeConsumeTotal": 12800
+          },
+          {
+            "curDate": "2018-08-14",
+            "green": false,
+            "tradeConsumeTotal": 18235
+          },
+          {
+            "curDate": "2018-08-15",
+            "green": false,
+            "tradeConsumeTotal": 20242
+          }
+        ]
+      }
+    ],
+    "华东二部": [
+      {
+        "newTradeName": "货到付款",
+        "owner": "赵晨",
+        "target": 45.0,
+        "avg": 461108.0,
+        "green": true,
+        "consume": [
+          {
+            "curDate": "2018-08-09",
+            "green": true,
+            "tradeConsumeTotal": 508710
+          },
+          {
+            "curDate": "2018-08-10",
+            "green": true,
+            "tradeConsumeTotal": 504328
+          },
+          {
+            "curDate": "2018-08-11",
+            "green": false,
+            "tradeConsumeTotal": 405483
+          },
+          {
+            "curDate": "2018-08-12",
+            "green": false,
+            "tradeConsumeTotal": 384472
+          },
+          {
+            "curDate": "2018-08-13",
+            "green": false,
+            "tradeConsumeTotal": 440890
+          },
+          {
+            "curDate": "2018-08-14",
+            "green": true,
+            "tradeConsumeTotal": 496198
+          },
+          {
+            "curDate": "2018-08-15",
+            "green": true,
+            "tradeConsumeTotal": 487675
+          }
+        ]
+      }
+    ],
+    "金融行业": [
+      {
+        "newTradeName": "信用卡",
+        "owner": "金梦",
+        "target": 20.0,
+        "avg": 178407.0,
+        "green": false,
+        "consume": [
+          {
+            "curDate": "2018-08-09",
+            "green": true,
+            "tradeConsumeTotal": 231571
+          },
+          {
+            "curDate": "2018-08-10",
+            "green": true,
+            "tradeConsumeTotal": 246609
+          },
+          {
+            "curDate": "2018-08-11",
+            "green": false,
+            "tradeConsumeTotal": 153571
+          },
+          {
+            "curDate": "2018-08-12",
+            "green": false,
+            "tradeConsumeTotal": 163405
+          },
+          {
+            "curDate": "2018-08-13",
+            "green": false,
+            "tradeConsumeTotal": 151049
+          },
+          {
+            "curDate": "2018-08-14",
+            "green": false,
+            "tradeConsumeTotal": 154108
+          },
+          {
+            "curDate": "2018-08-15",
+            "green": false,
+            "tradeConsumeTotal": 148536
+          }
+        ]
+      },
+      {
+        "newTradeName": "贷款",
+        "owner": "魏鑫",
+        "target": 10.0,
+        "avg": 50142.71,
+        "green": false,
+        "consume": [
+          {
+            "curDate": "2018-08-09",
+            "green": false,
+            "tradeConsumeTotal": 55811
+          },
+          {
+            "curDate": "2018-08-10",
+            "green": false,
+            "tradeConsumeTotal": 54828
+          },
+          {
+            "curDate": "2018-08-11",
+            "green": false,
+            "tradeConsumeTotal": 42041
+          },
+          {
+            "curDate": "2018-08-12",
+            "green": false,
+            "tradeConsumeTotal": 45805
+          },
+          {
+            "curDate": "2018-08-13",
+            "green": false,
+            "tradeConsumeTotal": 53514
+          },
+          {
+            "curDate": "2018-08-14",
+            "green": false,
+            "tradeConsumeTotal": 51656
+          },
+          {
+            "curDate": "2018-08-15",
+            "green": false,
+            "tradeConsumeTotal": 47344
+          }
+        ]
+      },
+      {
+        "newTradeName": "保险",
+        "owner": "金梦",
+        "target": 12.0,
+        "avg": 114810.71,
+        "green": false,
+        "consume": [
+          {
+            "curDate": "2018-08-09",
+            "green": true,
+            "tradeConsumeTotal": 123467
+          },
+          {
+            "curDate": "2018-08-10",
+            "green": true,
+            "tradeConsumeTotal": 121328
+          },
+          {
+            "curDate": "2018-08-11",
+            "green": false,
+            "tradeConsumeTotal": 118547
+          },
+          {
+            "curDate": "2018-08-12",
+            "green": false,
+            "tradeConsumeTotal": 116556
+          },
+          {
+            "curDate": "2018-08-13",
+            "green": false,
+            "tradeConsumeTotal": 111149
+          },
+          {
+            "curDate": "2018-08-14",
+            "green": false,
+            "tradeConsumeTotal": 109464
+          },
+          {
+            "curDate": "2018-08-15",
+            "green": false,
+            "tradeConsumeTotal": 103164
+          }
+        ]
+      }
+    ]
+  }
+}

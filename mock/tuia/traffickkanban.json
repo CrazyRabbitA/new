@@ -1,0 +1,147 @@
+{
+  "success": true,
+  "errorCode": null,
+  "desc": null,
+  "data": {
+    "district": {
+      "chartQuery": {
+        "chartQuery": {
+          "id": 457,
+          "reportType": 2,
+          "queryName": "地区流量分布（子母表）",
+          "queryType": 1,
+          "queryTemp": "dws_media_app_city_activity_launch_di",
+          "databaseId": 3,
+          "typeEnum": "TABLE_CHART"
+        }
+      },
+      "data": {
+        "data": [
+          { "launch_count": 846166, "name": "北京 " },
+          { "launch_count": 652655, "name": "上海 " },
+          { "launch_count": 641367, "name": "重庆 " },
+          { "launch_count": 508310, "name": "天津 " },
+          { "launch_count": 465255, "name": "深圳 " },
+          { "launch_count": 353989, "name": "广州 " },
+          { "launch_count": 323038, "name": "成都 " },
+          { "launch_count": 307446, "name": "南京 " },
+          { "launch_count": 297121, "name": "东莞 " },
+          { "launch_count": 287325, "name": "石家庄 " },
+          { "launch_count": 278491, "name": "苏州 " },
+          { "launch_count": 209484, "name": "郑州 " },
+          { "launch_count": 206314, "name": "哈尔滨 " },
+          { "launch_count": 203738, "name": "保定 " },
+          { "launch_count": 203121, "name": "唐山 " },
+          { "launch_count": 187815, "name": "沈阳 " },
+          { "launch_count": 184839, "name": "无锡 " },
+          { "launch_count": 177805, "name": "徐州 " },
+          { "launch_count": 176648, "name": "杭州 " },
+          { "launch_count": 172650, "name": "邯郸 " }
+        ],
+        "total": { "launch_count": 19682838 }
+      },
+      "info": {
+        "kanbanType": "pie_chart",
+        "quota": null,
+        "time": { "startDate": "2018-07-18", "endDate": "2018-07-18" },
+        "dimensionDesc": "city",
+        "kanbanName": "地域流量分布-发券"
+      }
+    },
+    "systerm": {
+      "chartQuery": {
+        "chartQuery": {
+          "id": 453,
+          "reportType": 2,
+          "queryName": "媒体操作系统流量占比（子母表）",
+          "queryType": 1,
+          "queryTemp": "dws_app_slot_ua_di",
+          "databaseId": 3,
+          "typeEnum": "TABLE_CHART"
+        }
+      },
+      "data": {
+        "data": [
+          { "launch_num": 25294381, "name": "android " },
+          { "launch_num": 3231013, "name": "ios " },
+          { "launch_num": 22154, "name": "other " }
+        ],
+        "total": { "launch_num": 28547548 }
+      },
+      "info": {
+        "kanbanType": "pie_chart",
+        "quota": null,
+        "time": { "startDate": "2018-07-18", "endDate": "2018-07-18" },
+        "dimensionDesc": "ua",
+        "kanbanName": "操作系统分布-发券·"
+      }
+    },
+    "equip": {
+      "chartQuery": {
+        "chartQuery": {
+          "id": 458,
+          "reportType": 2,
+          "queryName": "设备品牌和价值（子母表）",
+          "queryType": 1,
+          "queryTemp": "dws_device_brand_name_price_section_di",
+          "databaseId": 3,
+          "typeEnum": "TABLE_CHART"
+        }
+      },
+      "data": {
+        "data": [
+          { "launch_pv": 7243920, "name": "其他价值区间 " },
+          { "launch_pv": 5235725, "name": "1100-1699 " },
+          { "launch_pv": 5131814, "name": "600-1099 " },
+          { "launch_pv": 3752590, "name": "1700-2699 " },
+          { "launch_pv": 3501869, "name": "2700-4499 " },
+          { "launch_pv": 3260475, "name": "4500+ " },
+          { "launch_pv": 449676, "name": "0-599 " }
+        ],
+        "total": { "launch_pv": 28576069 }
+      },
+      "info": {
+        "kanbanType": "pie_chart",
+        "quota": null,
+        "time": { "startDate": "2018-07-18", "endDate": "2018-07-18" },
+        "dimensionDesc": "price_section",
+        "kanbanName": "设备价值分布-发券"
+      }
+    },
+    "phonebrand": {
+      "chartQuery": {
+        "chartQuery": {
+          "id": 458,
+          "reportType": 2,
+          "queryName": "设备品牌和价值（子母表）",
+          "queryType": 1,
+          "queryTemp": "dws_device_brand_name_price_section_di",
+          "databaseId": 3,
+          "typeEnum": "TABLE_CHART"
+        }
+      },
+      "data": {
+        "data": [
+          { "launch_pv": 4955620, "name": "vivo " },
+          { "launch_pv": 4929905, "name": "OPPO " },
+          { "launch_pv": 3233427, "name": "苹果 " },
+          { "launch_pv": 3138598, "name": "华为 " },
+          { "launch_pv": 2544012, "name": "小米 " },
+          { "launch_pv": 2191098, "name": "荣耀 " },
+          { "launch_pv": 2081032, "name": "其他品牌 " },
+          { "launch_pv": 1580346, "name": "未知 " },
+          { "launch_pv": 1018402, "name": "乐视 " },
+          { "launch_pv": 925339, "name": "金立 " }
+        ],
+        "total": { "launch_pv": 28576069 }
+      },
+      "info": {
+        "kanbanType": "pie_chart",
+        "quota": null,
+        "time": { "startDate": "2018-07-18", "endDate": "2018-07-18" },
+        "dimensionDesc": "brand_name",
+        "kanbanName": "手机品牌分布-发券"
+      }
+    }
+  }
+}

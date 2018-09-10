@@ -1,0 +1,73 @@
+{
+  "success": true,
+  "errorCode": null,
+  "desc": "",
+  "data": {
+    "list": [
+      {
+        "id": 32,
+        "dimensionType": 1,
+        "appId": 0,
+        "appName": "",
+        "activityId": 0,
+        "activityTitle": "",
+        "slotId": 0,
+        "slotName": "",
+        "quota": 23,
+        "ruleType": 4,
+        "alertValue": 0.25,
+        "timeSlice": [],
+        "timeNode": [
+          "0-23"
+        ],
+        "alertCount": 0,
+        "dimensionTypeEnum": "APP",
+        "quotoType": "ADVERT_FEE",
+        "ruleTypeEnum": "YES_DUR_FALL_PERCENTAGE"
+      },
+      {
+        "id": 34,
+        "dimensionType": 1,
+        "appId": 0,
+        "appName": "",
+        "activityId": 0,
+        "activityTitle": "",
+        "slotId": 0,
+        "slotName": "",
+        "quota": 23,
+        "ruleType": 9,
+        "alertValue": 0.24,
+        "timeSlice": [],
+        "timeNode": [
+          "0-23"
+        ],
+        "alertCount": 0,
+        "dimensionTypeEnum": "APP",
+        "quotoType": "ADVERT_FEE",
+        "ruleTypeEnum": "LAST_WEEK_RISE_PERCENTAGE"
+      },
+      {
+        "id": 35,
+        "dimensionType": 1,
+        "appId": 0,
+        "appName": "",
+        "activityId": 0,
+        "activityTitle": "",
+        "slotId": 0,
+        "slotName": "",
+        "quota": 23,
+        "ruleType": 10,
+        "alertValue": 88.0,
+        "timeSlice": [],
+        "timeNode": [
+          "0-23"
+        ],
+        "alertCount": 0,
+        "dimensionTypeEnum": "APP",
+        "quotoType": "ADVERT_FEE",
+        "ruleTypeEnum": "LAST_WEEK_FALL_PERCENTAGE"
+      }
+    ],
+    "total": 8
+  }
+}

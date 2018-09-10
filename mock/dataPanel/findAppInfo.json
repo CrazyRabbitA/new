@@ -1,0 +1,10 @@
+{
+  "data": {
+    "appId": 0,
+    "appName": "string",
+    "mediaId": 0
+  },
+  "desc": "string",
+  "errorCode": "string",
+  "success": true
+}

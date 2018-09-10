@@ -1,0 +1,87 @@
+{
+  "success": true,
+  "errorCode": null,
+  "desc": null,
+  "data": {
+    "count": 10,
+    "collect": {
+      "curDate": "汇总数据",
+      "login": 62158,
+      "inroom": 171349,
+      "finish": 70975,
+      "again": 46194
+    },
+    "table": [
+      {
+        "curDate": "2017-11-01",
+        "login": 2655,
+        "inroom": 6592,
+        "finish": 3563,
+        "again": 2514
+      },
+      {
+        "curDate": "2017-11-02",
+        "login": 2924,
+        "inroom": 7769,
+        "finish": 3656,
+        "again": 2543
+      },
+      {
+        "curDate": "2017-11-03",
+        "login": 3388,
+        "inroom": 8232,
+        "finish": 4672,
+        "again": 3344
+      },
+      {
+        "curDate": "2017-11-04",
+        "login": 3837,
+        "inroom": 8683,
+        "finish": 4519,
+        "again": 3057
+      },
+      {
+        "curDate": "2017-11-05",
+        "login": 3837,
+        "inroom": 8854,
+        "finish": 4307,
+        "again": 2857
+      },
+      {
+        "curDate": "2017-11-06",
+        "login": 12533,
+        "inroom": 41857,
+        "finish": 13113,
+        "again": 7569
+      },
+      {
+        "curDate": "2017-11-07",
+        "login": 15146,
+        "inroom": 45184,
+        "finish": 15063,
+        "again": 8877
+      },
+      {
+        "curDate": "2017-11-08",
+        "login": 6152,
+        "inroom": 14735,
+        "finish": 7285,
+        "again": 4817
+      },
+      {
+        "curDate": "2017-11-09",
+        "login": 5619,
+        "inroom": 13981,
+        "finish": 7391,
+        "again": 5223
+      },
+      {
+        "curDate": "2017-11-10",
+        "login": 6067,
+        "inroom": 15462,
+        "finish": 7406,
+        "again": 5393
+      }
+    ]
+  }
+}

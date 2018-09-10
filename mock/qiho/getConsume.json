@@ -1,0 +1,15 @@
+{
+  "data": {
+    "id": 18,
+    "advertId": 1,
+    "advertName": "广告计划",
+    "alarmName": "消耗",
+    "playdayAlert": 1.00,
+    "playdayOutlier": 2.00,
+    "workdayAlert": 3.00,
+    "workdayOutlier": 2.011
+  },
+  "desc": "string",
+  "errorCode": "string",
+  "success": true
+}

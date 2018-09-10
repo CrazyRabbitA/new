@@ -1,0 +1,109 @@
+{
+  "success": true,
+  "errorCode": null,
+  "desc": null,
+  "data": {
+    "count": 100,
+    "collect": {
+      "curDate": "汇总",
+      "launch": 1947776,
+      "click": 575460,
+      "login": 37519,
+      "inroom": 136845,
+      "finish": 59536,
+      "charge": 1533
+    },
+    "table": [
+      {
+        "curDate": "2017-11-20",
+        "launch": 82109,
+        "click": 30892,
+        "login": 1938,
+        "inroom": 5879,
+        "finish": 3524,
+        "charge": 96
+      },
+      {
+        "curDate": "2017-11-21",
+        "launch": 102154,
+        "click": 34635,
+        "login": 1823,
+        "inroom": 6189,
+        "finish": 3307,
+        "charge": 87
+      },
+      {
+        "curDate": "2017-11-22",
+        "launch": 99572,
+        "click": 30702,
+        "login": 2099,
+        "inroom": 6602,
+        "finish": 4209,
+        "charge": 120
+      },
+      {
+        "curDate": "2017-11-23",
+        "launch": 165595,
+        "click": 40619,
+        "login": 2265,
+        "inroom": 6952,
+        "finish": 3819,
+        "charge": 78
+      },
+      {
+        "curDate": "2017-11-24",
+        "launch": 104407,
+        "click": 30712,
+        "login": 2143,
+        "inroom": 6522,
+        "finish": 3610,
+        "charge": 89
+      },
+      {
+        "curDate": "2017-11-25",
+        "launch": 497469,
+        "click": 165210,
+        "login": 8984,
+        "inroom": 38631,
+        "finish": 12262,
+        "charge": 304
+      },
+      {
+        "curDate": "2017-11-26",
+        "launch": 487312,
+        "click": 164341,
+        "login": 10140,
+        "inroom": 38186,
+        "finish": 13076,
+        "charge": 384
+      },
+      {
+        "curDate": "2017-11-27",
+        "launch": 138647,
+        "click": 26582,
+        "login": 2397,
+        "inroom": 7990,
+        "finish": 4574,
+        "charge": 120
+      },
+      {
+        "curDate": "2017-11-28",
+        "launch": 131706,
+        "click": 26350,
+        "login": 2639,
+        "inroom": 8922,
+        "finish": 5483,
+        "charge": 122
+      },
+      {
+        "curDate": "2017-11-29",
+        "launch": 138805,
+        "click": 25417,
+        "login": 3091,
+        "inroom": 10972,
+        "finish": 5672,
+        "charge": 133
+      }
+    ]
+  }
+}

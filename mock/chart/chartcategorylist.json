@@ -1,0 +1,336 @@
+{
+  "success": true,
+  "errorCode": null,
+  "desc": null,
+  "data": {
+    "id": 1,
+    "categoryName": "报表管理",
+    "list": [
+      {
+        "id": 3,
+        "categoryName": "推啊",
+        "list": [
+          {
+            "id": 15,
+            "categoryName": "大盘数据",
+            "list": [],
+            "queryList": [
+              {
+                "chartQueryId": 112,
+                "queryName": "推啊大盘（总）",
+                "isCheck": true
+              },
+              {
+                "chartQueryId": 113,
+                "queryName": "推啊大盘-SDK",
+                "isCheck": true
+              },
+              {
+                "chartQueryId": 128,
+                "queryName": "离线折线图-测试03",
+                "isCheck": true
+              },
+              {
+                "chartQueryId": 132,
+                "queryName": "推啊大盘-手动投放",
+                "isCheck": true
+              },
+              {
+                "chartQueryId": 134,
+                "queryName": "实时测试",
+                "isCheck": true
+              },
+              {
+                "chartQueryId": 135,
+                "queryName": "下拉框测试",
+                "isCheck": true
+              },
+              {
+                "chartQueryId": 147,
+                "queryName": "实时折线图测试-1",
+                "isCheck": true
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "categoryName": "媒体运营",
+            "list": [],
+            "queryList": [
+              {
+                "chartQueryId": 78,
+                "queryName": "媒体标签消耗发券占比数据",
+                "isCheck": true
+              },
+              {
+                "chartQueryId": 104,
+                "queryName": "媒体每日免费发券占比",
+                "isCheck": true
+              }
+            ]
+          },
+          {
+            "id": 6,
+            "categoryName": "广告运营",
+            "list": [],
+            "queryList": [
+              {
+                "chartQueryId": 40,
+                "queryName": "媒体质量评分",
+                "isCheck": true
+              },
+              {
+                "chartQueryId": 126,
+                "queryName": "KA广告成本日报",
+                "isCheck": true
+              },
+              {
+                "chartQueryId": 127,
+                "queryName": "KA广告流量波动日报",
+                "isCheck": true
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "categoryName": "活动运营",
+            "list": [],
+            "queryList": [
+              {
+                "chartQueryId": 56,
+                "queryName": "策划人广告位直投活动TOP10",
+                "isCheck": true
+              },
+              {
+                "chartQueryId": 84,
+                "queryName": "单个浮标数据",
+                "isCheck": true
+              },
+              {
+                "chartQueryId": 105,
+                "queryName": "单天浮标数据",
+                "isCheck": true
+              },
+              {
+                "chartQueryId": 106,
+                "queryName": "推荐弹层数据",
+                "isCheck": true
+              },
+              {
+                "chartQueryId": 140,
+                "queryName": "浮标数据（广告位维度）",
+                "isCheck": true
+              }
+            ]
+          },
+          {
+            "id": 7,
+            "categoryName": "风控运营",
+            "list": [],
+            "queryList": [
+              {
+                "chartQueryId": 70,
+                "queryName": "防作弊明细-IP维度",
+                "isCheck": true
+              },
+              {
+                "chartQueryId": 71,
+                "queryName": "防作弊明细-设备ID维度",
+                "isCheck": true
+              },
+              {
+                "chartQueryId": 72,
+                "queryName": "防作弊明细-user_agent维度",
+                "isCheck": true
+              },
+              {
+                "chartQueryId": 74,
+                "queryName": "防作弊明细-用户维度",
+                "isCheck": true
+              },
+              {
+                "chartQueryId": 93,
+                "queryName": "广告位风控表（宽表）",
+                "isCheck": true
+              },
+              {
+                "chartQueryId": 108,
+                "queryName": "【准实时】广告位四把尺子",
+                "isCheck": true
+              },
+              {
+                "chartQueryId": 115,
+                "queryName": "表C：广告位作弊消耗表",
+                "isCheck": true
+              },
+              {
+                "chartQueryId": 116,
+                "queryName": "表I：广告位-广告点击率",
+                "isCheck": true
+              },
+              {
+                "chartQueryId": 117,
+                "queryName": "【准实时】广告位作弊数据",
+                "isCheck": true
+              },
+              {
+                "chartQueryId": 118,
+                "queryName": "表E：用户规则数据表",
+                "isCheck": true
+              },
+              {
+                "chartQueryId": 119,
+                "queryName": "表D：广告位风控表（新宽表）",
+                "isCheck": true
+              },
+              {
+                "chartQueryId": 120,
+                "queryName": "表J：广告位-广告转化率",
+                "isCheck": true
+              },
+              {
+                "chartQueryId": 121,
+                "queryName": "广告位-规则-ip段维度明细表",
+                "isCheck": true
+              },
+              {
+                "chartQueryId": 122,
+                "queryName": "广告位-规则-ip维度明细表",
+                "isCheck": true
+              },
+              {
+                "chartQueryId": 123,
+                "queryName": "广告位-规则-user_agent维度明细表",
+                "isCheck": true
+              },
+              {
+                "chartQueryId": 124,
+                "queryName": "广告位-规则-用户维度明细表",
+                "isCheck": true
+              },
+              {
+                "chartQueryId": 125,
+                "queryName": "广告位-规则-设备id维度明细表",
+                "isCheck": true
+              }
+            ]
+          }
+        ],
+        "queryList": []
+      },
+      {
+        "id": 10,
+        "categoryName": "娃娃机",
+        "list": [
+          {
+            "id": 13,
+            "categoryName": "推啊娃娃机广告投放",
+            "list": [],
+            "queryList": []
+          },
+          {
+            "id": 11,
+            "categoryName": "核心数据表",
+            "list": [],
+            "queryList": [
+              {
+                "chartQueryId": 130,
+                "queryName": "每日大盘收益表",
+                "isCheck": false
+              },
+              {
+                "chartQueryId": 131,
+                "queryName": "日活版本覆盖表",
+                "isCheck": false
+              },
+              {
+                "chartQueryId": 137,
+                "queryName": "留存数据表",
+                "isCheck": false
+              },
+              {
+                "chartQueryId": 145,
+                "queryName": "娃娃机—用户ROI数据",
+                "isCheck": false
+              },
+              {
+                "chartQueryId": 148,
+                "queryName": "娃娃每日受欢迎表",
+                "isCheck": false
+              },
+              {
+                "chartQueryId": 149,
+                "queryName": "用户累计充值行为表",
+                "isCheck": false
+              }
+            ]
+          },
+          {
+            "id": 12,
+            "categoryName": "获客渠道概况",
+            "list": [],
+            "queryList": []
+          }
+        ],
+        "queryList": []
+      },
+      {
+        "id": 8,
+        "categoryName": "有粉",
+        "list": [
+          {
+            "id": 9,
+            "categoryName": "有粉",
+            "list": [],
+            "queryList": [
+              {
+                "chartQueryId": 94,
+                "queryName": "有粉公众号关注粉丝",
+                "isCheck": true
+              }
+            ]
+          }
+        ],
+        "queryList": []
+      },
+      {
+        "id": 2,
+        "categoryName": "兑吧",
+        "list": [
+          {
+            "id": 14,
+            "categoryName": "积分商城",
+            "list": [],
+            "queryList": [
+              {
+                "chartQueryId": 109,
+                "queryName": "积分商城活动",
+                "isCheck": true
+              },
+              {
+                "chartQueryId": 110,
+                "queryName": "积分商城活动&媒体",
+                "isCheck": true
+              }
+            ]
+          }
+        ],
+        "queryList": []
+      },
+      {
+        "id": -1,
+        "categoryName": "其他",
+        "list": [
+          {
+            "id": -2,
+            "categoryName": "未分类",
+            "list": [],
+            "queryList": []
+          }
+        ],
+        "queryList": []
+      }
+    ],
+    "queryList": []
+  }
+}

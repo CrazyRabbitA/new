@@ -1,0 +1,55 @@
+.tree {
+  width: 100%;
+  margin: 5px 0;
+  overflow: auto;
+  max-height: 500px;
+  position: relative;
+  border: 1px solid #ddd;
+  .box {
+    position: absolute;
+    top: 0;
+    right: 0;
+  }
+  li {
+    position: relative;
+    border-bottom: 1px solid #ddd;
+    line-height: 40px;
+    &:last-child {
+      border-bottom: 0;
+    }
+  }
+  p {
+    line-height: 20px;
+    position: relative;
+    height: 20px;
+    padding: 0px 2px;
+    color: #797979;
+    padding-left: 18px;
+    font-size: 14px;
+    display: inline-block;
+    white-space: nowrap;
+    cursor: pointer;
+    .iconhandle {
+      width: 16px;
+      height: 16px;
+      cursor: pointer;
+      color: #797979;
+      position: absolute;
+      top: 0;
+      left: 2px;
+    }
+  }
+}
+.child{
+  position: relative;
+  border-top: 1px solid #ddd;
+  li {
+    position: relative;
+    white-space: nowrap;
+    border-bottom: 1px solid #ddd;
+    padding-left: 16px;
+    &:last-child{
+      border-bottom: 0px solid #ddd;
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "errorCode": null,
+  "desc": null,
+  "data": {
+    "id": 17,
+    "advertId": 1,
+    "alarmName": "CPA放量",
+    "cpaCur": 111,
+    "cpaUpper": 111,
+    "cpaLower": 111,
+    "stableConsume": 111,
+    "allowFluctuateUpper": 111,
+    "investPreset": 111,
+    "investActual": 5.2,
+    "investPercent": 111
+  }
+}

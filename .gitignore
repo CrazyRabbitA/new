@@ -1,0 +1,10 @@
+node_modules/
+npm-debug.log
+static/test/unit/coverage
+static/test/e2e/reports
+.build
+dist
+.happypack
+uploads
+package-lock.json
+.vscode

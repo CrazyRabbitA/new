@@ -1,0 +1,95 @@
+{
+  "success": true,
+  "errorCode": null,
+  "desc": null,
+  "data": {
+    "queryEntity": {
+      "id": 21,
+      "reportType": 2,
+      "queryName": "测试子母表",
+      "queryType": 1,
+      "queryTemp": "tb_app_info",
+      "databaseId": 1,
+      "typeEnum": "TABLE_CHART"
+    },
+    "searchEntity": [
+      {
+        "id": 1,
+        "chartQueryId": 21,
+        "columnTitle": "imei",
+        "operatorType": 8,
+        "searchName": "imei",
+        "labelName": "IMEI",
+        "searchOrder": 1,
+        "searchType": 2,
+        "defaultType": 3,
+        "defaultValue": "",
+        "extInfo": ""
+      }
+    ],
+    "columnEntity": [
+      {
+        "id": 1,
+        "chartQueryId": 21,
+        "columnOrder": 1,
+        "columnTitle": "id",
+        "alias": "ID",
+        "formatType": 1,
+        "selectType": 1
+      },
+      {
+        "id": 2,
+        "chartQueryId": 21,
+        "columnOrder": 2,
+        "columnTitle": "imei",
+        "alias": "IMEI",
+        "formatType": 1,
+        "selectType": 1
+      },
+      {
+        "id": 3,
+        "chartQueryId": 21,
+        "columnOrder": 3,
+        "columnTitle": "idfa",
+        "alias": "IDAF",
+        "formatType": 1,
+        "selectType": 1
+      },
+      {
+        "id": 4,
+        "chartQueryId": 21,
+        "columnOrder": 4,
+        "columnTitle": "app_list_run",
+        "alias": "APP_LIST_RUN",
+        "formatType": 1,
+        "selectType": 1
+      },
+      {
+        "id": 5,
+        "chartQueryId": 21,
+        "columnOrder": 5,
+        "columnTitle": "app_list_pkg",
+        "alias": "APP_LIST_PKG",
+        "formatType": 1,
+        "selectType": 1
+      },
+      {
+        "id": 6,
+        "chartQueryId": 21,
+        "columnOrder": 6,
+        "columnTitle": "gmt_create",
+        "alias": "GMT_CREATE",
+        "formatType": 1,
+        "selectType": 1
+      }
+    ],
+    "categoryRelEntity": {
+      "id": 4,
+      "categoryName": "媒体运营",
+      "parentId": 2
+    },
+    "chartExt": {
+      "chartQueryId": null
+    }
+  }
+}

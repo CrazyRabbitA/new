@@ -1,0 +1,25 @@
+{
+  "data": {
+    "list": [
+      {
+        "id": 0,
+        "leaderId": 0,
+        "leaderName": "string",
+        "memberIds": "string",
+        "members": [
+          {
+            "aeId": 2,
+            "aeName": "吴xx",
+            "aeRole": 1,
+            "id": 0,
+            "state": "string"
+          }
+        ]
+      }
+    ],
+    "total": 20
+  },
+  "desc": "string",
+  "errorCode": "string",
+  "success": true
+}

@@ -1,0 +1,56 @@
+{
+  "success": true,
+  "errorCode": null,
+  "desc": null,
+  "data": [
+    {
+      "id": 9,
+      "dimensionType": 1,
+      "appId": 20856,
+      "appName": "学生赚",
+      "activityId": 0,
+      "activityTitle": "",
+      "slotId": 0,
+      "slotName": "",
+      "timeSlice": [1,2],
+      "last7": 20,
+      "effectTime":[
+        "00-05",
+        "00-03"
+      ],
+      "quota": 23,
+      "ruleType": 1,
+      "alertValue": 0.7,
+      "extId": 0,
+      "isDelete": 0,
+      "gmtCreate": 1503369963000,
+      "gmtModified": 1503369963000,
+      "quotoType": "ADVERT_FEE",
+      "ruleTypeEnum": "YES_DUR_RISE_PERCENTAGE"
+    },  {
+      "id": 9,
+      "dimensionType": 1,
+      "appId": 20856,
+      "appName": "学生赚",
+      "activityId": 0,
+      "activityTitle": "",
+      "slotId": 0,
+      "slotName": "",
+      "timeSlice": [1,2,3],
+      "last7": 20,
+      "effectTime":[
+        "00-05",
+        "00-03"
+      ],
+      "quota": 23,
+      "ruleType": 1,
+      "alertValue": 0.7,
+      "extId": 0,
+      "isDelete": 0,
+      "gmtCreate": 1503369963000,
+      "gmtModified": 1503369963000,
+      "quotoType": "ADVERT_FEE",
+      "ruleTypeEnum": "YES_DUR_RISE_PERCENTAGE"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+    "data": {
+        "table": [
+            {
+                "curDate": "2001-01-01",
+                "activityName": "三体",
+                "appId": 1,
+                "accessPv": 1,
+                "accessUv": 1,
+                "province": "恒纪元",
+                "city": "自然选择号"
+            }
+        ],
+        "count": 1,
+        "todPoint": {
+            "00:00": {
+                "accessPv": 1,
+                "accessUv": 1
+            }
+        },
+        "yesPoint": {
+            "00:00": {
+                "accessPv": 1,
+                "accessUv": 1
+            }
+        },
+        "extPoint": {
+            "00:00": {
+                "accessPv": 1,
+                "accessUv": 1
+            }
+        }
+    },
+    "desc": "string",
+    "errorCode": "string",
+    "success": true
+}

@@ -1,0 +1,82 @@
+{
+  "success": true,
+  "errorCode": null,
+  "desc": null,
+  "data": {
+    "id": 2,
+    "dashboardName": "test",
+    "biz": 2,
+    "chartList": [
+      {
+        "id": 46,
+        "dashboardId": 11,
+        "chartQueryId": 332,
+        "queryName": "周平均留存数据",
+        "chartOrder": 0
+      },
+      {
+        "id": 47,
+        "dashboardId": 11,
+        "chartQueryId": 334,
+        "queryName": "周平均活跃数据",
+        "chartOrder": 1
+      },
+      {
+        "id": 48,
+        "dashboardId": 11,
+        "chartQueryId": 179,
+        "queryName": "主会场每日汇总",
+        "chartOrder": 2
+      },
+      {
+        "id": 49,
+        "dashboardId": 11,
+        "chartQueryId": 180,
+        "queryName": "主会场流量来源（APP）",
+        "chartOrder": 3
+      },
+      {
+        "id": 50,
+        "dashboardId": 11,
+        "chartQueryId": 181,
+        "queryName": "主会场流量来源点击率(APP)",
+        "chartOrder": 4
+      },
+      {
+        "id": 51,
+        "dashboardId": 11,
+        "chartQueryId": 182,
+        "queryName": "分会场每日汇总",
+        "chartOrder": 5
+      },
+      {
+        "id": 52,
+        "dashboardId": 11,
+        "chartQueryId": 183,
+        "queryName": "主会场流量来源点击率",
+        "chartOrder": 6
+      },
+      {
+        "id": 53,
+        "dashboardId": 11,
+        "chartQueryId": 184,
+        "queryName": "主会场数据(APP)",
+        "chartOrder": 7
+      },
+      {
+        "id": 54,
+        "dashboardId": 11,
+        "chartQueryId": 187,
+        "queryName": "分会场数据(APP)",
+        "chartOrder": 8
+      },
+      {
+        "id": 55,
+        "dashboardId": 11,
+        "chartQueryId": 188,
+        "queryName": "主会场流量来源汇总",
+        "chartOrder": 9
+      }
+    ]
+  }
+}

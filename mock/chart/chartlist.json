@@ -1,0 +1,52 @@
+{
+  "success": true,
+  "errorCode": null,
+  "desc": null,
+  "data": {
+    "table": [
+      {
+        "id": 1,
+        "queryName": "test",
+        "queryType": 1,
+        "queryTemp": "SELECT * FROM ab_user WHERE id = #{id}",
+        "databaseId": 1
+      },
+      {
+        "id": 2,
+        "queryName": "testsdfdjgkfhfhjoihjgoihjgoihjogihjoig",
+        "queryType": 1,
+        "queryTemp": "SELECT * FROM ab_user WHERE id = #{id}",
+        "databaseId": 1
+      },
+      {
+        "id": 2,
+        "queryName": "test",
+        "queryType": 1,
+        "queryTemp": "SELECT * FROM ab_user WHERE id = #{id}",
+        "databaseId": 1
+      },
+      {
+        "id": 2,
+        "queryName": "test",
+        "queryType": 1,
+        "queryTemp": "SELECT * FROM ab_user WHERE id = #{id}",
+        "databaseId": 1
+      },
+      {
+        "id": 2,
+        "queryName": "test",
+        "queryType": 1,
+        "queryTemp": "SELECT * FROM ab_user WHERE id = #{id}",
+        "databaseId": 1
+      },
+      {
+        "id": 2,
+        "queryName": "test",
+        "queryType": 1,
+        "queryTemp": "SELECT * FROM ab_user WHERE id = #{id}",
+        "databaseId": 1
+      }
+    ],
+    "count": 44
+  }
+}

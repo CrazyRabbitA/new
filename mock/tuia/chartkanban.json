@@ -1,0 +1,1008 @@
+{
+  "success": true,
+  "errorCode": null,
+  "desc": null,
+  "data": {
+    "agent": {
+      "columns": [
+        {
+          "id": 195,
+          "chartQueryId": 446,
+          "columnOrder": 3,
+          "columnTitle": "account_type",
+          "alias": "帐号类型",
+          "formatType": 1,
+          "selectType": 2
+        },
+        {
+          "id": 232,
+          "chartQueryId": 446,
+          "columnOrder": 40,
+          "columnTitle": "ad_consume",
+          "alias": "消耗（元）",
+          "formatType": 3,
+          "selectType": 1
+        }
+      ],
+      "dimension": [
+        {
+          "id": 195,
+          "chartQueryId": 446,
+          "columnOrder": 3,
+          "columnTitle": "account_type",
+          "alias": "帐号类型",
+          "formatType": 1,
+          "selectType": 2
+        }
+      ],
+      "data": {
+        "data": [
+          {
+            "account_type": "代理",
+            "ad_consume": 669262.35
+          },
+          {
+            "account_type": "直客",
+            "ad_consume": 192642.31
+          }
+        ]
+      },
+      "chartQuery": {
+        "id": 446,
+        "reportType": 2,
+        "queryName": "媒体&广告位数据（子母表、看板）",
+        "queryType": 1,
+        "queryTemp": "dws_app_slot_board_di",
+        "databaseId": 15,
+        "typeEnum": "TABLE_CHART"
+      },
+      "search": [
+        {
+          "id": 95,
+          "chartQueryId": 446,
+          "columnTitle": "cur_date",
+          "operatorType": 5,
+          "searchName": "startdate",
+          "labelName": "日期",
+          "searchOrder": 1,
+          "searchType": 1,
+          "defaultType": 2,
+          "defaultValue": "2018-06-20",
+          "extInfo": ""
+        },
+        {
+          "id": 98,
+          "chartQueryId": 446,
+          "columnTitle": "app_id",
+          "operatorType": 1,
+          "searchName": "app_id",
+          "labelName": "媒体ID",
+          "searchOrder": 5,
+          "searchType": 2,
+          "defaultType": 3,
+          "defaultValue": "",
+          "extInfo": ""
+        },
+        {
+          "id": 100,
+          "chartQueryId": 446,
+          "columnTitle": "slot_id",
+          "operatorType": 1,
+          "searchName": "slot_id",
+          "labelName": "广告位ID",
+          "searchOrder": 7,
+          "searchType": 2,
+          "defaultType": 3,
+          "defaultValue": "",
+          "extInfo": ""
+        },
+        {
+          "id": 110,
+          "chartQueryId": 446,
+          "columnTitle": "cur_date",
+          "operatorType": 6,
+          "searchName": "enddate",
+          "labelName": "结束日期",
+          "searchOrder": 17,
+          "searchType": 1,
+          "defaultType": 2,
+          "defaultValue": "2018-06-23",
+          "extInfo": ""
+        }
+      ],
+      "visibleColumns": [
+        {
+          "id": 195,
+          "chartQueryId": 446,
+          "columnOrder": 3,
+          "columnTitle": "account_type",
+          "alias": "帐号类型",
+          "formatType": 1,
+          "selectType": 2
+        },
+        {
+          "id": 232,
+          "chartQueryId": 446,
+          "columnOrder": 40,
+          "columnTitle": "ad_consume",
+          "alias": "消耗（元）",
+          "formatType": 3,
+          "selectType": 1
+        }
+      ],
+      "kanbanType": "pie_chart",
+      "kanbanName": "代理/直客消耗占比"
+    },
+    "adconsume": {
+      "data": {
+        "value": {
+          "2018-06-20": [],
+          "2018-06-21": [
+            {
+              "cur_date": "2018-06-21",
+              "tag1": "",
+              "tag2": "",
+              "ad_consume": 1306.4
+            },
+            {
+              "cur_date": "2018-06-21",
+              "tag1": "wifi类",
+              "tag2": "wifi工具",
+              "ad_consume": 38204.75
+            },
+            {
+              "cur_date": "2018-06-21",
+              "tag1": "交通导航",
+              "tag2": "公交地铁",
+              "ad_consume": 1367.19
+            },
+            {
+              "cur_date": "2018-06-21",
+              "tag1": "其他",
+              "tag2": "营业厅",
+              "ad_consume": 86.9
+            },
+            {
+              "cur_date": "2018-06-21",
+              "tag1": "医疗健康",
+              "tag2": "运动健康",
+              "ad_consume": 73702.16
+            },
+            {
+              "cur_date": "2018-06-21",
+              "tag1": "在线阅读",
+              "tag2": "在线阅读",
+              "ad_consume": 3.31
+            },
+            {
+              "cur_date": "2018-06-21",
+              "tag1": "工具类",
+              "tag2": "在线支付",
+              "ad_consume": 409930.21
+            },
+            {
+              "cur_date": "2018-06-21",
+              "tag1": "工具类",
+              "tag2": "网络电话",
+              "ad_consume": 21.24
+            },
+            {
+              "cur_date": "2018-06-21",
+              "tag1": "搞笑娱乐",
+              "tag2": "星座占卜",
+              "ad_consume": 1190.93
+            },
+            {
+              "cur_date": "2018-06-21",
+              "tag1": "游戏类",
+              "tag2": "休闲类",
+              "ad_consume": 1139.47
+            },
+            {
+              "cur_date": "2018-06-21",
+              "tag1": "生活实用",
+              "tag2": "天气类",
+              "ad_consume": 293.36
+            },
+            {
+              "cur_date": "2018-06-21",
+              "tag1": "生活实用",
+              "tag2": "日历类",
+              "ad_consume": 30815.13
+            },
+            {
+              "cur_date": "2018-06-21",
+              "tag1": "生活实用",
+              "tag2": "生活服务",
+              "ad_consume": 8.67
+            },
+            {
+              "cur_date": "2018-06-21",
+              "tag1": "网赚类",
+              "tag2": "网赚类",
+              "ad_consume": 4248.11
+            },
+            {
+              "cur_date": "2018-06-21",
+              "tag1": "视频播放",
+              "tag2": "在线视频",
+              "ad_consume": 138908.04
+            },
+            {
+              "cur_date": "2018-06-21",
+              "tag1": "资讯类",
+              "tag2": "娱乐资讯",
+              "ad_consume": 385.6
+            },
+            {
+              "cur_date": "2018-06-21",
+              "tag1": "资讯类",
+              "tag2": "网赚资讯",
+              "ad_consume": 80114.23
+            },
+            {
+              "cur_date": "2018-06-21",
+              "tag1": "运营商",
+              "tag2": "区域运营商",
+              "ad_consume": 27814.5
+            },
+            {
+              "cur_date": "2018-06-21",
+              "tag1": "音频娱乐",
+              "tag2": "音乐",
+              "ad_consume": 41608.43
+            }
+          ],
+          "2018-06-22": [
+            {
+              "cur_date": "2018-06-22",
+              "tag1": "",
+              "tag2": "",
+              "ad_consume": 1291.04
+            },
+            {
+              "cur_date": "2018-06-22",
+              "tag1": "交通导航",
+              "tag2": "公交地铁",
+              "ad_consume": 1438.52
+            },
+            {
+              "cur_date": "2018-06-22",
+              "tag1": "其他",
+              "tag2": "营业厅",
+              "ad_consume": 62.09
+            },
+            {
+              "cur_date": "2018-06-22",
+              "tag1": "在线阅读",
+              "tag2": "在线阅读",
+              "ad_consume": 1.88
+            },
+            {
+              "cur_date": "2018-06-22",
+              "tag1": "工具类",
+              "tag2": "其他",
+              "ad_consume": 361.86
+            },
+            {
+              "cur_date": "2018-06-22",
+              "tag1": "工具类",
+              "tag2": "网络电话",
+              "ad_consume": 56.81
+            },
+            {
+              "cur_date": "2018-06-22",
+              "tag1": "搞笑娱乐",
+              "tag2": "星座占卜",
+              "ad_consume": 1485.06
+            },
+            {
+              "cur_date": "2018-06-22",
+              "tag1": "游戏类",
+              "tag2": "休闲类",
+              "ad_consume": 1228.29
+            },
+            {
+              "cur_date": "2018-06-22",
+              "tag1": "生活实用",
+              "tag2": "生活服务",
+              "ad_consume": 16.48
+            },
+            {
+              "cur_date": "2018-06-22",
+              "tag1": "网赚类",
+              "tag2": "网赚类",
+              "ad_consume": 4439.6
+            },
+            {
+              "cur_date": "2018-06-22",
+              "tag1": "资讯类",
+              "tag2": "娱乐资讯",
+              "ad_consume": 374.4
+            },
+            {
+              "cur_date": "2018-06-22",
+              "tag1": "资讯类",
+              "tag2": "新闻资讯",
+              "ad_consume": 0
+            }
+          ],
+          "2018-06-23": []
+        },
+        "quota": [
+          "ad_consume",
+          "tag1",
+          "tag2"
+        ],
+        "tableType": "line_chart"
+      },
+      "chartQuery": {
+        "id": 446,
+        "reportType": 2,
+        "queryName": "媒体&广告位数据（子母表、看板）",
+        "queryType": 1,
+        "queryTemp": "dws_app_slot_board_di",
+        "databaseId": 15,
+        "typeEnum": "TABLE_CHART"
+      },
+      "search": [
+        {
+          "id": 95,
+          "chartQueryId": 446,
+          "columnTitle": "cur_date",
+          "operatorType": 5,
+          "searchName": "startdate",
+          "labelName": "日期",
+          "searchOrder": 1,
+          "searchType": 1,
+          "defaultType": 2,
+          "defaultValue": "2018-06-20",
+          "extInfo": ""
+        },
+        {
+          "id": 98,
+          "chartQueryId": 446,
+          "columnTitle": "app_id",
+          "operatorType": 1,
+          "searchName": "app_id",
+          "labelName": "媒体ID",
+          "searchOrder": 5,
+          "searchType": 2,
+          "defaultType": 3,
+          "defaultValue": "",
+          "extInfo": ""
+        },
+        {
+          "id": 100,
+          "chartQueryId": 446,
+          "columnTitle": "slot_id",
+          "operatorType": 1,
+          "searchName": "slot_id",
+          "labelName": "广告位ID",
+          "searchOrder": 7,
+          "searchType": 2,
+          "defaultType": 3,
+          "defaultValue": "",
+          "extInfo": ""
+        },
+        {
+          "id": 110,
+          "chartQueryId": 446,
+          "columnTitle": "cur_date",
+          "operatorType": 6,
+          "searchName": "enddate",
+          "labelName": "结束日期",
+          "searchOrder": 17,
+          "searchType": 1,
+          "defaultType": 2,
+          "defaultValue": "2018-06-23",
+          "extInfo": ""
+        }
+      ],
+      "columns": [
+        {
+          "id": 232,
+          "chartQueryId": 446,
+          "columnOrder": 40,
+          "columnTitle": "ad_consume",
+          "alias": "消耗（元）",
+          "formatType": 3,
+          "selectType": 1
+        },
+        {
+          "id": 193,
+          "chartQueryId": 446,
+          "columnOrder": 1,
+          "columnTitle": "cur_date",
+          "alias": "日期",
+          "formatType": 4,
+          "selectType": 2
+        },
+        {
+          "id": 237,
+          "chartQueryId": 446,
+          "columnOrder": 45,
+          "columnTitle": "tag1",
+          "alias": "一级标签",
+          "formatType": 1,
+          "selectType": 2
+        },
+        {
+          "id": 238,
+          "chartQueryId": 446,
+          "columnOrder": 46,
+          "columnTitle": "tag2",
+          "alias": "二级标签",
+          "formatType": 1,
+          "selectType": 2
+        }
+      ],
+      "chartExt": {
+        "chartQueryId": 0,
+        "timePeriod": 1,
+        "defaultColumnName": null,
+        "timeColumnName": "cur_date",
+        "startDateSearchName": "startdate",
+        "endDateSearchName": "enddate"
+      },
+      "dimension": [
+        {
+          "id": 193,
+          "chartQueryId": 446,
+          "columnOrder": 1,
+          "columnTitle": "cur_date",
+          "alias": "日期",
+          "formatType": 4,
+          "selectType": 2
+        },
+        {
+          "id": 237,
+          "chartQueryId": 446,
+          "columnOrder": 45,
+          "columnTitle": "tag1",
+          "alias": "一级标签",
+          "formatType": 1,
+          "selectType": 2
+        },
+        {
+          "id": 238,
+          "chartQueryId": 446,
+          "columnOrder": 46,
+          "columnTitle": "tag2",
+          "alias": "二级标签",
+          "formatType": 1,
+          "selectType": 2
+        }
+      ],
+      "kanbanType": "line_chart",
+      "kanbanName": "媒体行业消耗分布"
+    },
+    "mediainfo": {
+      "data": {
+        "value": {
+          "2018-06-20": [{
+            "cur_date": "2018-06-21",
+            "app_id": "23550",
+            "app_name": "2345天气王",
+            "ad_consume": 293.36
+          },
+          {
+            "cur_date": "2018-06-21",
+            "app_id": "38688",
+            "app_name": "QHSY-运营商",
+            "ad_consume": 27814.15
+          },
+          {
+            "cur_date": "2018-06-21",
+            "app_id": "47778",
+            "app_name": "wifi万钥（德绚）",
+            "ad_consume": 38204.75
+          },
+          {
+            "cur_date": "2018-06-21",
+            "app_id": "25414",
+            "app_name": "万年历",
+            "ad_consume": 30310.55
+          },
+          {
+            "cur_date": "2018-06-21",
+            "app_id": "22298",
+            "app_name": "中华万年历安卓端",
+            "ad_consume": 504.58
+          },
+          {
+            "cur_date": "2018-06-21",
+            "app_id": "26744",
+            "app_name": "悦动圈app",
+            "ad_consume": 73702.16
+          },
+          {
+            "cur_date": "2018-06-21",
+            "app_id": "40911",
+            "app_name": "惠头条-新",
+            "ad_consume": 50670.98
+          },
+          {
+            "cur_date": "2018-06-21",
+            "app_id": "46360",
+            "app_name": "拉卡拉支付（畅江）",
+            "ad_consume": 115699.29
+          },
+          {
+            "cur_date": "2018-06-21",
+            "app_id": "43087",
+            "app_name": "江苏宽带（正邦）",
+            "ad_consume": 0.35
+          },
+          {
+            "cur_date": "2018-06-21",
+            "app_id": "23898",
+            "app_name": "爱奇艺",
+            "ad_consume": 33105.7
+          },
+          {
+            "cur_date": "2018-06-21",
+            "app_id": "28534",
+            "app_name": "讯飞-暴风影音",
+            "ad_consume": 105802.34
+          },
+          {
+            "cur_date": "2018-06-21",
+            "app_id": "46583",
+            "app_name": "诺诺网（英栎）",
+            "ad_consume": 84339.15
+          },
+          {
+            "cur_date": "2018-06-21",
+            "app_id": "40409",
+            "app_name": "趣头条",
+            "ad_consume": 29443.25
+          },
+          {
+            "cur_date": "2018-06-21",
+            "app_id": "41064",
+            "app_name": "飞券支付（浪尖）",
+            "ad_consume": 209891.77
+          },
+          {
+            "cur_date": "2018-06-21",
+            "app_id": "24504",
+            "app_name": "麦唱",
+            "ad_consume": 41608.43
+          }],
+          "2018-06-21": [
+            {
+              "cur_date": "2018-06-21",
+              "app_id": "23550",
+              "app_name": "2345天气王",
+              "ad_consume": 293.36
+            },
+            {
+              "cur_date": "2018-06-21",
+              "app_id": "38688",
+              "app_name": "QHSY-运营商",
+              "ad_consume": 27814.15
+            },
+            {
+              "cur_date": "2018-06-21",
+              "app_id": "47778",
+              "app_name": "wifi万钥（德绚）",
+              "ad_consume": 38204.75
+            },
+            {
+              "cur_date": "2018-06-21",
+              "app_id": "25414",
+              "app_name": "万年历",
+              "ad_consume": 30310.55
+            },
+            {
+              "cur_date": "2018-06-21",
+              "app_id": "22298",
+              "app_name": "中华万年历安卓端",
+              "ad_consume": 504.58
+            },
+            {
+              "cur_date": "2018-06-21",
+              "app_id": "26744",
+              "app_name": "悦动圈app",
+              "ad_consume": 73702.16
+            },
+            {
+              "cur_date": "2018-06-21",
+              "app_id": "40911",
+              "app_name": "惠头条-新",
+              "ad_consume": 50670.98
+            },
+            {
+              "cur_date": "2018-06-21",
+              "app_id": "46360",
+              "app_name": "拉卡拉支付（畅江）",
+              "ad_consume": 115699.29
+            },
+            {
+              "cur_date": "2018-06-21",
+              "app_id": "43087",
+              "app_name": "江苏宽带（正邦）",
+              "ad_consume": 0.35
+            },
+            {
+              "cur_date": "2018-06-21",
+              "app_id": "23898",
+              "app_name": "爱奇艺",
+              "ad_consume": 33105.7
+            },
+            {
+              "cur_date": "2018-06-21",
+              "app_id": "28534",
+              "app_name": "讯飞-暴风影音",
+              "ad_consume": 105802.34
+            },
+            {
+              "cur_date": "2018-06-21",
+              "app_id": "46583",
+              "app_name": "诺诺网（英栎）",
+              "ad_consume": 84339.15
+            },
+            {
+              "cur_date": "2018-06-21",
+              "app_id": "40409",
+              "app_name": "趣头条",
+              "ad_consume": 29443.25
+            },
+            {
+              "cur_date": "2018-06-21",
+              "app_id": "41064",
+              "app_name": "飞券支付（浪尖）",
+              "ad_consume": 209891.77
+            },
+            {
+              "cur_date": "2018-06-21",
+              "app_id": "24504",
+              "app_name": "麦唱",
+              "ad_consume": 41608.43
+            }
+          ],
+          "2018-06-22": [{
+            "cur_date": "2018-06-21",
+            "app_id": "23550",
+            "app_name": "2345天气王",
+            "ad_consume": 293.36
+          },
+          {
+            "cur_date": "2018-06-21",
+            "app_id": "38688",
+            "app_name": "QHSY-运营商",
+            "ad_consume": 27814.15
+          },
+          {
+            "cur_date": "2018-06-21",
+            "app_id": "47778",
+            "app_name": "wifi万钥（德绚）",
+            "ad_consume": 38204.75
+          },
+          {
+            "cur_date": "2018-06-21",
+            "app_id": "25414",
+            "app_name": "万年历",
+            "ad_consume": 30310.55
+          },
+          {
+            "cur_date": "2018-06-21",
+            "app_id": "22298",
+            "app_name": "中华万年历安卓端",
+            "ad_consume": 504.58
+          },
+          {
+            "cur_date": "2018-06-21",
+            "app_id": "26744",
+            "app_name": "悦动圈app",
+            "ad_consume": 73702.16
+          },
+          {
+            "cur_date": "2018-06-21",
+            "app_id": "40911",
+            "app_name": "惠头条-新",
+            "ad_consume": 50670.98
+          },
+          {
+            "cur_date": "2018-06-21",
+            "app_id": "46360",
+            "app_name": "拉卡拉支付（畅江）",
+            "ad_consume": 115699.29
+          },
+          {
+            "cur_date": "2018-06-21",
+            "app_id": "43087",
+            "app_name": "江苏宽带（正邦）",
+            "ad_consume": 0.35
+          },
+          {
+            "cur_date": "2018-06-21",
+            "app_id": "23898",
+            "app_name": "爱奇艺",
+            "ad_consume": 33105.7
+          },
+          {
+            "cur_date": "2018-06-21",
+            "app_id": "28534",
+            "app_name": "讯飞-暴风影音",
+            "ad_consume": 105802.34
+          },
+          {
+            "cur_date": "2018-06-21",
+            "app_id": "46583",
+            "app_name": "诺诺网（英栎）",
+            "ad_consume": 84339.15
+          },
+          {
+            "cur_date": "2018-06-21",
+            "app_id": "40409",
+            "app_name": "趣头条",
+            "ad_consume": 29443.25
+          },
+          {
+            "cur_date": "2018-06-21",
+            "app_id": "41064",
+            "app_name": "飞券支付（浪尖）",
+            "ad_consume": 209891.77
+          },
+          {
+            "cur_date": "2018-06-21",
+            "app_id": "24504",
+            "app_name": "麦唱",
+            "ad_consume": 41608.43
+          }],
+          "2018-06-23": [{
+            "cur_date": "2018-06-21",
+            "app_id": "23550",
+            "app_name": "2345天气王",
+            "ad_consume": 293.36
+          },
+          {
+            "cur_date": "2018-06-21",
+            "app_id": "38688",
+            "app_name": "QHSY-运营商",
+            "ad_consume": 27814.15
+          },
+          {
+            "cur_date": "2018-06-21",
+            "app_id": "47778",
+            "app_name": "wifi万钥（德绚）",
+            "ad_consume": 38204.75
+          },
+          {
+            "cur_date": "2018-06-21",
+            "app_id": "25414",
+            "app_name": "万年历",
+            "ad_consume": 30310.55
+          },
+          {
+            "cur_date": "2018-06-21",
+            "app_id": "22298",
+            "app_name": "中华万年历安卓端",
+            "ad_consume": 504.58
+          },
+          {
+            "cur_date": "2018-06-21",
+            "app_id": "26744",
+            "app_name": "悦动圈app",
+            "ad_consume": 73702.16
+          },
+          {
+            "cur_date": "2018-06-21",
+            "app_id": "40911",
+            "app_name": "惠头条-新",
+            "ad_consume": 50670.98
+          },
+          {
+            "cur_date": "2018-06-21",
+            "app_id": "46360",
+            "app_name": "拉卡拉支付（畅江）",
+            "ad_consume": 115699.29
+          },
+          {
+            "cur_date": "2018-06-21",
+            "app_id": "43087",
+            "app_name": "江苏宽带（正邦）",
+            "ad_consume": 0.35
+          },
+          {
+            "cur_date": "2018-06-21",
+            "app_id": "23898",
+            "app_name": "爱奇艺",
+            "ad_consume": 33105.7
+          },
+          {
+            "cur_date": "2018-06-21",
+            "app_id": "28534",
+            "app_name": "讯飞-暴风影音",
+            "ad_consume": 105802.34
+          },
+          {
+            "cur_date": "2018-06-21",
+            "app_id": "46583",
+            "app_name": "诺诺网（英栎）",
+            "ad_consume": 84339.15
+          },
+          {
+            "cur_date": "2018-06-21",
+            "app_id": "40409",
+            "app_name": "趣头条",
+            "ad_consume": 29443.25
+          },
+          {
+            "cur_date": "2018-06-21",
+            "app_id": "41064",
+            "app_name": "飞券支付（浪尖）",
+            "ad_consume": 209891.77
+          },
+          {
+            "cur_date": "2018-06-21",
+            "app_id": "24504",
+            "app_name": "麦唱",
+            "ad_consume": 41608.43
+          }]
+        },
+        "quota": [
+          "ad_consume",
+          "app_id",
+          "app_name"
+        ],
+        "tableType": "line_chart"
+      },
+      "chartQuery": {
+        "id": 446,
+        "reportType": 2,
+        "queryName": "媒体&广告位数据（子母表、看板）",
+        "queryType": 1,
+        "queryTemp": "dws_app_slot_board_di",
+        "databaseId": 15,
+        "typeEnum": "TABLE_CHART"
+      },
+      "search": [
+        {
+          "id": 95,
+          "chartQueryId": 446,
+          "columnTitle": "cur_date",
+          "operatorType": 5,
+          "searchName": "startdate",
+          "labelName": "日期",
+          "searchOrder": 1,
+          "searchType": 1,
+          "defaultType": 2,
+          "defaultValue": "2018-06-20",
+          "extInfo": ""
+        },
+        {
+          "id": 98,
+          "chartQueryId": 446,
+          "columnTitle": "app_id",
+          "operatorType": 1,
+          "searchName": "app_id",
+          "labelName": "媒体ID",
+          "searchOrder": 5,
+          "searchType": 2,
+          "defaultType": 3,
+          "defaultValue": "",
+          "extInfo": ""
+        },
+        {
+          "id": 100,
+          "chartQueryId": 446,
+          "columnTitle": "slot_id",
+          "operatorType": 1,
+          "searchName": "slot_id",
+          "labelName": "广告位ID",
+          "searchOrder": 7,
+          "searchType": 2,
+          "defaultType": 3,
+          "defaultValue": "",
+          "extInfo": ""
+        },
+        {
+          "id": 105,
+          "chartQueryId": 446,
+          "columnTitle": "is_ka",
+          "operatorType": 1,
+          "searchName": "is_ka",
+          "labelName": "是否KA",
+          "searchOrder": 12,
+          "searchType": 2,
+          "defaultType": 3,
+          "defaultValue": "是",
+          "extInfo": ""
+        },
+        {
+          "id": 110,
+          "chartQueryId": 446,
+          "columnTitle": "cur_date",
+          "operatorType": 6,
+          "searchName": "enddate",
+          "labelName": "结束日期",
+          "searchOrder": 17,
+          "searchType": 1,
+          "defaultType": 2,
+          "defaultValue": "2018-06-23",
+          "extInfo": ""
+        }
+      ],
+      "columns": [
+        {
+          "id": 232,
+          "chartQueryId": 446,
+          "columnOrder": 40,
+          "columnTitle": "ad_consume",
+          "alias": "消耗（元）",
+          "formatType": 3,
+          "selectType": 1
+        },
+        {
+          "id": 193,
+          "chartQueryId": 446,
+          "columnOrder": 1,
+          "columnTitle": "cur_date",
+          "alias": "日期",
+          "formatType": 4,
+          "selectType": 2
+        },
+        {
+          "id": 196,
+          "chartQueryId": 446,
+          "columnOrder": 4,
+          "columnTitle": "app_id",
+          "alias": "媒体ID",
+          "formatType": 1,
+          "selectType": 2
+        },
+        {
+          "id": 197,
+          "chartQueryId": 446,
+          "columnOrder": 5,
+          "columnTitle": "app_name",
+          "alias": "媒体名称",
+          "formatType": 1,
+          "selectType": 2
+        }
+      ],
+      "chartExt": {
+        "chartQueryId": 0,
+        "timePeriod": 1,
+        "defaultColumnName": null,
+        "timeColumnName": "cur_date",
+        "startDateSearchName": "startdate",
+        "endDateSearchName": "enddate"
+      },
+      "dimension": [
+        {
+          "id": 193,
+          "chartQueryId": 446,
+          "columnOrder": 1,
+          "columnTitle": "cur_date",
+          "alias": "日期",
+          "formatType": 4,
+          "selectType": 2
+        },
+        {
+          "id": 196,
+          "chartQueryId": 446,
+          "columnOrder": 4,
+          "columnTitle": "app_id",
+          "alias": "媒体ID",
+          "formatType": 1,
+          "selectType": 2
+        },
+        {
+          "id": 197,
+          "chartQueryId": 446,
+          "columnOrder": 5,
+          "columnTitle": "app_name",
+          "alias": "媒体名称",
+          "formatType": 1,
+          "selectType": 2
+        }
+      ],
+      "kanbanType": "line_chart",
+      "kanbanName": "top媒体信息"
+    }
+  }
+}

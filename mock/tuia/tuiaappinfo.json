@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "errorCode": null,
+  "desc": null,
+  "data": [
+    {
+      "appName": "演示应用",
+      "appId": 2872,
+      "appSource": "兑吧"
+    },
+    {
+      "appName": "MZXY",
+      "appId": 7217,
+      "appSource": "兑吧"
+    },
+    {
+      "appName": "TestMZXY",
+      "appId": 7302,
+      "appSource": "兑吧"
+    }
+  ]
+}

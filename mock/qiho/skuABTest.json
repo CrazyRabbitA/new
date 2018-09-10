@@ -1,0 +1,62 @@
+{
+  "success": true,
+  "errorCode": null,
+  "desc": null,
+  "data": {
+    "list": [
+      {
+        "curDate": "2017-10-18",
+        "planId": 1,
+        "planName": "对我好ID胡哈哈的积分换积分",
+        "itemId": 1,
+        "itemName": "对我好ID胡哈哈的积分换积分",
+        "skuId": 1,
+        "skuName": "对我好ID胡哈哈的积分换积分",
+        "detialId": 1,
+        "detialName": "对我好ID胡哈哈的积分换积分",
+        "skinId": 1,
+        "skinName": "对我好ID胡哈哈的积分换积分",
+        "expPv": 0,
+        "stayDuration": 0,
+        "scanDuration": 0,
+        "drumpRate": 0,
+        "orderCount": 0,
+        "orderRate": 0,
+        "cost": 0,
+        "price": 0,
+        "estiSuccessRate": 0,
+        "avgCpa": 0,
+        "estiClickProfit": 0,
+        "estiArpu": 0,
+        "roi": 0
+      },
+      {
+        "curDate": "2017-10-18",
+        "planId": 1,
+        "planName": "点击单价返回飞机10-20",
+        "itemId": 1,
+        "itemName": "123",
+        "skuId": 1,
+        "skuName": "123",
+        "detialId": 1,
+        "detialName": "123",
+        "skinId": 1,
+        "skinName": "123",
+        "expPv": 0,
+        "stayDuration": 0,
+        "scanDuration": 0,
+        "drumpRate": 0,
+        "orderCount": 0,
+        "orderRate": 0,
+        "cost": 0,
+        "price": 0,
+        "estiSuccessRate": 0,
+        "avgCpa": 0,
+        "estiClickProfit": 0,
+        "estiArpu": 0,
+        "roi": 0
+      }
+    ],
+    "count": 1
+  }
+}

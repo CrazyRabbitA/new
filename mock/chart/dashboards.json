@@ -1,0 +1,28 @@
+{
+  "success": true,
+  "errorCode": null,
+  "desc": null,
+  "data": [
+    {
+      "id": 1,
+      "dashboardName": "test1",
+      "isDefault": true,
+      "biz": 1,
+      "chartList": null
+    },
+    {
+      "id": 2,
+      "dashboardName": "test2",
+      "isDefault": false,
+      "biz": 3,
+      "chartList": null
+    },
+    {
+      "id": 3,
+      "dashboardName": "test3",
+      "isDefault": false,
+      "biz": 4,
+      "chartList": null
+    }
+  ]
+}

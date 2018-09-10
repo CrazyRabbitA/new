@@ -1,0 +1,168 @@
+{
+  "success": true,
+  "code": "0000000",
+  "desc": "成功",
+  "data": [
+    {
+      "id": 4,
+      "roleName": "产品",
+      "bizName": "兑吧",
+      "systemId": 1,
+      "sensitiveDataAuth": true,
+      "isRoleSuperAuth": true
+    },
+    {
+      "id": 5,
+      "roleName": "运营",
+      "bizName": "兑吧",
+      "systemId": 1,
+      "sensitiveDataAuth": false,
+      "isRoleSuperAuth": false
+    },
+    {
+      "id": 6,
+      "roleName": "财务",
+      "bizName": "兑吧",
+      "systemId": 1,
+      "sensitiveDataAuth": true,
+      "isRoleSuperAuth": false
+    },
+    {
+      "id": 9,
+      "roleName": "测试",
+      "bizName": "兑吧",
+      "systemLabel": "DUI_BA",
+      "systemId": 1,
+      "sensitiveDataAuth": false,
+      "isRoleSuperAuth": false
+    },
+    {
+      "id": 10,
+      "roleName": "AE",
+      "bizName": "兑吧",
+      "systemLabel": "DUI_BA",
+      "systemId": 1,
+      "sensitiveDataAuth": false,
+      "isRoleSuperAuth": false
+    },
+    {
+      "id": 29,
+      "roleName": "123",
+      "bizName": "奇货",
+      "systemLabel": "QI_HUO",
+      "systemId": 2,
+      "sensitiveDataAuth": false,
+      "isRoleSuperAuth": false
+    },
+    {
+      "id": 30,
+      "roleName": "啊啊",
+      "bizName": "麦啦",
+      "systemLabel": "MAI_LA",
+      "systemId": 3,
+      "isRoleSuperAuth": false
+    },
+    {
+      "id": 31,
+      "roleName": "产品test",
+      "bizName": "奇货",
+      "systemLabel": "QI_HUO",
+      "systemId": 2,
+      "sensitiveDataAuth": false,
+      "isRoleSuperAuth": false
+    },
+    {
+      "id": 33,
+      "roleName": "推啊运营",
+      "bizName": "推啊广告",
+      "systemId": 4,
+      "sensitiveDataAuth": false,
+      "isRoleSuperAuth": false
+    },
+    {
+      "id": 34,
+      "roleName": "推啊媒体运营",
+      "bizName": "推啊媒体",
+      "systemId": 5,
+      "sensitiveDataAuth": false,
+      "isRoleSuperAuth": true
+    },
+    {
+      "id": 35,
+      "roleName": "火眼测试1",
+      "bizName": "推啊媒体",
+      "systemId": 5,
+      "isRoleSuperAuth": false
+    },
+    {
+      "id": 36,
+      "roleName": "火眼测试2",
+      "bizName": "推啊媒体",
+      "systemId": 5,
+      "isRoleSuperAuth": false
+    },
+    {
+      "id": 38,
+      "roleName": "奇货测试1",
+      "bizName": "奇货",
+      "systemId": 2,
+      "isRoleSuperAuth": false
+    },
+    {
+      "id": 40,
+      "roleName": "aaa",
+      "bizName": "火眼",
+      "systemLabel": "EYE",
+      "isRoleSuperAuth": false
+    },
+    {
+      "id": 41,
+      "roleName": "推啊测试1",
+      "bizName": "推啊媒体",
+      "systemId": 5,
+      "isRoleSuperAuth": false
+    },
+    {
+      "id": 47,
+      "roleName": "推啊测试2",
+      "bizName": "推啊媒体",
+      "systemId": 5,
+      "isRoleSuperAuth": false
+    },
+    {
+      "id": 55,
+      "roleName": "推啊测试3",
+      "bizName": "推啊媒体",
+      "systemId": 5,
+      "isRoleSuperAuth": true
+    },
+    {
+      "id": 56,
+      "roleName": "ss",
+      "bizName": "兑吧",
+      "systemId": 1,
+      "isRoleSuperAuth": false
+    },
+    {
+      "id": 57,
+      "roleName": "abc",
+      "bizName": "推啊媒体",
+      "systemId": 5,
+      "isRoleSuperAuth": true
+    },
+    {
+      "id": 58,
+      "roleName": "2322",
+      "bizName": "兑吧",
+      "systemId": 1,
+      "isRoleSuperAuth": false
+    },
+    {
+      "id": 59,
+      "roleName": "233",
+      "bizName": "兑吧",
+      "systemId": 1,
+      "isRoleSuperAuth": false
+    }
+  ]
+}

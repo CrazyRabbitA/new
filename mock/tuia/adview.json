@@ -1,0 +1,39 @@
+{
+    "success": true,
+    "errorCode": null,
+    "desc": null,
+    "data": {
+      "2018-01-13": {
+        "launchCount": 49442,
+        "tuiaConsumerCount": 8139,
+        "effectPv": 22,
+        "transCost": 160.06,
+        "arpu": 0.0712212289146879,
+        "clickPrice": 0.43264774542327067
+      },
+      "2018-01-14": {
+        "launchCount": 86237,
+        "tuiaConsumerCount": 12685,
+        "effectPv": 53,
+        "transCost": 86.60188679245283,
+        "arpu": 0.05322425409047161,
+        "clickPrice": 0.3618368151359874
+      },
+      "2018-01-15": {
+        "launchCount": 61446,
+        "tuiaConsumerCount": 9667,
+        "effectPv": 42,
+        "transCost": 89.18476190476191,
+        "arpu": 0.060960192689515996,
+        "clickPrice": 0.38747905244646735
+      },
+      "2018-01-16": {
+        "launchCount": 61616,
+        "tuiaConsumerCount": 9585,
+        "effectPv": 38,
+        "transCost": 94.93157894736842,
+        "arpu": 0.05854648143339392,
+        "clickPrice": 0.37635889410537293
+      }
+    }
+  }

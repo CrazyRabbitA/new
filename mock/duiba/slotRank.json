@@ -1,0 +1,98 @@
+{
+	"success": true,
+	"errorCode": null,
+	"desc": null,
+	"data": {
+		"basic": {
+			"diffValue": -1091762.0000,
+			"contrastValue": 3409335.0000,
+			"currentValue": 2317573
+		},
+		"table": [
+			{
+				"dpmTitle": "游戏中心",
+				"contrastValue": 960.0000,
+				"currentValue": 1305,
+				"variation": 345.0000,
+				"ratio": "0.35937500"
+			},
+			{
+				"dpmTitle": "优惠券",
+				"contrastValue": 244.0000,
+				"currentValue": 156,
+				"variation": -88.0000,
+				"ratio": "-0.36065574"
+			},
+			{
+				"dpmTitle": "活动楼层",
+				"contrastValue": 13708.0000,
+				"currentValue": 11313,
+				"variation": -2395.0000,
+				"ratio": "-0.17471549"
+			},
+			{
+				"dpmTitle": "橱窗区",
+				"contrastValue": 96597.0000,
+				"currentValue": 86576,
+				"variation": -10021.0000,
+				"ratio": "-0.10374028"
+			},
+			{
+				"dpmTitle": "自定义楼层",
+				"contrastValue": 49687.0000,
+				"currentValue": 35135,
+				"variation": -14552.0000,
+				"ratio": "-0.29287339"
+			},
+			{
+				"dpmTitle": "弹层插件",
+				"contrastValue": 49606.0000,
+				"currentValue": 33704,
+				"variation": -15902.0000,
+				"ratio": "-0.32056606"
+			},
+			{
+				"dpmTitle": "免单秒杀",
+				"contrastValue": 29613.0000,
+				"currentValue": 13567,
+				"variation": -16046.0000,
+				"ratio": "-0.54185662"
+			},
+			{
+				"dpmTitle": "浮标",
+				"contrastValue": 147975.0000,
+				"currentValue": 95857,
+				"variation": -52118.0000,
+				"ratio": "-0.35220814"
+			},
+			{
+				"dpmTitle": "其他",
+				"contrastValue": 164625.0000,
+				"currentValue": 90214,
+				"variation": -74411.0000,
+				"ratio": "-0.45200304"
+			},
+			{
+				"dpmTitle": "icon",
+				"contrastValue": 419132.0000,
+				"currentValue": 272542,
+				"variation": -146590.0000,
+				"ratio": "-0.34974662"
+			},
+			{
+				"dpmTitle": "banner",
+				"contrastValue": 642835.0000,
+				"currentValue": 437963,
+				"variation": -204872.0000,
+				"ratio": "-0.31870076"
+			},
+			{
+				"dpmTitle": "商品区",
+				"contrastValue": 1794353.0000,
+				"currentValue": 1239241,
+				"variation": -555112.0000,
+				"ratio": "-0.30936611"
+			}
+		]
+	}
+}

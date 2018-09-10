@@ -1,0 +1,94 @@
+{
+    "success": true,
+    "errorCode": null,
+    "desc": null,
+    "data": {
+        "basic": {
+            "diffValue": 644043.0000,
+            "contrastValue": 13479989.0000,
+            "currentValue": 14124032.0000
+        },
+        "table": [
+            {
+                "advertName": "闪电借款-安卓-08（1030）",
+                "contrastValue": 8738,
+                "advertId": 17841,
+                "currentValue": 184479,
+                "variation": 175741,
+                "ratio": "20.1123"
+            },
+            {
+                "advertName": "大家玩娱乐-6301-安卓1030",
+                "contrastValue": 81455,
+                "advertId": 17812,
+                "currentValue": 227055,
+                "variation": 145600,
+                "ratio": "1.7875"
+            },
+            {
+                "advertName": "万豪娱乐-apk-2",
+                "contrastValue": 126699,
+                "advertId": 12847,
+                "currentValue": 241036,
+                "variation": 114337,
+                "ratio": "0.9024"
+            },
+            {
+                "advertName": "db1lxg01-手表免费送-8.7陈龙",
+                "contrastValue": 142127,
+                "advertId": 12104,
+                "currentValue": 242218,
+                "variation": 100091,
+                "ratio": "0.7042"
+            },
+            {
+                "advertName": "万豪地主Android",
+                "contrastValue": 311292,
+                "advertId": 10940,
+                "currentValue": 401992,
+                "variation": 90700,
+                "ratio": "0.2914"
+            },
+            {
+                "advertName": "128_push3_1020",
+                "contrastValue": 72351,
+                "advertId": 17080,
+                "currentValue": 154924,
+                "variation": 82573,
+                "ratio": "1.1413"
+            },
+            {
+                "advertName": "孙榕-ty",
+                "contrastValue": 89834,
+                "advertId": 16195,
+                "currentValue": 171029,
+                "variation": 81195,
+                "ratio": "0.9038"
+            },
+            {
+                "advertName": "开心A_2453_20170804",
+                "contrastValue": 338191,
+                "advertId": 12346,
+                "currentValue": 417590,
+                "variation": 79399,
+                "ratio": "0.2348"
+            },
+            {
+                "advertName": "重庆-cb",
+                "contrastValue": 40979,
+                "advertId": 14941,
+                "currentValue": 99285,
+                "variation": 58306,
+                "ratio": "1.4228"
+            },
+            {
+                "advertName": "z2880",
+                "contrastValue": 6312,
+                "advertId": 17787,
+                "currentValue": 60079,
+                "variation": 53767,
+                "ratio": "8.5182"
+            }
+        ]
+    }
+}

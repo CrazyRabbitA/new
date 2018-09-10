@@ -1,0 +1,41 @@
+{
+  "success": true,
+  "errorCode": null,
+  "desc": null,
+  "data": {
+    "detail": [
+      {
+        "cur_date": null,
+        "advert_id": null,
+        "promote_url": "http:www.xinlang",
+        "promote_urlMD5": "bf1ff09a87da7841aea478c3e08c6f0c",
+        "visit_pv": 10,
+        "visit_uv": 12,
+        "ef_pv": 52,
+        "ef_uv": 42,
+        "ef_radio": 1.2381,
+        "click_pv": 20,
+        "click_uv": 10,
+        "click_pv_radio": 0.1667,
+        "click_uv_radio": 0.8333,
+        "drop_radio": 0.1667
+      },
+      {
+        "cur_date": null,
+        "advert_id": null,
+        "promote_url": "http:www.baidu",
+        "promote_urlMD5": "bea73c49519898273a2d351582e30157",
+        "visit_pv": 100,
+        "visit_uv": 10,
+        "ef_pv": 50,
+        "ef_uv": 40,
+        "ef_radio": 1.25,
+        "click_pv": 30,
+        "click_uv": 20,
+        "click_pv_radio": 0.3,
+        "click_uv_radio": 2,
+        "drop_radio": -1
+      }
+    ]
+  }
+}

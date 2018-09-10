@@ -1,0 +1,834 @@
+{
+  "success": true,
+  "errorCode": null,
+  "desc": null,
+  "data": {
+    "basic": {
+      "currentResidueBudget": 1179305.11,
+      "compareResidueBudget": 1203983.1,
+      "variation": -24677.99
+    },
+    "table": [
+      {
+        "advertName": "07火山小视频 1225 14：39",
+        "currentResidueBudget": 19037.41,
+        "accountId": 5254,
+        "accountName": "北京字节跳动科技有限公司(火山)",
+        "compareResidueBudget": 0.0,
+        "advertId": 22393,
+        "variation": 19037.41,
+        "ratio": "Infinity"
+      },
+      {
+        "advertName": "国城-st",
+        "currentResidueBudget": 3744.22,
+        "accountId": 6563,
+        "accountName": "深圳市国城投资咨询有限公司",
+        "compareResidueBudget": 0.0,
+        "advertId": 25784,
+        "variation": 3744.22,
+        "ratio": "Infinity"
+      },
+      {
+        "advertName": "京东优惠券",
+        "currentResidueBudget": 3054.91,
+        "accountId": 6546,
+        "accountName": "青岛灵狐电子商务有限公司",
+        "compareResidueBudget": 0.0,
+        "advertId": 25654,
+        "variation": 3054.91,
+        "ratio": "Infinity"
+      },
+      {
+        "advertName": "3000575 快视频 0208",
+        "currentResidueBudget": 2582.35,
+        "accountId": 5090,
+        "accountName": "光锐恒宇（北京）科技有限公司",
+        "compareResidueBudget": 0.0,
+        "advertId": 24669,
+        "variation": 2582.35,
+        "ratio": "Infinity"
+      },
+      {
+        "advertName": "推广计划（ios）-链接1",
+        "currentResidueBudget": 2497.14,
+        "accountId": 5837,
+        "accountName": "广州微一网络科技有限公司(DM)",
+        "compareResidueBudget": 0.0,
+        "advertId": 23485,
+        "variation": 2497.14,
+        "ratio": "Infinity"
+      },
+      {
+        "advertName": "3000535 快视频 1206",
+        "currentResidueBudget": 2342.79,
+        "accountId": 5090,
+        "accountName": "光锐恒宇（北京）科技有限公司",
+        "compareResidueBudget": 0.0,
+        "advertId": 20965,
+        "variation": 2342.79,
+        "ratio": "Infinity"
+      },
+      {
+        "advertName": "3000573 快视频 0205",
+        "currentResidueBudget": 2014.57,
+        "accountId": 5090,
+        "accountName": "光锐恒宇（北京）科技有限公司",
+        "compareResidueBudget": 0.0,
+        "advertId": 24477,
+        "variation": 2014.57,
+        "ratio": "Infinity"
+      },
+      {
+        "advertName": "129_push9_tu020718",
+        "currentResidueBudget": 23383.33,
+        "accountId": 390,
+        "accountName": "上海淇毓信息科技有限公司",
+        "compareResidueBudget": 21758.22,
+        "advertId": 24622,
+        "variation": 1625.11,
+        "ratio": "0.0747"
+      },
+      {
+        "advertName": "3000574 快视频 0119",
+        "currentResidueBudget": 1060.13,
+        "accountId": 5090,
+        "accountName": "光锐恒宇（北京）科技有限公司",
+        "compareResidueBudget": 0.0,
+        "advertId": 23731,
+        "variation": 1060.13,
+        "ratio": "Infinity"
+      },
+      {
+        "advertName": "推广计划（ios）-链接4",
+        "currentResidueBudget": 995.8,
+        "accountId": 5837,
+        "accountName": "广州微一网络科技有限公司(DM)",
+        "compareResidueBudget": 0.0,
+        "advertId": 23848,
+        "variation": 995.8,
+        "ratio": "Infinity"
+      },
+      {
+        "advertName": "and10-西瓜（新）0308测试",
+        "currentResidueBudget": 970.73,
+        "accountId": 5255,
+        "accountName": "北京字节跳动科技有限公司(西瓜)",
+        "compareResidueBudget": 0.0,
+        "advertId": 25600,
+        "variation": 970.73,
+        "ratio": "Infinity"
+      },
+      {
+        "advertName": "每日优鲜-杨晓-安卓1",
+        "currentResidueBudget": 895.02,
+        "accountId": 1592,
+        "accountName": "北京每日优鲜电子商务有限公司(天卓)",
+        "compareResidueBudget": 0.0,
+        "advertId": 25668,
+        "variation": 895.02,
+        "ratio": "Infinity"
+      },
+      {
+        "advertName": "and1-西瓜-0228（新）a",
+        "currentResidueBudget": 890.36,
+        "accountId": 5255,
+        "accountName": "北京字节跳动科技有限公司(西瓜)",
+        "compareResidueBudget": 0.0,
+        "advertId": 25037,
+        "variation": 890.36,
+        "ratio": "Infinity"
+      },
+      {
+        "advertName": "推广计划（ios）-链接3",
+        "currentResidueBudget": 817.7,
+        "accountId": 5837,
+        "accountName": "广州微一网络科技有限公司(DM)",
+        "compareResidueBudget": 0.0,
+        "advertId": 23505,
+        "variation": 817.7,
+        "ratio": "Infinity"
+      },
+      {
+        "advertName": "每日优鲜-杨晓-iOS1",
+        "currentResidueBudget": 701.44,
+        "accountId": 1592,
+        "accountName": "北京每日优鲜电子商务有限公司(天卓)",
+        "compareResidueBudget": 0.0,
+        "advertId": 25669,
+        "variation": 701.44,
+        "ratio": "Infinity"
+      },
+      {
+        "advertName": "蓝月传奇ios-天狼-100785",
+        "currentResidueBudget": 993.2,
+        "accountId": 6537,
+        "accountName": "嘉兴游辰网络科技有限公司(JQZX)",
+        "compareResidueBudget": 343.26,
+        "advertId": 25680,
+        "variation": 649.94,
+        "ratio": "1.8934"
+      },
+      {
+        "advertName": "华尔街英语-趣味英语",
+        "currentResidueBudget": 1737.88,
+        "accountId": 5784,
+        "accountName": "北京华尔街英语培训中心有限公司(JQZX)",
+        "compareResidueBudget": 1103.87,
+        "advertId": 23368,
+        "variation": 634.01,
+        "ratio": "0.5744"
+      },
+      {
+        "advertName": "每日优鲜-杨晓-iOS2",
+        "currentResidueBudget": 625.24,
+        "accountId": 1592,
+        "accountName": "北京每日优鲜电子商务有限公司(天卓)",
+        "compareResidueBudget": 0.0,
+        "advertId": 25670,
+        "variation": 625.24,
+        "ratio": "Infinity"
+      },
+      {
+        "advertName": "推广计划（ios）-链接2",
+        "currentResidueBudget": 494.3,
+        "accountId": 5837,
+        "accountName": "广州微一网络科技有限公司(DM)",
+        "compareResidueBudget": 0.0,
+        "advertId": 23504,
+        "variation": 494.3,
+        "ratio": "Infinity"
+      },
+      {
+        "advertName": "积木家-石家庄-mfsj6",
+        "currentResidueBudget": 456.55,
+        "accountId": 2822,
+        "accountName": "西安积木家信息科技有限公司(SC)",
+        "compareResidueBudget": 0.0,
+        "advertId": 13727,
+        "variation": 456.55,
+        "ratio": "Infinity"
+      },
+      {
+        "advertName": "3000534 快视频 0122",
+        "currentResidueBudget": 426.38,
+        "accountId": 5090,
+        "accountName": "光锐恒宇（北京）科技有限公司",
+        "compareResidueBudget": 0.0,
+        "advertId": 23829,
+        "variation": 426.38,
+        "ratio": "Infinity"
+      },
+      {
+        "advertName": "积木家-北京lybaojia",
+        "currentResidueBudget": 404.67,
+        "accountId": 2822,
+        "accountName": "西安积木家信息科技有限公司(SC)",
+        "compareResidueBudget": 0.0,
+        "advertId": 13142,
+        "variation": 404.67,
+        "ratio": "Infinity"
+      },
+      {
+        "advertName": "3000533 快视频 1227",
+        "currentResidueBudget": 374.43,
+        "accountId": 5090,
+        "accountName": "光锐恒宇（北京）科技有限公司",
+        "compareResidueBudget": 0.0,
+        "advertId": 22435,
+        "variation": 374.43,
+        "ratio": "Infinity"
+      },
+      {
+        "advertName": "我来贷安卓-常规05（1120）",
+        "currentResidueBudget": 986.3,
+        "accountId": 3846,
+        "accountName": "卫盈联信息技术（深圳）有限公司(SZ)",
+        "compareResidueBudget": 695.01,
+        "advertId": 19676,
+        "variation": 291.29,
+        "ratio": "0.4191"
+      },
+      {
+        "advertName": "ws万丈-中意35",
+        "currentResidueBudget": 2139.27,
+        "accountId": 5760,
+        "accountName": "广东万丈金数信息技术股份有限公司(保险)",
+        "compareResidueBudget": 1848.76,
+        "advertId": 23389,
+        "variation": 290.51,
+        "ratio": "0.1571"
+      },
+      {
+        "advertName": "vbp",
+        "currentResidueBudget": 1302.01,
+        "accountId": 6258,
+        "accountName": "广东科德投资顾问有限公司(ZZM)",
+        "compareResidueBudget": 1020.53,
+        "advertId": 24672,
+        "variation": 281.48,
+        "ratio": "0.2758"
+      },
+      {
+        "advertName": "积木家-石家庄-xt-315-IOS-补",
+        "currentResidueBudget": 249.03,
+        "accountId": 2822,
+        "accountName": "西安积木家信息科技有限公司(SC)",
+        "compareResidueBudget": 0.0,
+        "advertId": 25657,
+        "variation": 249.03,
+        "ratio": "Infinity"
+      },
+      {
+        "advertName": "金融超市-中鸿2 L4-20-01",
+        "currentResidueBudget": 6849.5,
+        "accountId": 2673,
+        "accountName": "重庆市中鸿小额贷款有限责任公司2",
+        "compareResidueBudget": 6611.78,
+        "advertId": 25417,
+        "variation": 237.72,
+        "ratio": "0.0360"
+      },
+      {
+        "advertName": "yh华尔街英语-支付类",
+        "currentResidueBudget": 937.65,
+        "accountId": 5784,
+        "accountName": "北京华尔街英语培训中心有限公司(JQZX)",
+        "compareResidueBudget": 721.14,
+        "advertId": 25674,
+        "variation": 216.51,
+        "ratio": "0.3002"
+      },
+      {
+        "advertName": "中英保险",
+        "currentResidueBudget": 310.38,
+        "accountId": 6362,
+        "accountName": "泰康人寿保险股份有限公司(WS)",
+        "compareResidueBudget": 110.51,
+        "advertId": 25860,
+        "variation": 199.87,
+        "ratio": "1.8086"
+      },
+      {
+        "advertName": "痘博&电商",
+        "currentResidueBudget": 199.6,
+        "accountId": 5859,
+        "accountName": "痘博士股份有限公司(XY)",
+        "compareResidueBudget": 0.0,
+        "advertId": 25882,
+        "variation": 199.6,
+        "ratio": "Infinity"
+      },
+      {
+        "advertName": "积木家-石家庄3-mfsj3",
+        "currentResidueBudget": 186.77,
+        "accountId": 2822,
+        "accountName": "西安积木家信息科技有限公司(SC)",
+        "compareResidueBudget": 0.0,
+        "advertId": 14364,
+        "variation": 186.77,
+        "ratio": "Infinity"
+      },
+      {
+        "advertName": "华尔街英语-社交英语新",
+        "currentResidueBudget": 878.05,
+        "accountId": 5784,
+        "accountName": "北京华尔街英语培训中心有限公司(JQZX)",
+        "compareResidueBudget": 691.46,
+        "advertId": 25356,
+        "variation": 186.59,
+        "ratio": "0.2698"
+      },
+      {
+        "advertName": "129_push13_0123",
+        "currentResidueBudget": 2665.59,
+        "accountId": 390,
+        "accountName": "上海淇毓信息科技有限公司",
+        "compareResidueBudget": 2494.27,
+        "advertId": 23909,
+        "variation": 171.32,
+        "ratio": "0.0687"
+      },
+      {
+        "advertName": "ws万丈-吉祥22湖南",
+        "currentResidueBudget": 2059.93,
+        "accountId": 5760,
+        "accountName": "广东万丈金数信息技术股份有限公司(保险)",
+        "compareResidueBudget": 1900.62,
+        "advertId": 23322,
+        "variation": 159.31,
+        "ratio": "0.0838"
+      },
+      {
+        "advertName": "小花钱包-安卓-13",
+        "currentResidueBudget": 415.35,
+        "accountId": 5953,
+        "accountName": "小花互联网金融服务（深圳）有限公司(小花钱包)",
+        "compareResidueBudget": 273.85,
+        "advertId": 25562,
+        "variation": 141.5,
+        "ratio": "0.5167"
+      },
+      {
+        "advertName": "Y-A-28708-0312-a",
+        "currentResidueBudget": 127.26,
+        "accountId": 6574,
+        "accountName": "嘉兴游辰网络科技有限公司(BC)",
+        "compareResidueBudget": 0.0,
+        "advertId": 25783,
+        "variation": 127.26,
+        "ratio": "Infinity"
+      },
+      {
+        "advertName": "国城-in",
+        "currentResidueBudget": 254.79,
+        "accountId": 6563,
+        "accountName": "深圳市国城投资咨询有限公司",
+        "compareResidueBudget": 130.08,
+        "advertId": 25864,
+        "variation": 124.71,
+        "ratio": "0.9587"
+      },
+      {
+        "advertName": "ss-yk（不可微端）",
+        "currentResidueBudget": 116.4,
+        "accountId": 6257,
+        "accountName": "广州越声理财咨询有限公司(ZZM)",
+        "compareResidueBudget": 0.0,
+        "advertId": 25322,
+        "variation": 116.4,
+        "ratio": "Infinity"
+      },
+      {
+        "advertName": "yh华尔街英语-女性计划定向mx",
+        "currentResidueBudget": 431.04,
+        "accountId": 5784,
+        "accountName": "北京华尔街英语培训中心有限公司(JQZX)",
+        "compareResidueBudget": 322.15,
+        "advertId": 23365,
+        "variation": 108.89,
+        "ratio": "0.3380"
+      },
+      {
+        "advertName": "新人20元红包-2",
+        "currentResidueBudget": 193.36,
+        "accountId": 6234,
+        "accountName": "唯品会（中国）有限公司(YQ)",
+        "compareResidueBudget": 87.68,
+        "advertId": 25819,
+        "variation": 105.68,
+        "ratio": "1.2053"
+      },
+      {
+        "advertName": "ws万丈-泰康包券（8万+滴滴）",
+        "currentResidueBudget": 162.01,
+        "accountId": 5760,
+        "accountName": "广东万丈金数信息技术股份有限公司(保险)",
+        "compareResidueBudget": 56.46,
+        "advertId": 23348,
+        "variation": 105.55,
+        "ratio": "1.8695"
+      },
+      {
+        "advertName": "wz-定向-312新",
+        "currentResidueBudget": 95.27,
+        "accountId": 5703,
+        "accountName": "河北源达证券投资顾问股份有限公司天津市和平区分公司",
+        "compareResidueBudget": 0.0,
+        "advertId": 25774,
+        "variation": 95.27,
+        "ratio": "Infinity"
+      },
+      {
+        "advertName": "wz-定向-1.16",
+        "currentResidueBudget": 90.78,
+        "accountId": 5703,
+        "accountName": "河北源达证券投资顾问股份有限公司天津市和平区分公司",
+        "compareResidueBudget": 0.0,
+        "advertId": 23553,
+        "variation": 90.78,
+        "ratio": "Infinity"
+      },
+      {
+        "advertName": "百奇杭州触宝科技插卡手表-1",
+        "currentResidueBudget": 79.98,
+        "accountId": 5245,
+        "accountName": "杭州触宝科技有限公司",
+        "compareResidueBudget": 0.0,
+        "advertId": 25808,
+        "variation": 79.98,
+        "ratio": "Infinity"
+      },
+      {
+        "advertName": "中英-01-1215广东",
+        "currentResidueBudget": 292.6,
+        "accountId": 4595,
+        "accountName": "招商信诺人寿保险有限公司(SZ)",
+        "compareResidueBudget": 216.29,
+        "advertId": 23705,
+        "variation": 76.31,
+        "ratio": "0.3528"
+      },
+      {
+        "advertName": "积木家-成都-mfsj-ios",
+        "currentResidueBudget": 186.77,
+        "accountId": 2822,
+        "accountName": "西安积木家信息科技有限公司(SC)",
+        "compareResidueBudget": 120.08,
+        "advertId": 22086,
+        "variation": 66.69,
+        "ratio": "0.5554"
+      },
+      {
+        "advertName": "z-移动北京-加量不加价V3-新（测）",
+        "currentResidueBudget": 806.92,
+        "accountId": 2518,
+        "accountName": "北京六律科技有限责任公司(移动)",
+        "compareResidueBudget": 746.89,
+        "advertId": 24227,
+        "variation": 60.03,
+        "ratio": "0.0804"
+      },
+      {
+        "advertName": "中英-01-1215湖北",
+        "currentResidueBudget": 99.89,
+        "accountId": 4595,
+        "accountName": "招商信诺人寿保险有限公司(SZ)",
+        "compareResidueBudget": 43.74,
+        "advertId": 23707,
+        "variation": 56.15,
+        "ratio": "1.2837"
+      },
+      {
+        "advertName": "百奇点点蓝牙耳机-ZT",
+        "currentResidueBudget": 238.7,
+        "accountId": 5724,
+        "accountName": "杭州点点信息科技有限公司",
+        "compareResidueBudget": 184.85,
+        "advertId": 25517,
+        "variation": 53.85,
+        "ratio": "0.2913"
+      },
+      {
+        "advertName": "交-A1130162199919",
+        "currentResidueBudget": 7853.36,
+        "accountId": 3818,
+        "accountName": "北京融联世纪信息技术有限公司(PX)",
+        "compareResidueBudget": 7811.49,
+        "advertId": 20895,
+        "variation": 41.87,
+        "ratio": "0.0054"
+      },
+      {
+        "advertName": "wz-限流-1.16",
+        "currentResidueBudget": 38.37,
+        "accountId": 5703,
+        "accountName": "河北源达证券投资顾问股份有限公司天津市和平区分公司",
+        "compareResidueBudget": 0.0,
+        "advertId": 23552,
+        "variation": 38.37,
+        "ratio": "Infinity"
+      },
+      {
+        "advertName": "百奇涌玉男表",
+        "currentResidueBudget": 178.22,
+        "accountId": 6409,
+        "accountName": "上海涌玉文化传播有限公司(到付)",
+        "compareResidueBudget": 139.97,
+        "advertId": 25577,
+        "variation": 38.25,
+        "ratio": "0.2733"
+      },
+      {
+        "advertName": "百奇点点蓝牙耳机d",
+        "currentResidueBudget": 485.69,
+        "accountId": 5724,
+        "accountName": "杭州点点信息科技有限公司",
+        "compareResidueBudget": 450.3,
+        "advertId": 24186,
+        "variation": 35.39,
+        "ratio": "0.0786"
+      },
+      {
+        "advertName": "fw-0308",
+        "currentResidueBudget": 34.39,
+        "accountId": 3937,
+        "accountName": "湖南巨景证券投资顾问有限公司(SZ)",
+        "compareResidueBudget": 0.0,
+        "advertId": 25627,
+        "variation": 34.39,
+        "ratio": "Infinity"
+      },
+      {
+        "advertName": "小黑鱼-新H5 安卓14",
+        "currentResidueBudget": 70.91,
+        "accountId": 5980,
+        "accountName": "南京铁帆网络科技有限公司(XM)",
+        "compareResidueBudget": 38.46,
+        "advertId": 25706,
+        "variation": 32.45,
+        "ratio": "0.8437"
+      },
+      {
+        "advertName": "增高3.13-1",
+        "currentResidueBudget": 28.85,
+        "accountId": 3822,
+        "accountName": "广州道弘电子商务有限公司(PX)",
+        "compareResidueBudget": 0.0,
+        "advertId": 25927,
+        "variation": 28.85,
+        "ratio": "Infinity"
+      },
+      {
+        "advertName": "华尔街英语-英语豪礼",
+        "currentResidueBudget": 40.37,
+        "accountId": 5784,
+        "accountName": "北京华尔街英语培训中心有限公司(JQZX)",
+        "compareResidueBudget": 15.38,
+        "advertId": 25167,
+        "variation": 24.99,
+        "ratio": "1.6248"
+      },
+      {
+        "advertName": "现金白卡-82-2-oc",
+        "currentResidueBudget": 544.39,
+        "accountId": 424,
+        "accountName": "上海浅橙网络科技有限公司(1)",
+        "compareResidueBudget": 523.93,
+        "advertId": 23276,
+        "variation": 20.46,
+        "ratio": "0.0391"
+      },
+      {
+        "advertName": "招商综合险6",
+        "currentResidueBudget": 107.9,
+        "accountId": 4595,
+        "accountName": "招商信诺人寿保险有限公司(SZ)",
+        "compareResidueBudget": 87.74,
+        "advertId": 25247,
+        "variation": 20.16,
+        "ratio": "0.2298"
+      },
+      {
+        "advertName": "助学金-推7",
+        "currentResidueBudget": 65.35,
+        "accountId": 4897,
+        "accountName": "北京晟宏教育咨询有限公司(D)",
+        "compareResidueBudget": 47.6,
+        "advertId": 23863,
+        "variation": 17.75,
+        "ratio": "0.3729"
+      },
+      {
+        "advertName": "小黑鱼-新H5 安卓15",
+        "currentResidueBudget": 80.73,
+        "accountId": 5980,
+        "accountName": "南京铁帆网络科技有限公司(XM)",
+        "compareResidueBudget": 64.18,
+        "advertId": 25725,
+        "variation": 16.55,
+        "ratio": "0.2579"
+      },
+      {
+        "advertName": "融360-车贷-0301",
+        "currentResidueBudget": 210.99,
+        "accountId": 2109,
+        "accountName": "北京融联世纪信息技术有限公司(H5)",
+        "compareResidueBudget": 195.45,
+        "advertId": 25185,
+        "variation": 15.54,
+        "ratio": "0.0795"
+      },
+      {
+        "advertName": "增高3.13-2",
+        "currentResidueBudget": 14.1,
+        "accountId": 3822,
+        "accountName": "广州道弘电子商务有限公司(PX)",
+        "compareResidueBudget": 0.0,
+        "advertId": 25929,
+        "variation": 14.1,
+        "ratio": "Infinity"
+      },
+      {
+        "advertName": "推啊做落地页",
+        "currentResidueBudget": 124.49,
+        "accountId": 3831,
+        "accountName": "四川帝禾龙华科技有限责任公司(PX1)",
+        "compareResidueBudget": 110.85,
+        "advertId": 25840,
+        "variation": 13.64,
+        "ratio": "0.1230"
+      },
+      {
+        "advertName": "省呗-安卓（会会改）1 算法",
+        "currentResidueBudget": 136.28,
+        "accountId": 614,
+        "accountName": "深圳萨摩耶互联网金融服务有限公司",
+        "compareResidueBudget": 124.53,
+        "advertId": 24630,
+        "variation": 11.75,
+        "ratio": "0.0944"
+      },
+      {
+        "advertName": "3户落地页865IOS",
+        "currentResidueBudget": 1534.59,
+        "accountId": 4536,
+        "accountName": "北京皓琳通盛网络科技有限公司(DM)",
+        "compareResidueBudget": 1523.73,
+        "advertId": 24949,
+        "variation": 10.86,
+        "ratio": "0.0071"
+      },
+      {
+        "advertName": "宜华实木",
+        "currentResidueBudget": 83.3,
+        "accountId": 6613,
+        "accountName": "新疆宜华时代家具有限公司(FF)",
+        "compareResidueBudget": 72.6,
+        "advertId": 25908,
+        "variation": 10.7,
+        "ratio": "0.1474"
+      },
+      {
+        "advertName": "ws合众保险",
+        "currentResidueBudget": 93.81,
+        "accountId": 6362,
+        "accountName": "泰康人寿保险股份有限公司(WS)",
+        "compareResidueBudget": 84.2,
+        "advertId": 25178,
+        "variation": 9.61,
+        "ratio": "0.1141"
+      },
+      {
+        "advertName": "省呗-安卓-黑卡21",
+        "currentResidueBudget": 84.48,
+        "accountId": 614,
+        "accountName": "深圳萨摩耶互联网金融服务有限公司",
+        "compareResidueBudget": 74.96,
+        "advertId": 25878,
+        "variation": 9.52,
+        "ratio": "0.1270"
+      },
+      {
+        "advertName": "4户新王者霸业910",
+        "currentResidueBudget": 163.33,
+        "accountId": 6279,
+        "accountName": "广州热血信息技术有限责任公司(DM)",
+        "compareResidueBudget": 154.59,
+        "advertId": 25572,
+        "variation": 8.74,
+        "ratio": "0.0565"
+      },
+      {
+        "advertName": "兴业-F1699244-集合-新素材",
+        "currentResidueBudget": 13.58,
+        "accountId": 3181,
+        "accountName": "兴业银行股份有限公司上海分行(BY)",
+        "compareResidueBudget": 6.88,
+        "advertId": 25909,
+        "variation": 6.7,
+        "ratio": "0.9738"
+      },
+      {
+        "advertName": "美窝-cb0313",
+        "currentResidueBudget": 45.84,
+        "accountId": 1604,
+        "accountName": "美窝科技（北京）有限公司(ml)",
+        "compareResidueBudget": 40.08,
+        "advertId": 25880,
+        "variation": 5.76,
+        "ratio": "0.1437"
+      },
+      {
+        "advertName": "英孚-上海-399",
+        "currentResidueBudget": 25.74,
+        "accountId": 3279,
+        "accountName": "英域成语言培训（南京）有限公司",
+        "compareResidueBudget": 22.49,
+        "advertId": 25885,
+        "variation": 3.25,
+        "ratio": "0.1445"
+      },
+      {
+        "advertName": "传奇来了-安卓-1298（target）",
+        "currentResidueBudget": 14.47,
+        "accountId": 5352,
+        "accountName": "上海恺英网络科技有限公司(SZ)",
+        "compareResidueBudget": 11.32,
+        "advertId": 25898,
+        "variation": 3.15,
+        "ratio": "0.2783"
+      },
+      {
+        "advertName": "省呗-双券-duiba18",
+        "currentResidueBudget": 1.76,
+        "accountId": 614,
+        "accountName": "深圳萨摩耶互联网金融服务有限公司",
+        "compareResidueBudget": 0.0,
+        "advertId": 25807,
+        "variation": 1.76,
+        "ratio": "Infinity"
+      },
+      {
+        "advertName": "光大银行+落地页",
+        "currentResidueBudget": 3.62,
+        "accountId": 5993,
+        "accountName": "中国光大银行股份有限公司信用卡中心2",
+        "compareResidueBudget": 2.26,
+        "advertId": 25904,
+        "variation": 1.36,
+        "ratio": "0.6018"
+      },
+      {
+        "advertName": "中英-01-1215四川",
+        "currentResidueBudget": 11.6,
+        "accountId": 4595,
+        "accountName": "招商信诺人寿保险有限公司(SZ)",
+        "compareResidueBudget": 10.63,
+        "advertId": 23702,
+        "variation": 0.97,
+        "ratio": "0.0913"
+      },
+      {
+        "advertName": "3002171 快视频 0305",
+        "currentResidueBudget": 0.51,
+        "accountId": 5090,
+        "accountName": "光锐恒宇（北京）科技有限公司",
+        "compareResidueBudget": 0.0,
+        "advertId": 25384,
+        "variation": 0.51,
+        "ratio": "Infinity"
+      },
+      {
+        "advertName": " sayabc",
+        "currentResidueBudget": 47.04,
+        "accountId": 6282,
+        "accountName": "上海徐汇区韦博进修学校(JQZX)",
+        "compareResidueBudget": 46.82,
+        "advertId": 25918,
+        "variation": 0.22,
+        "ratio": "0.0047"
+      },
+      {
+        "advertName": "积木家-北京-mfsj-1-IOS",
+        "currentResidueBudget": 0.09,
+        "accountId": 2822,
+        "accountName": "西安积木家信息科技有限公司(SC)",
+        "compareResidueBudget": 0.0,
+        "advertId": 22008,
+        "variation": 0.09,
+        "ratio": "Infinity"
+      },
+      {
+        "advertName": "指还王-安卓-新链接03",
+        "currentResidueBudget": 40.15,
+        "accountId": 5043,
+        "accountName": "小花互联网金融服务（深圳）有限公司(指还王)",
+        "compareResidueBudget": 40.06,
+        "advertId": 25684,
+        "variation": 0.09,
+        "ratio": "0.0022"
+      }
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "success": true,
+  "errorCode": null,
+  "desc": "出错了",
+  "data": {
+    "launchPvTotal": 123,
+    "efclickPvTotal": 123,
+    "adConsumeTotal": 123.12,
+    "launchPvAvg": 123,
+    "efclickPvAvg": 123,
+    "clickPrice": 12312
+  }
+}

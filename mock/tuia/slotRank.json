@@ -1,0 +1,98 @@
+{
+    "success": true,
+    "errorCode": null,
+    "desc": null,
+    "data": {
+        "info":{
+            "slotId":123456,
+            "slotName":"广告位"
+        },
+        "basic": {
+            "diffValue": "-36558.69",
+            "contrastValue": "1867998.21",
+            "currentValue": "1831439.52"
+        },
+        "table": [
+            {
+                "slotName": "开屏",
+                "slotId": 3015,
+                "contrastValue": "282.30",
+                "currentValue": "67433.57",
+                "variation": "67151.27",
+                "ratio": "237.8720"
+            },
+            {
+                "slotName": "APP红包位 - 安卓",
+                "slotId": 2114,
+                "contrastValue": "552.53",
+                "currentValue": "15820.31",
+                "variation": "15267.78",
+                "ratio": "27.6325"
+            },
+            {
+                "slotName": "360OS-锁屏-icon",
+                "slotId": 3834,
+                "contrastValue": "54.70",
+                "currentValue": "13229.98",
+                "variation": "13175.28",
+                "ratio": "240.8644"
+            },
+            {
+                "slotName": "【惠头条】置顶新闻",
+                "slotId": 4882,
+                "contrastValue": "29186.81",
+                "currentValue": "41197.49",
+                "variation": "12010.68",
+                "ratio": "0.4115"
+            },
+            {
+                "slotName": "【惠头条】“任务中心”banner",
+                "slotId": 4155,
+                "contrastValue": "43407.46",
+                "currentValue": "55109.17",
+                "variation": "11701.71",
+                "ratio": "0.2696"
+            },
+            {
+                "slotName": "健康菜谱",
+                "slotId": 4766,
+                "contrastValue": "1180.21",
+                "currentValue": "11673.82",
+                "variation": "10493.61",
+                "ratio": "8.8913"
+            },
+            {
+                "slotName": "开屏（老版）",
+                "slotId": 3920,
+                "contrastValue": "5682.80",
+                "currentValue": "13096.46",
+                "variation": "7413.66",
+                "ratio": "1.3046"
+            },
+            {
+                "slotName": "神奇优惠券",
+                "slotId": 3041,
+                "contrastValue": "4384.78",
+                "currentValue": "10434.26",
+                "variation": "6049.48",
+                "ratio": "1.3797"
+            },
+            {
+                "slotName": "福瑞德微信端1（麦啦）",
+                "slotId": 5188,
+                "contrastValue": "18.72",
+                "currentValue": "5672.22",
+                "variation": "5653.50",
+                "ratio": "302.0032"
+            },
+            {
+                "slotName": "开屏",
+                "slotId": 3273,
+                "contrastValue": "15120.96",
+                "currentValue": "20676.90",
+                "variation": "5555.94",
+                "ratio": "0.3674"
+            }
+        ]
+    }
+}

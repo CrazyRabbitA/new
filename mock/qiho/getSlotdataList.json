@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "arpu": 0.1,
+      "clickCount": 100,
+      "consumeTotal": 1000,
+      "cpa": 20,
+      "cpc": 10,
+      "ctr": "10%",
+      "cvr": "13%",
+      "finishTime": "2018-03-19 08:33:52",
+      "itemId": 80,
+      "advertId": 33,
+      "itemName": "插卡手表",
+      "launchCount": 1200,
+      "merchantName": "盛世嘉祥",
+      "merchantId": 12,
+      "orderCount": 15
+    },
+    {
+      "arpu": 0.2,
+      "clickCount": 100,
+      "consumeTotal": 2000,
+      "cpa": 24,
+      "cpc": 10,
+      "ctr": "15%",
+      "cvr": "10%",
+      "finishTime": "2018-03-19 08:33:52",
+      "itemId": 77,
+      "advertId": 34,
+      "itemName": "对戒",
+      "launchCount": 1800,
+      "merchantName": "盛世嘉祥",
+      "merchantId": 12,
+      "orderCount": 20
+    },
+    {
+      "arpu": 0.2,
+      "clickCount": 100,
+      "consumeTotal": 2000,
+      "cpa": 24,
+      "cpc": 10,
+      "ctr": "15%",
+      "cvr": "10%",
+      "finishTime": "2018-03-19 08:33:52",
+      "itemId": 77,
+      "advertId": 14491,
+      "itemName": "对戒",
+      "launchCount": 1800,
+      "merchantName": "盛世嘉祥",
+      "merchantId": 12,
+      "orderCount": 20
+    }
+  ],
+  "desc": "string",
+  "errorCode": "string",
+  "success": true
+}

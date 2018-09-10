@@ -1,0 +1,16 @@
+{
+  "data": {
+    "list": [
+      {
+        "adId": 2,
+        "aeId": 2,
+        "aeName": "吴xx",
+        "id": 0
+      }
+    ],
+    "total": 20
+  },
+  "desc": "string",
+  "errorCode": "string",
+  "success": true
+}

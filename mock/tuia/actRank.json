@@ -1,0 +1,98 @@
+{
+    "success": true,
+    "errorCode": null,
+    "desc": null,
+    "data": {
+        "info":{
+			"activityId":123456,
+			"activityName":"活动"
+		},
+        "basic": {
+            "diffValue": -48737.0000,
+            "contrastValue": 1469368.0000,
+            "currentValue": 1420631.0000
+        },
+        "table": [
+            {
+                "activityId": 4503,
+                "activityTitle": "福利大风暴",
+                "contrastValue": 15332.0000,
+                "currentValue": 53683.0000,
+                "variation": 38351.0000,
+                "ratio": "2.50136968"
+            },
+            {
+                "activityId": 4350,
+                "activityTitle": "轻松赢个大红包",
+                "contrastValue": 39304.0000,
+                "currentValue": 55890.0000,
+                "variation": 16586.0000,
+                "ratio": "0.42199267"
+            },
+            {
+                "activityId": 4318,
+                "activityTitle": "11月发大财",
+                "contrastValue": 11610.0000,
+                "currentValue": 14665.0000,
+                "variation": 3055.0000,
+                "ratio": "0.26313523"
+            },
+            {
+                "activityId": 2711,
+                "activityTitle": "欢乐七夕送大屏机",
+                "contrastValue": 3244.0000,
+                "currentValue": 6200.0000,
+                "variation": 2956.0000,
+                "ratio": "0.91122072"
+            },
+            {
+                "activityId": 3213,
+                "activityTitle": "红包大派送~",
+                "contrastValue": 7883.0000,
+                "currentValue": 10651.0000,
+                "variation": 2768.0000,
+                "ratio": "0.35113535"
+            },
+            {
+                "activityId": 2501,
+                "activityTitle": "主人快收话费啦",
+                "contrastValue": 25372.0000,
+                "currentValue": 28102.0000,
+                "variation": 2730.0000,
+                "ratio": "0.10759893"
+            },
+            {
+                "activityId": 1729,
+                "activityTitle": "主题乐园陪你过暑假",
+                "contrastValue": 398.0000,
+                "currentValue": 2775.0000,
+                "variation": 2377.0000,
+                "ratio": "5.97236181"
+            },
+            {
+                "activityId": 3294,
+                "activityTitle": "红包扎堆送",
+                "contrastValue": 5466.0000,
+                "currentValue": 7768.0000,
+                "variation": 2302.0000,
+                "ratio": "0.42114892"
+            },
+            {
+                "activityId": 3111,
+                "activityTitle": "红包送你6到飞起",
+                "contrastValue": 3986.0000,
+                "currentValue": 6251.0000,
+                "variation": 2265.0000,
+                "ratio": "0.56823884"
+            },
+            {
+                "activityId": 2161,
+                "activityTitle": "周四惊喜红包",
+                "contrastValue": 7788.0000,
+                "currentValue": 9779.0000,
+                "variation": 1991.0000,
+                "ratio": "0.25564972"
+            }
+        ]
+    }
+}

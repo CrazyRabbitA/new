@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "errorCode": null,
+  "desc": null,
+  "data": {
+    "grand": {
+      "0": [
+        {
+          "id": 1,
+          "categoryName": "报表管理"
+        }
+      ]
+    },
+    "par": {
+      "1": [
+        {
+          "id": 3,
+          "categoryName": "推啊"
+        },
+        {
+          "id": 8,
+          "categoryName": "有粉"
+        },
+        {
+          "id": 2,
+          "categoryName": "兑吧"
+        }
+      ]
+    },
+    "chi": {
+      "3": [
+        {
+          "id": 5,
+          "categoryName": "媒体运营"
+        },
+        {
+          "id": 6,
+          "categoryName": "广告运营"
+        },
+        {
+          "id": 4,
+          "categoryName": "活动运营"
+        },
+        {
+          "id": 7,
+          "categoryName": "风控运营"
+        }
+      ],
+      "8": [
+        {
+          "id": 9,
+          "categoryName": "有粉"
+        }
+      ],
+      "2": []
+    }
+  }
+}

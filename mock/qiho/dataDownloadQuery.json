@@ -1,0 +1,10 @@
+{
+  "success": true,
+  "errorCode": null,
+  "desc": null,
+  "data": {
+    "userId": 1,
+    "baseDataColumn": [],
+    "mainDataColumn": []
+  }
+}

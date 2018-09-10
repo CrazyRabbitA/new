@@ -1,0 +1,14 @@
+{
+  "success": true,
+  "errorCode": null,
+  "desc": null,
+  "data": {
+    "hopper": {
+      "curDate": "2017-11-04",
+      "login": 1000,
+      "inroom": 900,
+      "finish": 700,
+      "again": 100
+    }
+  }
+}

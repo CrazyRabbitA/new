@@ -1,0 +1,23 @@
+{
+  "success": true,
+  "errorCode": null,
+  "desc": null,
+  "data": [{
+    "id": 1,
+    "databaseName": "database1",
+    "url": "aaa",
+    "databaseUsername": "aaa",
+    "databasePassword": "aaa",
+    "databaseAlias": "别名1",
+    "driverType": 2
+  },
+  {
+    "id": 2,
+    "databaseName": "database2",
+    "url": "bbb",
+    "databaseUsername": "bbb",
+    "databasePassword": "bbb",
+    "databaseAlias": "别名2",
+    "driverType": 1
+  }]
+}

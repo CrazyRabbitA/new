@@ -1,0 +1,41 @@
+{
+    "success": true,
+    "errorCode": null,
+    "desc": null,
+    "data": {
+        "table": [
+            {
+                "curDate": "2017-11-09",
+                "dimension": "搜狗阅读",
+                "exposurePv": 1000,
+                "exposureUv": 1000,
+                "accessPv": 1000,
+                "accessUv": 1000,
+                "participatePv": 1000,
+                "participateUv": 1000,
+                "participatePercent": 0.8,
+                "payCoupon": 10000,
+                "paycouponpercent": 0.8,
+                "bagClickPercent": 0.8,
+                "requestPercent": 0.8,
+                "consumeTotal": 1000
+            },
+            {
+                "curDate": "2017-11-09",
+                "dimension": "搜狗阅读",
+                "exposurePv": 1000,
+                "exposureUv": 1000,
+                "accessPv": 1000,
+                "accessUv": 1000,
+                "participatePv": 1000,
+                "participateUv": 1000,
+                "participatePercent": 0.8,
+                "payCoupon": 10000,
+                "paycouponpercent": 0.8,
+                "bagClickPercent": 0.8,
+                "requestPercent": 0.8,
+                "consumeTotal": 1000
+            }
+        ]
+    }
+}

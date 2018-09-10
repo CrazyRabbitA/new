@@ -1,0 +1,68 @@
+{
+  "success": true,
+  "errorCode": null,
+  "desc": null,
+  "data": {
+    "searchEntity": [
+      {
+        "id": 802,
+        "chartQueryId": 134,
+        "searchName": "startDate",
+        "labelName": "开始",
+        "searchOrder": 1,
+        "searchType": 1,
+        "defaultType": 1,
+        "defaultValue": "",
+        "extInfo": ""
+      },
+      {
+        "id": 803,
+        "chartQueryId": 134,
+        "searchName": "endDate",
+        "labelName": "结束",
+        "searchOrder": 2,
+        "searchType": 1,
+        "defaultType": 1,
+        "defaultValue": "",
+        "extInfo": ""
+      }
+    ],
+    "chartExt": {
+      "chartQueryId": 134,
+      "timePeriod": 1,
+      "defaultColumnName": null,
+      "timeColumnName": "cur_date",
+      "startDateSearchName": "startDate",
+      "endDateSearchName": "endDate",
+      "todLine": 1,
+      "yesLine": 1,
+      "sevAveLine": 1
+    },
+    "columnEntity": [
+      {
+        "id": 1713,
+        "chartQueryId": 134,
+        "columnOrder": 1,
+        "columnTitle": "cur_date",
+        "alias": "了",
+        "formatType": 1
+      },
+      {
+        "id": 1714,
+        "chartQueryId": 134,
+        "columnOrder": 2,
+        "columnTitle": "SUM(sdk_pv)",
+        "alias": "pv了",
+        "formatType": 5
+      },
+      {
+        "id": 1715,
+        "chartQueryId": 134,
+        "columnOrder": 3,
+        "columnTitle": "SUM(sdk_uv)",
+        "alias": "uv了",
+        "formatType": 5
+      }
+    ]
+  }
+}

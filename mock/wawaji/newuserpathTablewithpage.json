@@ -1,0 +1,63 @@
+{
+  "success": true,
+  "errorCode": null,
+  "desc": null,
+  "data": {
+    "table": [
+      {
+        "curDate": "2017-11-01",
+        "launch": 1000,
+        "click": 1000,
+        "login": 1000,
+        "inroom": 1000,
+        "finish": 1000,
+        "charge": 1000
+      },
+      {
+        "curDate": "2017-11-02",
+        "launch": 2000,
+        "click": 1000,
+        "login": 1000,
+        "inroom": 1000,
+        "finish": 1000,
+        "charge": 1000
+      },
+      {
+        "curDate": "2017-11-03",
+        "launch": 3000,
+        "click": 1000,
+        "login": 1000,
+        "inroom": 1000,
+        "finish": 1000,
+        "charge": 1000
+      },
+      {
+        "curDate": "2017-11-04",
+        "launch": 1500,
+        "click": 1000,
+        "login": 1000,
+        "inroom": 1000,
+        "finish": 1000,
+        "charge": 1000
+      },
+      {
+        "curDate": "2017-11-05",
+        "launch": 1800,
+        "click": 1000,
+        "login": 1000,
+        "inroom": 1000,
+        "finish": 1000,
+        "charge": 1000
+      },
+      {
+        "curDate": "2017-11-06",
+        "launch": 2500,
+        "click": 1000,
+        "login": 1000,
+        "inroom": 1000,
+        "finish": 1000,
+        "charge": 1000
+      }
+    ]
+  }
+}

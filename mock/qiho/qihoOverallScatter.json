@@ -1,0 +1,1453 @@
+{
+  "success":true,
+  "errorCode":null,
+  "desc":null,
+  "data":{
+      "yesterday":{
+          "00-00:30":{
+              "dhour":"00-00:30",
+              "consumeTotal":7231.3,
+              "orderCount":899,
+              "finishTime":"00:30",
+              "startTime":"2018-03-14 00:00",
+              "cpa":804.372,
+              "ctr":0.4576,
+              "cvr":0.0442
+          },
+          "00-01:00":{
+              "dhour":"00-01:00",
+              "consumeTotal":5676.26,
+              "orderCount":683,
+              "finishTime":"01:00",
+              "startTime":"2018-03-14 00:30",
+              "cpa":831.078,
+              "ctr":0.429,
+              "cvr":0.0449
+          },
+          "00-01:30":{
+              "dhour":"00-01:30",
+              "consumeTotal":4699.22,
+              "orderCount":508,
+              "finishTime":"01:30",
+              "startTime":"2018-03-14 01:00",
+              "cpa":925.043,
+              "ctr":0.4265,
+              "cvr":0.0444
+          },
+          "00-02:00":{
+              "dhour":"00-02:00",
+              "consumeTotal":4045.23,
+              "orderCount":484,
+              "finishTime":"02:00",
+              "startTime":"2018-03-14 01:30",
+              "cpa":835.791,
+              "ctr":0.4123,
+              "cvr":0.0459
+          },
+          "00-02:30":{
+              "dhour":"00-02:30",
+              "consumeTotal":3241.18,
+              "orderCount":362,
+              "finishTime":"02:30",
+              "startTime":"2018-03-14 02:00",
+              "cpa":895.354,
+              "ctr":0.4355,
+              "cvr":0.0458
+          },
+          "00-03:00":{
+              "dhour":"00-03:00",
+              "consumeTotal":2653.31,
+              "orderCount":314,
+              "finishTime":"03:00",
+              "startTime":"2018-03-14 02:30",
+              "cpa":845.003,
+              "ctr":0.4547,
+              "cvr":0.0441
+          },
+          "00-03:30":{
+              "dhour":"00-03:30",
+              "consumeTotal":2257.32,
+              "orderCount":307,
+              "finishTime":"03:30",
+              "startTime":"2018-03-14 03:00",
+              "cpa":735.283,
+              "ctr":0.462,
+              "cvr":0.0466
+          },
+          "00-04:00":{
+              "dhour":"00-04:00",
+              "consumeTotal":2333.55,
+              "orderCount":300,
+              "finishTime":"04:00",
+              "startTime":"2018-03-14 03:30",
+              "cpa":777.85,
+              "ctr":0.4607,
+              "cvr":0.0441
+          },
+          "00-04:30":{
+              "dhour":"00-04:30",
+              "consumeTotal":2321.12,
+              "orderCount":266,
+              "finishTime":"04:30",
+              "startTime":"2018-03-14 04:00",
+              "cpa":872.602,
+              "ctr":0.4518,
+              "cvr":0.0406
+          },
+          "00-05:00":{
+              "dhour":"00-05:00",
+              "consumeTotal":3096.27,
+              "orderCount":362,
+              "finishTime":"05:00",
+              "startTime":"2018-03-14 04:30",
+              "cpa":855.323,
+              "ctr":0.4671,
+              "cvr":0.0433
+          },
+          "00-05:30":{
+              "dhour":"00-05:30",
+              "consumeTotal":3528.87,
+              "orderCount":401,
+              "finishTime":"05:30",
+              "startTime":"2018-03-14 05:00",
+              "cpa":880.017,
+              "ctr":0.4882,
+              "cvr":0.0401
+          },
+          "00-06:00":{
+              "dhour":"00-06:00",
+              "consumeTotal":4410.77,
+              "orderCount":460,
+              "finishTime":"06:00",
+              "startTime":"2018-03-14 05:30",
+              "cpa":958.863,
+              "ctr":0.4733,
+              "cvr":0.0337
+          },
+          "00-06:30":{
+              "dhour":"00-06:30",
+              "consumeTotal":5989.51,
+              "orderCount":690,
+              "finishTime":"06:30",
+              "startTime":"2018-03-14 06:00",
+              "cpa":868.045,
+              "ctr":0.4924,
+              "cvr":0.0348
+          },
+          "00-07:00":{
+              "dhour":"00-07:00",
+              "consumeTotal":7918.2,
+              "orderCount":928,
+              "finishTime":"07:00",
+              "startTime":"2018-03-14 06:30",
+              "cpa":853.254,
+              "ctr":0.4734,
+              "cvr":0.0326
+          },
+          "00-07:30":{
+              "dhour":"00-07:30",
+              "consumeTotal":7404.87,
+              "orderCount":940,
+              "finishTime":"07:30",
+              "startTime":"2018-03-14 07:00",
+              "cpa":787.752,
+              "ctr":0.4778,
+              "cvr":0.0361
+          },
+          "00-08:00":{
+              "dhour":"00-08:00",
+              "consumeTotal":8308.67,
+              "orderCount":1094,
+              "finishTime":"08:00",
+              "startTime":"2018-03-14 07:30",
+              "cpa":759.476,
+              "ctr":0.4815,
+              "cvr":0.0373
+          },
+          "00-08:30":{
+              "dhour":"00-08:30",
+              "consumeTotal":6813.97,
+              "orderCount":884,
+              "finishTime":"08:30",
+              "startTime":"2018-03-14 08:00",
+              "cpa":770.811,
+              "ctr":0.485,
+              "cvr":0.0389
+          },
+          "00-09:00":{
+              "dhour":"00-09:00",
+              "consumeTotal":6579.97,
+              "orderCount":990,
+              "finishTime":"09:00",
+              "startTime":"2018-03-14 08:30",
+              "cpa":664.643,
+              "ctr":0.4683,
+              "cvr":0.0415
+          },
+          "00-09:30":{
+              "dhour":"00-09:30",
+              "consumeTotal":5182.25,
+              "orderCount":769,
+              "finishTime":"09:30",
+              "startTime":"2018-03-14 09:00",
+              "cpa":673.895,
+              "ctr":0.4481,
+              "cvr":0.0426
+          },
+          "00-10:00":{
+              "dhour":"00-10:00",
+              "consumeTotal":5272.83,
+              "orderCount":803,
+              "finishTime":"10:00",
+              "startTime":"2018-03-14 09:30",
+              "cpa":656.641,
+              "ctr":0.4967,
+              "cvr":0.0448
+          },
+          "00-10:30":{
+              "dhour":"00-10:30",
+              "consumeTotal":5000.73,
+              "orderCount":736,
+              "finishTime":"10:30",
+              "startTime":"2018-03-14 10:00",
+              "cpa":679.447,
+              "ctr":0.521,
+              "cvr":0.0475
+          },
+          "00-11:00":{
+              "dhour":"00-11:00",
+              "consumeTotal":6062.03,
+              "orderCount":841,
+              "finishTime":"11:00",
+              "startTime":"2018-03-14 10:30",
+              "cpa":720.812,
+              "ctr":0.5472,
+              "cvr":0.0484
+          },
+          "00-11:30":{
+              "dhour":"00-11:30",
+              "consumeTotal":5710.49,
+              "orderCount":855,
+              "finishTime":"11:30",
+              "startTime":"2018-03-14 11:00",
+              "cpa":667.894,
+              "ctr":0.5664,
+              "cvr":0.0519
+          },
+          "00-12:00":{
+              "dhour":"00-12:00",
+              "consumeTotal":7205.53,
+              "orderCount":953,
+              "finishTime":"12:00",
+              "startTime":"2018-03-14 11:30",
+              "cpa":756.089,
+              "ctr":0.5526,
+              "cvr":0.0437
+          },
+          "00-12:30":{
+              "dhour":"00-12:30",
+              "consumeTotal":6750.67,
+              "orderCount":888,
+              "finishTime":"12:30",
+              "startTime":"2018-03-14 12:00",
+              "cpa":760.211,
+              "ctr":0.5493,
+              "cvr":0.0425
+          },
+          "00-13:00":{
+              "dhour":"00-13:00",
+              "consumeTotal":7229.74,
+              "orderCount":986,
+              "finishTime":"13:00",
+              "startTime":"2018-03-14 12:30",
+              "cpa":733.239,
+              "ctr":0.5335,
+              "cvr":0.042
+          },
+          "00-13:30":{
+              "dhour":"00-13:30",
+              "consumeTotal":7340.56,
+              "orderCount":991,
+              "finishTime":"13:30",
+              "startTime":"2018-03-14 13:00",
+              "cpa":740.723,
+              "ctr":0.5649,
+              "cvr":0.0428
+          },
+          "00-14:00":{
+              "dhour":"00-14:00",
+              "consumeTotal":5826.38,
+              "orderCount":779,
+              "finishTime":"14:00",
+              "startTime":"2018-03-14 13:30",
+              "cpa":747.931,
+              "ctr":0.5616,
+              "cvr":0.0428
+          },
+          "00-14:30":{
+              "dhour":"00-14:30",
+              "consumeTotal":5151.29,
+              "orderCount":655,
+              "finishTime":"14:30",
+              "startTime":"2018-03-14 14:00",
+              "cpa":786.456,
+              "ctr":0.5778,
+              "cvr":0.0421
+          },
+          "00-15:00":{
+              "dhour":"00-15:00",
+              "consumeTotal":5351.64,
+              "orderCount":671,
+              "finishTime":"15:00",
+              "startTime":"2018-03-14 14:30",
+              "cpa":797.562,
+              "ctr":0.5807,
+              "cvr":0.0414
+          },
+          "00-15:30":{
+              "dhour":"00-15:30",
+              "consumeTotal":4482.81,
+              "orderCount":626,
+              "finishTime":"15:30",
+              "startTime":"2018-03-14 15:00",
+              "cpa":716.104,
+              "ctr":0.5782,
+              "cvr":0.0448
+          },
+          "00-16:00":{
+              "dhour":"00-16:00",
+              "consumeTotal":5270.2,
+              "orderCount":706,
+              "finishTime":"16:00",
+              "startTime":"2018-03-14 15:30",
+              "cpa":746.487,
+              "ctr":0.5145,
+              "cvr":0.0407
+          },
+          "00-16:30":{
+              "dhour":"00-16:30",
+              "consumeTotal":4954.06,
+              "orderCount":655,
+              "finishTime":"16:30",
+              "startTime":"2018-03-14 16:00",
+              "cpa":756.345,
+              "ctr":0.4844,
+              "cvr":0.0389
+          },
+          "00-17:00":{
+              "dhour":"00-17:00",
+              "consumeTotal":6044.43,
+              "orderCount":782,
+              "finishTime":"17:00",
+              "startTime":"2018-03-14 16:30",
+              "cpa":772.945,
+              "ctr":0.487,
+              "cvr":0.0393
+          },
+          "00-17:30":{
+              "dhour":"00-17:30",
+              "consumeTotal":5038.95,
+              "orderCount":621,
+              "finishTime":"17:30",
+              "startTime":"2018-03-14 17:00",
+              "cpa":811.425,
+              "ctr":0.4962,
+              "cvr":0.0387
+          },
+          "00-18:00":{
+              "dhour":"00-18:00",
+              "consumeTotal":5920.64,
+              "orderCount":782,
+              "finishTime":"18:00",
+              "startTime":"2018-03-14 17:30",
+              "cpa":757.115,
+              "ctr":0.4544,
+              "cvr":0.0374
+          },
+          "00-18:30":{
+              "dhour":"00-18:30",
+              "consumeTotal":5007.48,
+              "orderCount":675,
+              "finishTime":"18:30",
+              "startTime":"2018-03-14 18:00",
+              "cpa":741.849,
+              "ctr":0.4411,
+              "cvr":0.037
+          },
+          "00-19:00":{
+              "dhour":"00-19:00",
+              "consumeTotal":7360.03,
+              "orderCount":900,
+              "finishTime":"19:00",
+              "startTime":"2018-03-14 18:30",
+              "cpa":817.781,
+              "ctr":0.4906,
+              "cvr":0.0379
+          },
+          "00-19:30":{
+              "dhour":"00-19:30",
+              "consumeTotal":6161.52,
+              "orderCount":757,
+              "finishTime":"19:30",
+              "startTime":"2018-03-14 19:00",
+              "cpa":813.939,
+              "ctr":0.4728,
+              "cvr":0.0349
+          },
+          "00-20:00":{
+              "dhour":"00-20:00",
+              "consumeTotal":7519.91,
+              "orderCount":883,
+              "finishTime":"20:00",
+              "startTime":"2018-03-14 19:30",
+              "cpa":851.632,
+              "ctr":0.4465,
+              "cvr":0.0304
+          },
+          "00-20:30":{
+              "dhour":"00-20:30",
+              "consumeTotal":6727.55,
+              "orderCount":865,
+              "finishTime":"20:30",
+              "startTime":"2018-03-14 20:00",
+              "cpa":777.751,
+              "ctr":0.4578,
+              "cvr":0.0344
+          },
+          "00-21:00":{
+              "dhour":"00-21:00",
+              "consumeTotal":7078.42,
+              "orderCount":917,
+              "finishTime":"21:00",
+              "startTime":"2018-03-14 20:30",
+              "cpa":771.911,
+              "ctr":0.478,
+              "cvr":0.0354
+          },
+          "00-21:30":{
+              "dhour":"00-21:30",
+              "consumeTotal":8264.99,
+              "orderCount":983,
+              "finishTime":"21:30",
+              "startTime":"2018-03-14 21:00",
+              "cpa":840.792,
+              "ctr":0.5049,
+              "cvr":0.0368
+          },
+          "00-22:00":{
+              "dhour":"00-22:00",
+              "consumeTotal":8767.18,
+              "orderCount":1112,
+              "finishTime":"22:00",
+              "startTime":"2018-03-14 21:30",
+              "cpa":788.415,
+              "ctr":0.5025,
+              "cvr":0.0376
+          },
+          "00-22:30":{
+              "dhour":"00-22:30",
+              "consumeTotal":8592.31,
+              "orderCount":1173,
+              "finishTime":"22:30",
+              "startTime":"2018-03-14 22:00",
+              "cpa":732.507,
+              "ctr":0.5027,
+              "cvr":0.041
+          },
+          "00-23:00":{
+              "dhour":"00-23:00",
+              "consumeTotal":9023.4,
+              "orderCount":1155,
+              "finishTime":"23:00",
+              "startTime":"2018-03-14 22:30",
+              "cpa":781.247,
+              "ctr":0.5013,
+              "cvr":0.0405
+          },
+          "00-23:30":{
+              "dhour":"00-23:30",
+              "consumeTotal":9846.95,
+              "orderCount":1201,
+              "finishTime":"23:30",
+              "startTime":"2018-03-14 23:00",
+              "cpa":819.896,
+              "ctr":0.509,
+              "cvr":0.0424
+          },
+          "00-24:00":{
+              "dhour":"00-24:00",
+              "consumeTotal":0,
+              "orderCount":0,
+              "finishTime":"00:00",
+              "startTime":"2018-03-14 23:30",
+              "cpa":0,
+              "ctr":0,
+              "cvr":0
+          }
+      },
+      "extraDate":{
+          "00-00:30":{
+              "dhour":"00-00:30",
+              "consumeTotal":7250.39,
+              "orderCount":904,
+              "finishTime":"00:30",
+              "startTime":"2018-03-15 00:00",
+              "cpa":802.034,
+              "ctr":0.4086,
+              "cvr":0.0492
+          },
+          "00-01:00":{
+              "dhour":"00-01:00",
+              "consumeTotal":6416.54,
+              "orderCount":654,
+              "finishTime":"01:00",
+              "startTime":"2018-03-15 00:30",
+              "cpa":981.122,
+              "ctr":0.4084,
+              "cvr":0.0448
+          },
+          "00-01:30":{
+              "dhour":"00-01:30",
+              "consumeTotal":4255.2,
+              "orderCount":481,
+              "finishTime":"01:30",
+              "startTime":"2018-03-15 01:00",
+              "cpa":884.657,
+              "ctr":0.4147,
+              "cvr":0.0473
+          },
+          "00-02:00":{
+              "dhour":"00-02:00",
+              "consumeTotal":3665.75,
+              "orderCount":415,
+              "finishTime":"02:00",
+              "startTime":"2018-03-15 01:30",
+              "cpa":883.313,
+              "ctr":0.4062,
+              "cvr":0.0462
+          },
+          "00-02:30":{
+              "dhour":"00-02:30",
+              "consumeTotal":2375.8,
+              "orderCount":307,
+              "finishTime":"02:30",
+              "startTime":"2018-03-15 02:00",
+              "cpa":773.876,
+              "ctr":0.4048,
+              "cvr":0.0481
+          },
+          "00-03:00":{
+              "dhour":"00-03:00",
+              "consumeTotal":2362.55,
+              "orderCount":289,
+              "finishTime":"03:00",
+              "startTime":"2018-03-15 02:30",
+              "cpa":817.491,
+              "ctr":0.4164,
+              "cvr":0.0442
+          },
+          "00-03:30":{
+              "dhour":"00-03:30",
+              "consumeTotal":2259.22,
+              "orderCount":289,
+              "finishTime":"03:30",
+              "startTime":"2018-03-15 03:00",
+              "cpa":781.737,
+              "ctr":0.4236,
+              "cvr":0.0474
+          },
+          "00-04:00":{
+              "dhour":"00-04:00",
+              "consumeTotal":2394.1,
+              "orderCount":276,
+              "finishTime":"04:00",
+              "startTime":"2018-03-15 03:30",
+              "cpa":867.428,
+              "ctr":0.4474,
+              "cvr":0.0422
+          },
+          "00-04:30":{
+              "dhour":"00-04:30",
+              "consumeTotal":2073.88,
+              "orderCount":282,
+              "finishTime":"04:30",
+              "startTime":"2018-03-15 04:00",
+              "cpa":735.418,
+              "ctr":0.4335,
+              "cvr":0.0456
+          },
+          "00-05:00":{
+              "dhour":"00-05:00",
+              "consumeTotal":2030.57,
+              "orderCount":265,
+              "finishTime":"05:00",
+              "startTime":"2018-03-15 04:30",
+              "cpa":766.253,
+              "ctr":0.4279,
+              "cvr":0.0404
+          },
+          "00-05:30":{
+              "dhour":"00-05:30",
+              "consumeTotal":3066.72,
+              "orderCount":336,
+              "finishTime":"05:30",
+              "startTime":"2018-03-15 05:00",
+              "cpa":912.714,
+              "ctr":0.4967,
+              "cvr":0.0377
+          },
+          "00-06:00":{
+              "dhour":"00-06:00",
+              "consumeTotal":3838.49,
+              "orderCount":435,
+              "finishTime":"06:00",
+              "startTime":"2018-03-15 05:30",
+              "cpa":882.411,
+              "ctr":0.4769,
+              "cvr":0.0346
+          },
+          "00-06:30":{
+              "dhour":"00-06:30",
+              "consumeTotal":6450.14,
+              "orderCount":782,
+              "finishTime":"06:30",
+              "startTime":"2018-03-15 06:00",
+              "cpa":824.826,
+              "ctr":0.4934,
+              "cvr":0.0378
+          },
+          "00-07:00":{
+              "dhour":"00-07:00",
+              "consumeTotal":9125.42,
+              "orderCount":1084,
+              "finishTime":"07:00",
+              "startTime":"2018-03-15 06:30",
+              "cpa":841.828,
+              "ctr":0.4723,
+              "cvr":0.0357
+          },
+          "00-07:30":{
+              "dhour":"00-07:30",
+              "consumeTotal":8438.55,
+              "orderCount":1088,
+              "finishTime":"07:30",
+              "startTime":"2018-03-15 07:00",
+              "cpa":775.602,
+              "ctr":0.4878,
+              "cvr":0.0399
+          },
+          "00-08:00":{
+              "dhour":"00-08:00",
+              "consumeTotal":9709.42,
+              "orderCount":1119,
+              "finishTime":"08:00",
+              "startTime":"2018-03-15 07:30",
+              "cpa":867.687,
+              "ctr":0.4657,
+              "cvr":0.0368
+          },
+          "00-08:30":{
+              "dhour":"00-08:30",
+              "consumeTotal":8160.5,
+              "orderCount":1061,
+              "finishTime":"08:30",
+              "startTime":"2018-03-15 08:00",
+              "cpa":769.133,
+              "ctr":0.501,
+              "cvr":0.0439
+          },
+          "00-09:00":{
+              "dhour":"00-09:00",
+              "consumeTotal":9096.96,
+              "orderCount":1110,
+              "finishTime":"09:00",
+              "startTime":"2018-03-15 08:30",
+              "cpa":819.546,
+              "ctr":0.4526,
+              "cvr":0.0381
+          },
+          "00-09:30":{
+              "dhour":"00-09:30",
+              "consumeTotal":8011.49,
+              "orderCount":999,
+              "finishTime":"09:30",
+              "startTime":"2018-03-15 09:00",
+              "cpa":801.951,
+              "ctr":0.4878,
+              "cvr":0.0397
+          },
+          "00-10:00":{
+              "dhour":"00-10:00",
+              "consumeTotal":7448.61,
+              "orderCount":1003,
+              "finishTime":"10:00",
+              "startTime":"2018-03-15 09:30",
+              "cpa":742.633,
+              "ctr":0.4799,
+              "cvr":0.0409
+          },
+          "00-10:30":{
+              "dhour":"00-10:30",
+              "consumeTotal":5344.02,
+              "orderCount":767,
+              "finishTime":"10:30",
+              "startTime":"2018-03-15 10:00",
+              "cpa":696.743,
+              "ctr":0.4937,
+              "cvr":0.0457
+          },
+          "00-11:00":{
+              "dhour":"00-11:00",
+              "consumeTotal":5785.24,
+              "orderCount":682,
+              "finishTime":"11:00",
+              "startTime":"2018-03-15 10:30",
+              "cpa":848.276,
+              "ctr":0.4714,
+              "cvr":0.0388
+          },
+          "00-11:30":{
+              "dhour":"00-11:30",
+              "consumeTotal":0,
+              "orderCount":0,
+              "finishTime":"11:30",
+              "startTime":"2018-03-15 11:00",
+              "cpa":0,
+              "ctr":0,
+              "cvr":0
+          },
+          "00-12:00":{
+              "dhour":"00-12:00",
+              "consumeTotal":0,
+              "orderCount":0,
+              "finishTime":"12:00",
+              "startTime":"2018-03-15 11:30",
+              "cpa":0,
+              "ctr":0,
+              "cvr":0
+          },
+          "00-12:30":{
+              "dhour":"00-12:30",
+              "consumeTotal":0,
+              "orderCount":0,
+              "finishTime":"12:30",
+              "startTime":"2018-03-15 12:00",
+              "cpa":0,
+              "ctr":0,
+              "cvr":0
+          },
+          "00-13:00":{
+              "dhour":"00-13:00",
+              "consumeTotal":0,
+              "orderCount":0,
+              "finishTime":"13:00",
+              "startTime":"2018-03-15 12:30",
+              "cpa":0,
+              "ctr":0,
+              "cvr":0
+          },
+          "00-13:30":{
+              "dhour":"00-13:30",
+              "consumeTotal":0,
+              "orderCount":0,
+              "finishTime":"13:30",
+              "startTime":"2018-03-15 13:00",
+              "cpa":0,
+              "ctr":0,
+              "cvr":0
+          },
+          "00-14:00":{
+              "dhour":"00-14:00",
+              "consumeTotal":0,
+              "orderCount":0,
+              "finishTime":"14:00",
+              "startTime":"2018-03-15 13:30",
+              "cpa":0,
+              "ctr":0,
+              "cvr":0
+          },
+          "00-14:30":{
+              "dhour":"00-14:30",
+              "consumeTotal":0,
+              "orderCount":0,
+              "finishTime":"14:30",
+              "startTime":"2018-03-15 14:00",
+              "cpa":0,
+              "ctr":0,
+              "cvr":0
+          },
+          "00-15:00":{
+              "dhour":"00-15:00",
+              "consumeTotal":0,
+              "orderCount":0,
+              "finishTime":"15:00",
+              "startTime":"2018-03-15 14:30",
+              "cpa":0,
+              "ctr":0,
+              "cvr":0
+          },
+          "00-15:30":{
+              "dhour":"00-15:30",
+              "consumeTotal":0,
+              "orderCount":0,
+              "finishTime":"15:30",
+              "startTime":"2018-03-15 15:00",
+              "cpa":0,
+              "ctr":0,
+              "cvr":0
+          },
+          "00-16:00":{
+              "dhour":"00-16:00",
+              "consumeTotal":0,
+              "orderCount":0,
+              "finishTime":"16:00",
+              "startTime":"2018-03-15 15:30",
+              "cpa":0,
+              "ctr":0,
+              "cvr":0
+          },
+          "00-16:30":{
+              "dhour":"00-16:30",
+              "consumeTotal":0,
+              "orderCount":0,
+              "finishTime":"16:30",
+              "startTime":"2018-03-15 16:00",
+              "cpa":0,
+              "ctr":0,
+              "cvr":0
+          },
+          "00-17:00":{
+              "dhour":"00-17:00",
+              "consumeTotal":0,
+              "orderCount":0,
+              "finishTime":"17:00",
+              "startTime":"2018-03-15 16:30",
+              "cpa":0,
+              "ctr":0,
+              "cvr":0
+          },
+          "00-17:30":{
+              "dhour":"00-17:30",
+              "consumeTotal":0,
+              "orderCount":0,
+              "finishTime":"17:30",
+              "startTime":"2018-03-15 17:00",
+              "cpa":0,
+              "ctr":0,
+              "cvr":0
+          },
+          "00-18:00":{
+              "dhour":"00-18:00",
+              "consumeTotal":0,
+              "orderCount":0,
+              "finishTime":"18:00",
+              "startTime":"2018-03-15 17:30",
+              "cpa":0,
+              "ctr":0,
+              "cvr":0
+          },
+          "00-18:30":{
+              "dhour":"00-18:30",
+              "consumeTotal":0,
+              "orderCount":0,
+              "finishTime":"18:30",
+              "startTime":"2018-03-15 18:00",
+              "cpa":0,
+              "ctr":0,
+              "cvr":0
+          },
+          "00-19:00":{
+              "dhour":"00-19:00",
+              "consumeTotal":0,
+              "orderCount":0,
+              "finishTime":"19:00",
+              "startTime":"2018-03-15 18:30",
+              "cpa":0,
+              "ctr":0,
+              "cvr":0
+          },
+          "00-19:30":{
+              "dhour":"00-19:30",
+              "consumeTotal":0,
+              "orderCount":0,
+              "finishTime":"19:30",
+              "startTime":"2018-03-15 19:00",
+              "cpa":0,
+              "ctr":0,
+              "cvr":0
+          },
+          "00-20:00":{
+              "dhour":"00-20:00",
+              "consumeTotal":0,
+              "orderCount":0,
+              "finishTime":"20:00",
+              "startTime":"2018-03-15 19:30",
+              "cpa":0,
+              "ctr":0,
+              "cvr":0
+          },
+          "00-20:30":{
+              "dhour":"00-20:30",
+              "consumeTotal":0,
+              "orderCount":0,
+              "finishTime":"20:30",
+              "startTime":"2018-03-15 20:00",
+              "cpa":0,
+              "ctr":0,
+              "cvr":0
+          },
+          "00-21:00":{
+              "dhour":"00-21:00",
+              "consumeTotal":0,
+              "orderCount":0,
+              "finishTime":"21:00",
+              "startTime":"2018-03-15 20:30",
+              "cpa":0,
+              "ctr":0,
+              "cvr":0
+          },
+          "00-21:30":{
+              "dhour":"00-21:30",
+              "consumeTotal":0,
+              "orderCount":0,
+              "finishTime":"21:30",
+              "startTime":"2018-03-15 21:00",
+              "cpa":0,
+              "ctr":0,
+              "cvr":0
+          },
+          "00-22:00":{
+              "dhour":"00-22:00",
+              "consumeTotal":0,
+              "orderCount":0,
+              "finishTime":"22:00",
+              "startTime":"2018-03-15 21:30",
+              "cpa":0,
+              "ctr":0,
+              "cvr":0
+          },
+          "00-22:30":{
+              "dhour":"00-22:30",
+              "consumeTotal":0,
+              "orderCount":0,
+              "finishTime":"22:30",
+              "startTime":"2018-03-15 22:00",
+              "cpa":0,
+              "ctr":0,
+              "cvr":0
+          },
+          "00-23:00":{
+              "dhour":"00-23:00",
+              "consumeTotal":0,
+              "orderCount":0,
+              "finishTime":"23:00",
+              "startTime":"2018-03-15 22:30",
+              "cpa":0,
+              "ctr":0,
+              "cvr":0
+          },
+          "00-23:30":{
+              "dhour":"00-23:30",
+              "consumeTotal":0,
+              "orderCount":0,
+              "finishTime":"23:30",
+              "startTime":"2018-03-15 23:00",
+              "cpa":0,
+              "ctr":0,
+              "cvr":0
+          },
+          "00-24:00":{
+              "dhour":"00-24:00",
+              "consumeTotal":0,
+              "orderCount":0,
+              "finishTime":"00:00",
+              "startTime":"2018-03-15 23:30",
+              "cpa":0,
+              "ctr":0,
+              "cvr":0
+          }
+      },
+      "sevenDaysAgo":{
+          "00-00:30":{
+              "dhour":"00-00:30",
+              "consumeTotal":6815.19,
+              "orderCount":851,
+              "finishTime":"00:30",
+              "startTime":"2018-03-08 00:00",
+              "cpa":800.845,
+              "ctr":0.3778,
+              "cvr":0.0384
+          },
+          "00-01:00":{
+              "dhour":"00-01:00",
+              "consumeTotal":6349.94,
+              "orderCount":796,
+              "finishTime":"01:00",
+              "startTime":"2018-03-08 00:30",
+              "cpa":797.731,
+              "ctr":0.4259,
+              "cvr":0.0424
+          },
+          "00-01:30":{
+              "dhour":"00-01:30",
+              "consumeTotal":5774,
+              "orderCount":768,
+              "finishTime":"01:30",
+              "startTime":"2018-03-08 01:00",
+              "cpa":751.823,
+              "ctr":0.4298,
+              "cvr":0.0492
+          },
+          "00-02:00":{
+              "dhour":"00-02:00",
+              "consumeTotal":4285.59,
+              "orderCount":599,
+              "finishTime":"02:00",
+              "startTime":"2018-03-08 01:30",
+              "cpa":715.457,
+              "ctr":0.4311,
+              "cvr":0.0496
+          },
+          "00-02:30":{
+              "dhour":"00-02:30",
+              "consumeTotal":3609.52,
+              "orderCount":474,
+              "finishTime":"02:30",
+              "startTime":"2018-03-08 02:00",
+              "cpa":761.502,
+              "ctr":0.4289,
+              "cvr":0.0487
+          },
+          "00-03:00":{
+              "dhour":"00-03:00",
+              "consumeTotal":3127.13,
+              "orderCount":401,
+              "finishTime":"03:00",
+              "startTime":"2018-03-08 02:30",
+              "cpa":779.833,
+              "ctr":0.4149,
+              "cvr":0.0463
+          },
+          "00-03:30":{
+              "dhour":"00-03:30",
+              "consumeTotal":2701.98,
+              "orderCount":347,
+              "finishTime":"03:30",
+              "startTime":"2018-03-08 03:00",
+              "cpa":778.669,
+              "ctr":0.4249,
+              "cvr":0.0434
+          },
+          "00-04:00":{
+              "dhour":"00-04:00",
+              "consumeTotal":2536.82,
+              "orderCount":343,
+              "finishTime":"04:00",
+              "startTime":"2018-03-08 03:30",
+              "cpa":739.598,
+              "ctr":0.422,
+              "cvr":0.0436
+          },
+          "00-04:30":{
+              "dhour":"00-04:30",
+              "consumeTotal":2451,
+              "orderCount":335,
+              "finishTime":"04:30",
+              "startTime":"2018-03-08 04:00",
+              "cpa":731.642,
+              "ctr":0.412,
+              "cvr":0.0419
+          },
+          "00-05:00":{
+              "dhour":"00-05:00",
+              "consumeTotal":2689.69,
+              "orderCount":373,
+              "finishTime":"05:00",
+              "startTime":"2018-03-08 04:30",
+              "cpa":721.097,
+              "ctr":0.4193,
+              "cvr":0.0426
+          },
+          "00-05:30":{
+              "dhour":"00-05:30",
+              "consumeTotal":2998.46,
+              "orderCount":420,
+              "finishTime":"05:30",
+              "startTime":"2018-03-08 05:00",
+              "cpa":713.919,
+              "ctr":0.4354,
+              "cvr":0.0448
+          },
+          "00-06:00":{
+              "dhour":"00-06:00",
+              "consumeTotal":4125.17,
+              "orderCount":497,
+              "finishTime":"06:00",
+              "startTime":"2018-03-08 05:30",
+              "cpa":830.014,
+              "ctr":0.4281,
+              "cvr":0.0365
+          },
+          "00-06:30":{
+              "dhour":"00-06:30",
+              "consumeTotal":5586.94,
+              "orderCount":661,
+              "finishTime":"06:30",
+              "startTime":"2018-03-08 06:00",
+              "cpa":845.225,
+              "ctr":0.3507,
+              "cvr":0.0337
+          },
+          "00-07:00":{
+              "dhour":"00-07:00",
+              "consumeTotal":7018.75,
+              "orderCount":919,
+              "finishTime":"07:00",
+              "startTime":"2018-03-08 06:30",
+              "cpa":763.738,
+              "ctr":0.3494,
+              "cvr":0.0358
+          },
+          "00-07:30":{
+              "dhour":"00-07:30",
+              "consumeTotal":7397.86,
+              "orderCount":1037,
+              "finishTime":"07:30",
+              "startTime":"2018-03-08 07:00",
+              "cpa":713.391,
+              "ctr":0.3962,
+              "cvr":0.0413
+          },
+          "00-08:00":{
+              "dhour":"00-08:00",
+              "consumeTotal":8083.3,
+              "orderCount":1131,
+              "finishTime":"08:00",
+              "startTime":"2018-03-08 07:30",
+              "cpa":714.704,
+              "ctr":0.4136,
+              "cvr":0.0417
+          },
+          "00-08:30":{
+              "dhour":"00-08:30",
+              "consumeTotal":7068.35,
+              "orderCount":1108,
+              "finishTime":"08:30",
+              "startTime":"2018-03-08 08:00",
+              "cpa":637.938,
+              "ctr":0.4339,
+              "cvr":0.0513
+          },
+          "00-09:00":{
+              "dhour":"00-09:00",
+              "consumeTotal":6645.22,
+              "orderCount":988,
+              "finishTime":"09:00",
+              "startTime":"2018-03-08 08:30",
+              "cpa":672.593,
+              "ctr":0.4405,
+              "cvr":0.0441
+          },
+          "00-09:30":{
+              "dhour":"00-09:30",
+              "consumeTotal":5748.78,
+              "orderCount":924,
+              "finishTime":"09:30",
+              "startTime":"2018-03-08 09:00",
+              "cpa":622.162,
+              "ctr":0.4954,
+              "cvr":0.0517
+          },
+          "00-10:00":{
+              "dhour":"00-10:00",
+              "consumeTotal":6275.72,
+              "orderCount":932,
+              "finishTime":"10:00",
+              "startTime":"2018-03-08 09:30",
+              "cpa":673.361,
+              "ctr":0.4862,
+              "cvr":0.0463
+          },
+          "00-10:30":{
+              "dhour":"00-10:30",
+              "consumeTotal":5481.35,
+              "orderCount":922,
+              "finishTime":"10:30",
+              "startTime":"2018-03-08 10:00",
+              "cpa":594.507,
+              "ctr":0.4827,
+              "cvr":0.05
+          },
+          "00-11:00":{
+              "dhour":"00-11:00",
+              "consumeTotal":6862.65,
+              "orderCount":1053,
+              "finishTime":"11:00",
+              "startTime":"2018-03-08 10:30",
+              "cpa":651.724,
+              "ctr":0.5037,
+              "cvr":0.0464
+          },
+          "00-11:30":{
+              "dhour":"00-11:30",
+              "consumeTotal":6809.01,
+              "orderCount":1039,
+              "finishTime":"11:30",
+              "startTime":"2018-03-08 11:00",
+              "cpa":655.343,
+              "ctr":0.4981,
+              "cvr":0.0497
+          },
+          "00-12:00":{
+              "dhour":"00-12:00",
+              "consumeTotal":8014.34,
+              "orderCount":1102,
+              "finishTime":"12:00",
+              "startTime":"2018-03-08 11:30",
+              "cpa":727.254,
+              "ctr":0.4664,
+              "cvr":0.0436
+          },
+          "00-12:30":{
+              "dhour":"00-12:30",
+              "consumeTotal":7388.52,
+              "orderCount":983,
+              "finishTime":"12:30",
+              "startTime":"2018-03-08 12:00",
+              "cpa":751.63,
+              "ctr":0.4672,
+              "cvr":0.0395
+          },
+          "00-13:00":{
+              "dhour":"00-13:00",
+              "consumeTotal":8132.52,
+              "orderCount":1167,
+              "finishTime":"13:00",
+              "startTime":"2018-03-08 12:30",
+              "cpa":696.874,
+              "ctr":0.4693,
+              "cvr":0.0421
+          },
+          "00-13:30":{
+              "dhour":"00-13:30",
+              "consumeTotal":6079.91,
+              "orderCount":824,
+              "finishTime":"13:30",
+              "startTime":"2018-03-08 13:00",
+              "cpa":737.853,
+              "ctr":0.4436,
+              "cvr":0.0405
+          },
+          "00-14:00":{
+              "dhour":"00-14:00",
+              "consumeTotal":4689.1,
+              "orderCount":714,
+              "finishTime":"14:00",
+              "startTime":"2018-03-08 13:30",
+              "cpa":656.737,
+              "ctr":0.4432,
+              "cvr":0.0435
+          },
+          "00-14:30":{
+              "dhour":"00-14:30",
+              "consumeTotal":4608.96,
+              "orderCount":632,
+              "finishTime":"14:30",
+              "startTime":"2018-03-08 14:00",
+              "cpa":729.266,
+              "ctr":0.4367,
+              "cvr":0.0391
+          },
+          "00-15:00":{
+              "dhour":"00-15:00",
+              "consumeTotal":5474.31,
+              "orderCount":712,
+              "finishTime":"15:00",
+              "startTime":"2018-03-08 14:30",
+              "cpa":768.864,
+              "ctr":0.438,
+              "cvr":0.0355
+          },
+          "00-15:30":{
+              "dhour":"00-15:30",
+              "consumeTotal":4508.55,
+              "orderCount":617,
+              "finishTime":"15:30",
+              "startTime":"2018-03-08 15:00",
+              "cpa":730.721,
+              "ctr":0.4451,
+              "cvr":0.0392
+          },
+          "00-16:00":{
+              "dhour":"00-16:00",
+              "consumeTotal":4987.14,
+              "orderCount":689,
+              "finishTime":"16:00",
+              "startTime":"2018-03-08 15:30",
+              "cpa":723.823,
+              "ctr":0.4297,
+              "cvr":0.04
+          },
+          "00-16:30":{
+              "dhour":"00-16:30",
+              "consumeTotal":4265.92,
+              "orderCount":604,
+              "finishTime":"16:30",
+              "startTime":"2018-03-08 16:00",
+              "cpa":706.278,
+              "ctr":0.4453,
+              "cvr":0.0392
+          },
+          "00-17:00":{
+              "dhour":"00-17:00",
+              "consumeTotal":6094.12,
+              "orderCount":745,
+              "finishTime":"17:00",
+              "startTime":"2018-03-08 16:30",
+              "cpa":818.003,
+              "ctr":0.433,
+              "cvr":0.0319
+          },
+          "00-17:30":{
+              "dhour":"00-17:30",
+              "consumeTotal":5158.6,
+              "orderCount":710,
+              "finishTime":"17:30",
+              "startTime":"2018-03-08 17:00",
+              "cpa":726.563,
+              "ctr":0.4141,
+              "cvr":0.0369
+          },
+          "00-18:00":{
+              "dhour":"00-18:00",
+              "consumeTotal":6388.13,
+              "orderCount":781,
+              "finishTime":"18:00",
+              "startTime":"2018-03-08 17:30",
+              "cpa":817.942,
+              "ctr":0.4154,
+              "cvr":0.034
+          },
+          "00-18:30":{
+              "dhour":"00-18:30",
+              "consumeTotal":6208.51,
+              "orderCount":706,
+              "finishTime":"18:30",
+              "startTime":"2018-03-08 18:00",
+              "cpa":879.392,
+              "ctr":0.3908,
+              "cvr":0.0322
+          },
+          "00-19:00":{
+              "dhour":"00-19:00",
+              "consumeTotal":8325.83,
+              "orderCount":954,
+              "finishTime":"19:00",
+              "startTime":"2018-03-08 18:30",
+              "cpa":872.729,
+              "ctr":0.4087,
+              "cvr":0.0303
+          },
+          "00-19:30":{
+              "dhour":"00-19:30",
+              "consumeTotal":5686.75,
+              "orderCount":761,
+              "finishTime":"19:30",
+              "startTime":"2018-03-08 19:00",
+              "cpa":747.273,
+              "ctr":0.4323,
+              "cvr":0.038
+          },
+          "00-20:00":{
+              "dhour":"00-20:00",
+              "consumeTotal":6797.75,
+              "orderCount":851,
+              "finishTime":"20:00",
+              "startTime":"2018-03-08 19:30",
+              "cpa":798.796,
+              "ctr":0.4227,
+              "cvr":0.0344
+          },
+          "00-20:30":{
+              "dhour":"00-20:30",
+              "consumeTotal":6791.29,
+              "orderCount":844,
+              "finishTime":"20:30",
+              "startTime":"2018-03-08 20:00",
+              "cpa":804.655,
+              "ctr":0.4148,
+              "cvr":0.0343
+          },
+          "00-21:00":{
+              "dhour":"00-21:00",
+              "consumeTotal":7347.24,
+              "orderCount":983,
+              "finishTime":"21:00",
+              "startTime":"2018-03-08 20:30",
+              "cpa":747.43,
+              "ctr":0.4204,
+              "cvr":0.0367
+          },
+          "00-21:30":{
+              "dhour":"00-21:30",
+              "consumeTotal":7188.16,
+              "orderCount":911,
+              "finishTime":"21:30",
+              "startTime":"2018-03-08 21:00",
+              "cpa":789.041,
+              "ctr":0.4302,
+              "cvr":0.0366
+          },
+          "00-22:00":{
+              "dhour":"00-22:00",
+              "consumeTotal":6602.65,
+              "orderCount":947,
+              "finishTime":"22:00",
+              "startTime":"2018-03-08 21:30",
+              "cpa":697.218,
+              "ctr":0.4576,
+              "cvr":0.0411
+          },
+          "00-22:30":{
+              "dhour":"00-22:30",
+              "consumeTotal":6469.57,
+              "orderCount":947,
+              "finishTime":"22:30",
+              "startTime":"2018-03-08 22:00",
+              "cpa":683.165,
+              "ctr":0.4644,
+              "cvr":0.041
+          },
+          "00-23:00":{
+              "dhour":"00-23:00",
+              "consumeTotal":5362.62,
+              "orderCount":789,
+              "finishTime":"23:00",
+              "startTime":"2018-03-08 22:30",
+              "cpa":679.673,
+              "ctr":0.4573,
+              "cvr":0.0419
+          },
+          "00-23:30":{
+              "dhour":"00-23:30",
+              "consumeTotal":4485.1,
+              "orderCount":775,
+              "finishTime":"23:30",
+              "startTime":"2018-03-08 23:00",
+              "cpa":578.723,
+              "ctr":0.4665,
+              "cvr":0.0519
+          },
+          "00-24:00":{
+              "dhour":"00-24:00",
+              "consumeTotal":0,
+              "orderCount":0,
+              "finishTime":"00:00",
+              "startTime":"2018-03-08 23:30",
+              "cpa":0,
+              "ctr":0,
+              "cvr":0
+          }
+      }
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "errorCode": null,
+  "desc": null,
+  "data": {
+    "list": [
+      {
+        "rule": "1小时内同设备出现的次数异常",
+        "percent0": "2.2644",
+        "num0": "21687",
+        "percent1": "0.2",
+        "num1": 21687,
+        "percent2": "0.3",
+        "num2": 21687
+      },
+      {
+        "rule": "1小时内用户ID出现的次数异常",
+        "percent0": "1.9200",
+        "num0": "19853",
+        "percent1": null,
+        "num1": null,
+        "percent2": null,
+        "num2": null
+      },
+      {
+        "rule": "使用http代理访问",
+        "percent0": "0.0498",
+        "num0": "417",
+        "percent1": null,
+        "num1": null,
+        "percent2": null,
+        "num2": null
+      },
+      {
+        "rule": "1小时内同IP点击出现的次数异常",
+        "percent0": "1.1004",
+        "num0": "10862",
+        "percent1": null,
+        "num1": null,
+        "percent2": null,
+        "num2": null
+      },
+      {
+        "rule": "IP与真实IP的地理位置不匹配",
+        "percent0": "0.3365",
+        "num0": "2980",
+        "percent1": null,
+        "num1": null,
+        "percent2": null,
+        "num2": null
+      }
+    ]
+  }
+}

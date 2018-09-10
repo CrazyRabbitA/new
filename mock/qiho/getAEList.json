@@ -1,0 +1,35 @@
+{
+  "data": {
+    "list": [
+      {
+        "id": 1,
+        "aeName": "赵xx",
+        "aeRole": 1,
+        "aeId": 1,
+        "state": "string"
+      },
+      {
+        "id": 2,
+        "aeId": 2,
+        "aeName": "吴xx",
+        "aeRole": 2
+      },
+      {
+        "id": 3,
+        "aeId": 3,
+        "aeName": "张xx",
+        "aeRole": 1
+      },
+      {
+        "id": 3,
+        "aeId": 3,
+        "aeName": "李xx",
+        "aeRole": 1
+      }
+    ],
+    "total": 21
+  },
+  "desc": "string",
+  "errorCode": "string",
+  "success": true
+}

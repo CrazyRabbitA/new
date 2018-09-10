@@ -1,0 +1,21 @@
+{
+  "success": true,
+  "errorCode": null,
+  "desc": null,
+  "data": {
+    "id": 1,
+    "name": "测试",
+    "roles": [
+      {
+        "roleId": 1,
+        "roleName": "测试", 
+        "isCheck": true
+      },
+      {
+        "roleId": 2,
+        "roleName": "string",
+        "isCheck": false
+      }
+    ]
+  }
+}

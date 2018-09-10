@@ -1,0 +1,131 @@
+// qiho 样式
+@page-main-color: #663399;
+@page-main-color-lighter: #663399;
+.table-goods-list {
+  margin-top: 0;
+  th , td{
+    font-size: 14px !important;
+  }
+  td{
+    padding: 22px 10px 22px 0!important;
+    &:first-child {
+      padding-left: 22px!important;
+    }
+  }
+  th{
+    background-color: #e8e7e2;
+    font-weight: bold!important;
+    padding: 5px 20px 5px 0!important;
+    &:first-child {
+      padding-left: 22px!important;
+    }
+  }
+  .ivu-table{
+    width: 100%;
+  }
+}
+
+div.listTable{
+  //width: 90%;
+}
+
+// subtab
+.chart-types {
+  border-bottom: solid 1px #d8d8d8;
+}
+
+.chart-type-item {
+  float: left;
+  padding: 0 15px;
+  &:nth-of-type(1) {
+    padding-left: 0;
+  }
+  > span {
+    display: inline-block;
+    color: #444;
+    font-size: 14px;
+    background-color: #fff;
+    padding: 13px 0;
+    border-bottom: solid 2px rgba(0, 0, 0, 0);
+  }
+  &:hover {
+    > span {
+      color: @page-main-color;
+      border-bottom: solid 2px @page-main-color;
+    }
+  }
+  &.active {
+    > span {
+      color: @page-main-color;
+      border-bottom: solid 2px @page-main-color;
+    }
+  }
+}
+
+.tooltip-container {
+  //width: 90%;
+}
+
+.d-button.instruction {
+  display: block;
+  width: 16px;
+  height: 16px;
+  text-align: center;
+  border-radius: 50%;
+  font-size: 12px;
+  padding: 0;
+  float: right;
+  margin: 15px 0 5px;
+  //background-color: #29b6b0;
+  //color: #fff;
+  background: #ccc;
+  color: #fff!important;
+}
+.tooltip{
+  .tooltip-arrow{
+  }
+  .tooltip-inner {
+
+    font-size:12px;
+    max-width: 600px;
+    padding: 16px;
+    text-align: left;
+    line-height: 23px;
+    //color: #fff;
+    color:#444444;
+    background-color: #fff;
+    box-shadow:0 1px 4px 0 rgba(41,41,41,0.50);
+    border-radius:2px;
+  }
+}
+
+.tooltip{
+  &.top .tooltip-arrow{
+    border-top-color:#fff!important;
+  }
+  &.right .tooltip-arrow{
+    border-right-color:#fff!important;
+  }
+  &.bottom .tooltip-arrow{
+    border-bottom-color:#fff!important;
+  }
+  &.left .tooltip-arrow{
+    border-left-color:#fff!important;
+  }
+}
+
+.d-button.d-button--qiho {
+  background: @page-main-color;
+  border: 1px solid @page-main-color;
+  color: #fff;
+
+  &:hover {
+    background: @page-main-color-lighter;
+    border: 1px solid @page-main-color-lighter;
+  }
+}
+
+.wide-button{
+  padding-left: 40px!important;
+  padding-right: 40px!important;
+}

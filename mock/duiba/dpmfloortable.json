@@ -1,0 +1,29 @@
+{
+  "success": true,
+  "errorCode": null,
+  "desc": null,
+  "data": {
+    "table": [
+      {
+        "appId": 111,
+        "appName": "章北海",
+        "curDate": "2017-08-27",
+        "floorName": "banner",
+        "appFloorName": "三体",
+        "expPv": 16779199,
+        "expUv": 2200046,
+        "clickPv": 234014,
+        "clickUv": 131042,
+        "uvClickRate": null,
+        "pvClickRate": 0.0139,
+        "lastSevenDayClickRate": 0,
+        "growth": 0,
+        "count": 123,
+        "appCount": null,
+        "pageId": null,
+        "regionId": null
+      }
+    ],
+    "count": 13
+  }
+}

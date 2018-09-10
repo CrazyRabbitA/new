@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "errorCode": null,
+  "desc": null,
+  "data": {
+    "table": [{
+      "curDate": "2017-11-21",
+      "roi": 0.6,
+      "consumeUv": 0.8,
+      "chargeUv": 0.6
+    }, {
+      "curDate": "2017-11-21",
+      "roi": 0.6,
+      "consumeUv": 0.8,
+      "chargeUv": 0.6
+    }, {
+      "curDate": "2017-11-21",
+      "roi": 0.6,
+      "consumeUv": 0.8,
+      "chargeUv": 0.6
+    }, {
+      "curDate": "2017-11-21",
+      "roi": 0.6,
+      "consumeUv": 0.8,
+      "chargeUv": 0.6
+    }, {
+      "curDate": "2017-11-21",
+      "roi": 0.6,
+      "consumeUv": 0.8,
+      "chargeUv": 0.6
+    }, {
+      "curDate": "2017-11-21",
+      "roi": 0.6,
+      "consumeUv": 0.8,
+      "chargeUv": 0.6
+    }]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "success": true,
+  "errorCode": null,
+  "desc": null,
+  "data": {
+    "columnEntity": [
+      {
+        "id": 1713,
+        "chartQueryId": 134,
+        "columnOrder": 1,
+        "columnTitle": "cur_date",
+        "alias": "",
+        "formatType": 1
+      },
+      {
+        "id": 1714,
+        "chartQueryId": 134,
+        "columnOrder": 2,
+        "columnTitle": "SUM(sdk_pv)",
+        "alias": "pv",
+        "formatType": 5
+      },
+      {
+        "id": 1715,
+        "chartQueryId": 134,
+        "columnOrder": 3,
+        "columnTitle": "SUM(sdk_uv)",
+        "alias": "uv",
+        "formatType": 5
+      }
+    ]
+  }
+}

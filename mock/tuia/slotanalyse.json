@@ -1,0 +1,60 @@
+{
+  "success": true,
+  "errorCode": null,
+  "desc": null,
+  "data": {
+    "ctr": {
+      "contrastValue": 7987.19972260358,
+      "effectValue": -398.4720445793588,
+      "currentValue": 1741.425848365547,
+      "ratio": 0.08848897409530809
+    },
+    "advertClickRate": {
+      "contrastValue": 7987.19972260358,
+      "effectValue": -398.4720445793588,
+      "currentValue": 1741.425848365547,
+      "ratio": 0.08848897409530809
+    },
+    "dupliParticipateRate": {
+      "contrastValue": 5966.752729300087,
+      "effectValue": -1226.958465413879,
+      "currentValue": 2104.9,
+      "ratio": -0.27247155061188916
+    },
+    "advertExposeRate": {
+      "contrastValue": 6574.411224540257,
+      "effectValue": -804.0781416297181,
+      "currentValue": 2343.002152328152,
+      "ratio": -0.17856221236394693
+    },
+    "advertClickPrice": {
+      "contrastValue": 7150.4000743494435,
+      "effectValue": -714.9737565573992,
+      "currentValue": 1945.2220726636024,
+      "ratio": 0.15877473735860195
+    },
+    "sdkUv": {
+      "contrastValue": 1780.3111085663213,
+      "effectValue": -466.25696083155987,
+      "currentValue": 7812.744629898404,
+      "ratio": -0.10354201929607137
+    },
+    "actExposeUv": {},
+    "advertParticipateRate": {
+      "contrastValue": 6648.99624459961,
+      "effectValue": -892.3306309880822,
+      "currentValue": 2091.912153552071,
+      "ratio": -0.19816050627418247
+    },
+    "basic": {
+      "contrastValue": 6607.97,
+      "effectValue": -4503.07,
+      "currentValue": 2104.9,
+      "ratio": -0.6814604182525041
+    },
+    "info": {
+      "slotName": "开屏广告",
+      "slotId": 260
+    }
+  }
+}

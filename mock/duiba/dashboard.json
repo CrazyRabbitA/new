@@ -1,0 +1,120 @@
+{
+    "success": true,
+    "errorCode": null,
+    "desc": null,
+    "data": {
+      "otherWeekCollect": {
+        "curDate": null,
+        "platformUv": 15465738,
+        "participateUv": 4835916,
+        "exposurePv": 85751087,
+        "participatePv": 15497369,
+        "launchCount": 10171907,
+        "launchSuccessRate": 0.6564,
+        "consumeTotal": 1039953.25,
+        "ctr": 0.2927
+      },
+      "thisWeek": [
+        {
+          "curDate": "2017-09-04",
+          "platformUv": 3233586,
+          "participateUv": 1083724,
+          "exposurePv": 19926910,
+          "participatePv": 3596220,
+          "launchCount": 2188850,
+          "launchSuccessRate": 0.6087,
+          "consumeTotal": 251081.21,
+          "ctr": 0.3327
+        },
+        {
+          "curDate": "2017-09-05",
+          "platformUv": 3362456,
+          "participateUv": 1024358,
+          "exposurePv": 17784185,
+          "participatePv": 3947881,
+          "launchCount": 2166773,
+          "launchSuccessRate": 0.5488,
+          "consumeTotal": 252251.21,
+          "ctr": 0.3118
+        },
+        {
+          "curDate": "2017-09-06",
+          "platformUv": 3237199,
+          "participateUv": 1202349,
+          "exposurePv": 17151635,
+          "participatePv": 4426632,
+          "launchCount": 2194862,
+          "launchSuccessRate": 0.4958,
+          "consumeTotal": 256793.66,
+          "ctr": 0.3141
+        }
+      ],
+      "thisWeekCollect": {
+        "curDate": null,
+        "platformUv": 9833241,
+        "participateUv": 3310431,
+        "exposurePv": 54862730,
+        "participatePv": 11970733,
+        "launchCount": 6550485,
+        "launchSuccessRate": 0.5472,
+        "consumeTotal": 760126.08,
+        "ctr": 0.3195
+      },
+      "beforeWeek": [
+        {
+          "curDate": "2017-08-31",
+          "platformUv": 3544661,
+          "participateUv": 982931,
+          "exposurePv": 20791801,
+          "participatePv": 3393554,
+          "launchCount": 2552092,
+          "launchSuccessRate": 0.752,
+          "consumeTotal": 258663.53,
+          "ctr": 0.2892
+        },
+        {
+          "curDate": "2017-09-01",
+          "platformUv": 3832419,
+          "participateUv": 1129027,
+          "exposurePv": 19301317,
+          "participatePv": 3544401,
+          "launchCount": 2247794,
+          "launchSuccessRate": 0.6342,
+          "consumeTotal": 234514.53,
+          "ctr": 0.297
+        },
+        {
+          "curDate": "2017-09-02",
+          "platformUv": 4529506,
+          "participateUv": 1464509,
+          "exposurePv": 23476137,
+          "participatePv": 4435042,
+          "launchCount": 2856806,
+          "launchSuccessRate": 0.6441,
+          "consumeTotal": 298407.15,
+          "ctr": 0.3003
+        },
+        {
+          "curDate": "2017-09-03",
+          "platformUv": 3559152,
+          "participateUv": 1259449,
+          "exposurePv": 22181832,
+          "participatePv": 4124372,
+          "launchCount": 2515215,
+          "launchSuccessRate": 0.6098,
+          "consumeTotal": 248368.04,
+          "ctr": 0.2836
+        }
+      ],
+      "ringRatio": {
+        "launchCount": -0.356021933743594,
+        "ctr": 0.24334232450715837,
+        "platformUv": -0.36419193186901266,
+        "exposurePv": -0.3602095096473821,
+        "participatePv": -0.31544902765060434,
+        "launchSuccessRate": 0.2971560206509625,
+        "participateUv": -0.31544902765060434,
+        "consumeTotal": -0.269076682052775
+      }
+    }
+  }

@@ -1,0 +1,15 @@
+{
+  "success": true,
+  "errorCode": null,
+  "desc": null,
+  "data": {
+    "hopper": {
+      "launch": 1600,
+      "click": 1200,
+      "login": 800,
+      "inroom": 2000,
+      "finish": 1500,
+      "charge": 1000
+    }
+  }
+}

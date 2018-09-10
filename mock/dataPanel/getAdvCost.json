@@ -1,0 +1,500 @@
+{
+  "success": true,
+  "errorCode": null,
+  "desc": null,
+  "data": {
+    "advertId": 9219,
+    "advertName": "环球黑卡（tuia_8_t_tuia）o",
+    "cost": 49.1,
+    "line": {
+      "total": [
+        {
+          "advertOpId": 0,
+          "packageName": "",
+          "advertFee": 250410,
+          "effectPv": 51,
+          "rate": 49.1,
+          "type": "RATE",
+          "curDate": null,
+          "point": {
+            "00:30": {
+              "advertFee": 23309,
+              "effectPv": 5,
+              "rate": 46.62
+            },
+            "01:00": {
+              "advertFee": 42702,
+              "effectPv": 9,
+              "rate": 47.45
+            },
+            "01:30": {
+              "advertFee": 49467,
+              "effectPv": 9,
+              "rate": -1.0
+            },
+            "02:00": {
+              "advertFee": 56959,
+              "effectPv": 11,
+              "rate": 51.78
+            },
+            "02:30": {
+              "advertFee": 66759,
+              "effectPv": 17,
+              "rate": 39.27
+            },
+            "03:00": {
+              "advertFee": 88207,
+              "effectPv": 24,
+              "rate": 36.75
+            },
+            "03:30": {
+              "advertFee": 110009,
+              "effectPv": 30,
+              "rate": 36.67
+            },
+            "04:00": {
+              "advertFee": 127326,
+              "effectPv": 34,
+              "rate": 37.45
+            },
+            "04:30": {
+              "advertFee": 152624,
+              "effectPv": 40,
+              "rate": 38.16
+            },
+            "05:00": {
+              "advertFee": 181672,
+              "effectPv": 44,
+              "rate": 41.29
+            },
+            "05:30": {
+              "advertFee": 186181,
+              "effectPv": 45,
+              "rate": 41.37
+            },
+            "06:00": {
+              "advertFee": 192487,
+              "effectPv": 46,
+              "rate": 41.85
+            },
+            "06:30": {
+              "advertFee": 203067,
+              "effectPv": 46,
+              "rate": -1.0
+            },
+            "07:00": {
+              "advertFee": 213984,
+              "effectPv": 47,
+              "rate": 45.53
+            },
+            "07:30": {
+              "advertFee": 224503,
+              "effectPv": 47,
+              "rate": -1.0
+            },
+            "08:00": {
+              "advertFee": 236319,
+              "effectPv": 48,
+              "rate": 49.23
+            },
+            "08:30": {
+              "advertFee": 242916,
+              "effectPv": 50,
+              "rate": 48.58
+            },
+            "09:00": {
+              "advertFee": 250410,
+              "effectPv": 51,
+              "rate": 49.1
+            },
+            "09:30": {
+              "advertFee": 250410,
+              "effectPv": 51,
+              "rate": -1.0
+            },
+            "10:00": {
+              "advertFee": 250410,
+              "effectPv": 51,
+              "rate": -1.0
+            },
+            "10:30": {
+              "advertFee": 250410,
+              "effectPv": 51,
+              "rate": -1.0
+            },
+            "11:00": {
+              "advertFee": 250410,
+              "effectPv": 51,
+              "rate": -1.0
+            }
+          }
+        }
+      ],
+      "advertPackage": [
+        {
+          "advertOpId": 0,
+          "packageName": "默认",
+          "advertFee": 138899,
+          "effectPv": 38,
+          "rate": 36.55,
+          "type": "RATE",
+          "curDate": 1503936000000,
+          "point": {
+            "00:30": {
+              "advertFee": 17621,
+              "effectPv": 4,
+              "rate": 44.05
+            },
+            "01:00": {
+              "advertFee": 32964,
+              "effectPv": 8,
+              "rate": 41.21
+            },
+            "01:30": {
+              "advertFee": 36365,
+              "effectPv": 8,
+              "rate": 45.46
+            },
+            "02:00": {
+              "advertFee": 40243,
+              "effectPv": 9,
+              "rate": 44.71
+            },
+            "02:30": {
+              "advertFee": 45109,
+              "effectPv": 14,
+              "rate": 32.22
+            },
+            "03:00": {
+              "advertFee": 62493,
+              "effectPv": 19,
+              "rate": 32.89
+            },
+            "03:30": {
+              "advertFee": 80464,
+              "effectPv": 24,
+              "rate": 33.53
+            },
+            "04:00": {
+              "advertFee": 93868,
+              "effectPv": 28,
+              "rate": 33.52
+            },
+            "04:30": {
+              "advertFee": 114546,
+              "effectPv": 34,
+              "rate": 33.69
+            },
+            "05:00": {
+              "advertFee": 138548,
+              "effectPv": 37,
+              "rate": 37.45
+            },
+            "05:30": {
+              "advertFee": 138899,
+              "effectPv": 38,
+              "rate": 36.55
+            },
+            "06:00": {
+              "advertFee": 138899,
+              "effectPv": 38,
+              "rate": -1.0
+            },
+            "06:30": {
+              "advertFee": 138899,
+              "effectPv": 38,
+              "rate": -1.0
+            },
+            "07:00": {
+              "advertFee": 138899,
+              "effectPv": 38,
+              "rate": -1.0
+            },
+            "07:30": {
+              "advertFee": 138899,
+              "effectPv": 38,
+              "rate": -1.0
+            },
+            "08:00": {
+              "advertFee": 138899,
+              "effectPv": 38,
+              "rate": -1.0
+            },
+            "08:30": {
+              "advertFee": 138899,
+              "effectPv": 38,
+              "rate": -1.0
+            },
+            "09:00": {
+              "advertFee": 138899,
+              "effectPv": 38,
+              "rate": -1.0
+            },
+            "09:30": {
+              "advertFee": 138899,
+              "effectPv": 38,
+              "rate": -1.0
+            },
+            "10:00": {
+              "advertFee": 138899,
+              "effectPv": 38,
+              "rate": -1.0
+            },
+            "10:30": {
+              "advertFee": 138899,
+              "effectPv": 38,
+              "rate": -1.0
+            },
+            "11:00": {
+              "advertFee": 138899,
+              "effectPv": 38,
+              "rate": -1.0
+            }
+          }
+        },
+        {
+          "advertOpId": 3003,
+          "packageName": "高",
+          "advertFee": 111460,
+          "effectPv": 13,
+          "rate": 85.74,
+          "type": "RATE",
+          "curDate": 1503936000000,
+          "point": {
+            "00:30": {
+              "advertFee": 5637,
+              "effectPv": 1,
+              "rate": 56.37
+            },
+            "01:00": {
+              "advertFee": 9687,
+              "effectPv": 1,
+              "rate": 96.87
+            },
+            "01:30": {
+              "advertFee": 13051,
+              "effectPv": 1,
+              "rate": 130.51
+            },
+            "02:00": {
+              "advertFee": 16665,
+              "effectPv": 2,
+              "rate": 83.33
+            },
+            "02:30": {
+              "advertFee": 21599,
+              "effectPv": 3,
+              "rate": 72.0
+            },
+            "03:00": {
+              "advertFee": 25663,
+              "effectPv": 5,
+              "rate": 51.33
+            },
+            "03:30": {
+              "advertFee": 29494,
+              "effectPv": 6,
+              "rate": 49.16
+            },
+            "04:00": {
+              "advertFee": 33407,
+              "effectPv": 6,
+              "rate": 55.68
+            },
+            "04:30": {
+              "advertFee": 38027,
+              "effectPv": 6,
+              "rate": 63.38
+            },
+            "05:00": {
+              "advertFee": 43073,
+              "effectPv": 7,
+              "rate": 61.53
+            },
+            "05:30": {
+              "advertFee": 47231,
+              "effectPv": 7,
+              "rate": 67.47
+            },
+            "06:00": {
+              "advertFee": 53537,
+              "effectPv": 8,
+              "rate": 66.92
+            },
+            "06:30": {
+              "advertFee": 64117,
+              "effectPv": 8,
+              "rate": 80.15
+            },
+            "07:00": {
+              "advertFee": 75034,
+              "effectPv": 9,
+              "rate": 83.37
+            },
+            "07:30": {
+              "advertFee": 85553,
+              "effectPv": 9,
+              "rate": 95.06
+            },
+            "08:00": {
+              "advertFee": 97369,
+              "effectPv": 10,
+              "rate": 97.37
+            },
+            "08:30": {
+              "advertFee": 103966,
+              "effectPv": 12,
+              "rate": 86.64
+            },
+            "09:00": {
+              "advertFee": 111460,
+              "effectPv": 13,
+              "rate": 85.74
+            },
+            "09:30": {
+              "advertFee": 111460,
+              "effectPv": 13,
+              "rate": -1.0
+            },
+            "10:00": {
+              "advertFee": 111460,
+              "effectPv": 13,
+              "rate": -1.0
+            },
+            "10:30": {
+              "advertFee": 111460,
+              "effectPv": 13,
+              "rate": -1.0
+            },
+            "11:00": {
+              "advertFee": 111460,
+              "effectPv": 13,
+              "rate": -1.0
+            }
+          }
+        },
+        {
+          "advertOpId": 4810,
+          "packageName": "测试",
+          "advertFee": 51,
+          "effectPv": 0,
+          "rate": -1.0,
+          "type": "FEE",
+          "curDate": 1503936000000,
+          "point": {
+            "00:30": {
+              "advertFee": 51,
+              "effectPv": 0,
+              "rate": -1.0
+            },
+            "01:00": {
+              "advertFee": 51,
+              "effectPv": 0,
+              "rate": -1.0
+            },
+            "01:30": {
+              "advertFee": 51,
+              "effectPv": 0,
+              "rate": -1.0
+            },
+            "02:00": {
+              "advertFee": 51,
+              "effectPv": 0,
+              "rate": -1.0
+            },
+            "02:30": {
+              "advertFee": 51,
+              "effectPv": 0,
+              "rate": -1.0
+            },
+            "03:00": {
+              "advertFee": 51,
+              "effectPv": 0,
+              "rate": -1.0
+            },
+            "03:30": {
+              "advertFee": 51,
+              "effectPv": 0,
+              "rate": -1.0
+            },
+            "04:00": {
+              "advertFee": 51,
+              "effectPv": 0,
+              "rate": -1.0
+            },
+            "04:30": {
+              "advertFee": 51,
+              "effectPv": 0,
+              "rate": -1.0
+            },
+            "05:00": {
+              "advertFee": 51,
+              "effectPv": 0,
+              "rate": -1.0
+            },
+            "05:30": {
+              "advertFee": 51,
+              "effectPv": 0,
+              "rate": -1.0
+            },
+            "06:00": {
+              "advertFee": 51,
+              "effectPv": 0,
+              "rate": -1.0
+            },
+            "06:30": {
+              "advertFee": 51,
+              "effectPv": 0,
+              "rate": -1.0
+            },
+            "07:00": {
+              "advertFee": 51,
+              "effectPv": 0,
+              "rate": -1.0
+            },
+            "07:30": {
+              "advertFee": 51,
+              "effectPv": 0,
+              "rate": -1.0
+            },
+            "08:00": {
+              "advertFee": 51,
+              "effectPv": 0,
+              "rate": -1.0
+            },
+            "08:30": {
+              "advertFee": 51,
+              "effectPv": 0,
+              "rate": -1.0
+            },
+            "09:00": {
+              "advertFee": 51,
+              "effectPv": 0,
+              "rate": -1.0
+            },
+            "09:30": {
+              "advertFee": 51,
+              "effectPv": 0,
+              "rate": -1.0
+            },
+            "10:00": {
+              "advertFee": 51,
+              "effectPv": 0,
+              "rate": -1.0
+            },
+            "10:30": {
+              "advertFee": 51,
+              "effectPv": 0,
+              "rate": -1.0
+            },
+            "11:00": {
+              "advertFee": 51,
+              "effectPv": 0,
+              "rate": -1.0
+            }
+          }
+        }
+      ]
+    }
+  }
+}

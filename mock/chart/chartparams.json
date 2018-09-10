@@ -1,0 +1,479 @@
+{
+  "success": true,
+  "errorCode": null,
+  "desc": null,
+  "data": {
+    "columns": [
+      {
+        "id": 3458,
+        "chartQueryId": 475,
+        "columnOrder": 1,
+        "columnTitle": "cur_date",
+        "alias": "日期",
+        "formatType": 4,
+        "selectType": 2
+      },
+      {
+        "id": 3459,
+        "chartQueryId": 475,
+        "columnOrder": 2,
+        "columnTitle": "media_id",
+        "alias": "账号ID",
+        "formatType": 5,
+        "selectType": 2
+      },
+      {
+        "id": 3460,
+        "chartQueryId": 475,
+        "columnOrder": 3,
+        "columnTitle": "account_type",
+        "alias": "账号类型",
+        "formatType": 1,
+        "selectType": 2
+      },
+      {
+        "id": 3461,
+        "chartQueryId": 475,
+        "columnOrder": 4,
+        "columnTitle": "app_id",
+        "alias": "媒体",
+        "formatType": 5,
+        "selectType": 2
+      },
+      {
+        "id": 3462,
+        "chartQueryId": 475,
+        "columnOrder": 5,
+        "columnTitle": "app_name",
+        "alias": "媒体名称",
+        "formatType": 1,
+        "selectType": 2
+      },
+      {
+        "id": 3463,
+        "chartQueryId": 475,
+        "columnOrder": 6,
+        "columnTitle": "slot_id",
+        "alias": "广告位ID",
+        "formatType": 5,
+        "selectType": 2
+      },
+      {
+        "id": 3464,
+        "chartQueryId": 475,
+        "columnOrder": 7,
+        "columnTitle": "slot_name",
+        "alias": "广告位名称",
+        "formatType": 1,
+        "selectType": 2
+      },
+      {
+        "id": 3465,
+        "chartQueryId": 475,
+        "columnOrder": 8,
+        "columnTitle": "new_trade",
+        "alias": "行业名称",
+        "formatType": 1,
+        "selectType": 2
+      },
+      {
+        "id": 3466,
+        "chartQueryId": 475,
+        "columnOrder": 9,
+        "columnTitle": "launch_count",
+        "alias": "发券量",
+        "formatType": 5,
+        "selectType": 1
+      },
+      {
+        "id": 3467,
+        "chartQueryId": 475,
+        "columnOrder": 10,
+        "columnTitle": "ef_clicks",
+        "alias": "券计费点击",
+        "formatType": 5,
+        "selectType": 1
+      },
+      {
+        "id": 3468,
+        "chartQueryId": 475,
+        "columnOrder": 11,
+        "columnTitle": "consume_total",
+        "alias": "消耗（元）",
+        "formatType": 5,
+        "selectType": 1
+      },
+      {
+        "id": 3469,
+        "chartQueryId": 475,
+        "columnOrder": 12,
+        "columnTitle": "ef_clicks / launch_count",
+        "alias": "券点击率",
+        "formatType": 2,
+        "selectType": 1
+      },
+      {
+        "id": 3470,
+        "chartQueryId": 475,
+        "columnOrder": 13,
+        "columnTitle": "consume_total / ef_clicks",
+        "alias": "券点击单价",
+        "formatType": 6,
+        "selectType": 1
+      },
+      {
+        "id": 3471,
+        "chartQueryId": 475,
+        "columnOrder": 14,
+        "columnTitle": "consume_total / launch_count",
+        "alias": "arpu",
+        "formatType": 6,
+        "selectType": 1
+      },
+      {
+        "id": 3472,
+        "chartQueryId": 475,
+        "columnOrder": 15,
+        "columnTitle": "effect_pv / visit_pv",
+        "alias": "CVR",
+        "formatType": 2,
+        "selectType": 1
+      },
+      {
+        "id": 3473,
+        "chartQueryId": 475,
+        "columnOrder": 16,
+        "columnTitle": "visit_pv",
+        "alias": "落地页浏览pv",
+        "formatType": 5,
+        "selectType": 1
+      },
+      {
+        "id": 3474,
+        "chartQueryId": 475,
+        "columnOrder": 17,
+        "columnTitle": "effect_pv",
+        "alias": "落地页效果PV",
+        "formatType": 5,
+        "selectType": 1
+      },
+      {
+        "id": 3475,
+        "chartQueryId": 475,
+        "columnOrder": 18,
+        "columnTitle": "trade_cvr",
+        "alias": "行业cvr",
+        "formatType": 2,
+        "selectType": 2
+      }
+    ],
+    "visibleColumns": [
+      {
+        "id": 3466,
+        "chartQueryId": 475,
+        "columnOrder": 9,
+        "columnTitle": "launch_count",
+        "alias": "发券量",
+        "formatType": 5,
+        "selectType": 1
+      },
+      {
+        "id": 3467,
+        "chartQueryId": 475,
+        "columnOrder": 10,
+        "columnTitle": "ef_clicks",
+        "alias": "券计费点击",
+        "formatType": 5,
+        "selectType": 1
+      },
+      {
+        "id": 3468,
+        "chartQueryId": 475,
+        "columnOrder": 11,
+        "columnTitle": "consume_total",
+        "alias": "消耗（元）",
+        "formatType": 5,
+        "selectType": 1
+      },
+      {
+        "id": 3469,
+        "chartQueryId": 475,
+        "columnOrder": 12,
+        "columnTitle": "ef_clicks / launch_count",
+        "alias": "券点击率",
+        "formatType": 2,
+        "selectType": 1
+      },
+      {
+        "id": 3470,
+        "chartQueryId": 475,
+        "columnOrder": 13,
+        "columnTitle": "consume_total / ef_clicks",
+        "alias": "券点击单价",
+        "formatType": 6,
+        "selectType": 1
+      },
+      {
+        "id": 3471,
+        "chartQueryId": 475,
+        "columnOrder": 14,
+        "columnTitle": "consume_total / launch_count",
+        "alias": "arpu",
+        "formatType": 6,
+        "selectType": 1
+      },
+      {
+        "id": 3472,
+        "chartQueryId": 475,
+        "columnOrder": 15,
+        "columnTitle": "effect_pv / visit_pv",
+        "alias": "CVR",
+        "formatType": 2,
+        "selectType": 1
+      },
+      {
+        "id": 3473,
+        "chartQueryId": 475,
+        "columnOrder": 16,
+        "columnTitle": "visit_pv",
+        "alias": "落地页浏览pv",
+        "formatType": 5,
+        "selectType": 1
+      },
+      {
+        "id": 3474,
+        "chartQueryId": 475,
+        "columnOrder": 17,
+        "columnTitle": "effect_pv",
+        "alias": "落地页效果PV",
+        "formatType": 5,
+        "selectType": 1
+      }
+    ],
+    "dimension": [
+      {
+        "id": 3458,
+        "chartQueryId": 475,
+        "columnOrder": 1,
+        "columnTitle": "cur_date",
+        "alias": "日期",
+        "formatType": 4,
+        "selectType": 2
+      },
+      {
+        "id": 3459,
+        "chartQueryId": 475,
+        "columnOrder": 2,
+        "columnTitle": "media_id",
+        "alias": "账号ID",
+        "formatType": 5,
+        "selectType": 2
+      },
+      {
+        "id": 3460,
+        "chartQueryId": 475,
+        "columnOrder": 3,
+        "columnTitle": "account_type",
+        "alias": "账号类型",
+        "formatType": 1,
+        "selectType": 2
+      },
+      {
+        "id": 3461,
+        "chartQueryId": 475,
+        "columnOrder": 4,
+        "columnTitle": "app_id",
+        "alias": "媒体",
+        "formatType": 5,
+        "selectType": 2
+      },
+      {
+        "id": 3462,
+        "chartQueryId": 475,
+        "columnOrder": 5,
+        "columnTitle": "app_name",
+        "alias": "媒体名称",
+        "formatType": 1,
+        "selectType": 2
+      },
+      {
+        "id": 3463,
+        "chartQueryId": 475,
+        "columnOrder": 6,
+        "columnTitle": "slot_id",
+        "alias": "广告位ID",
+        "formatType": 5,
+        "selectType": 2
+      },
+      {
+        "id": 3464,
+        "chartQueryId": 475,
+        "columnOrder": 7,
+        "columnTitle": "slot_name",
+        "alias": "广告位名称",
+        "formatType": 1,
+        "selectType": 2
+      },
+      {
+        "id": 3465,
+        "chartQueryId": 475,
+        "columnOrder": 8,
+        "columnTitle": "new_trade",
+        "alias": "行业名称",
+        "formatType": 1,
+        "selectType": 2
+      },
+      {
+        "id": 3475,
+        "chartQueryId": 475,
+        "columnOrder": 18,
+        "columnTitle": "trade_cvr",
+        "alias": "行业cvr",
+        "formatType": 2,
+        "selectType": 2
+      }
+    ],
+    "chartQuery": {
+      "id": 475,
+      "reportType": 2,
+      "queryName": "行业转化情况表（子母表）",
+      "queryType": 1,
+      "queryTemp":
+      "select cur_date,new_trade,exposure_count,launch_count,ef_click_count,consume_total,ctr,ef_click_piece,FORMAT(arpu,2),launch_rate,consume_rate,last_consume_rate,fee_consume\n\tfrom dws_newtrade_statistics_di\n\twhere cur_date >= #{date}\n\tand cur_date <= #{date1}\n\t<if>AND new_trade = #{new_trade}</if>\norder by cur_date desc,launch_rate desc",
+      "databaseId": 3,
+      "typeEnum": "TABLE_CHART"
+    },
+    "search": [
+      {
+        "id": 1490,
+        "chartQueryId": 475,
+        "columnTitle": "cur_date",
+        "operatorType": 5,
+        "searchName": "startDate",
+        "labelName": "开始日期",
+        "searchOrder": 1,
+        "searchType": 1,
+        "defaultType": 2,
+        "defaultValue": "2018-07-25",
+        "extInfo": ""
+      },
+      {
+        "id": 1496,
+        "chartQueryId": 475,
+        "columnTitle": "cur_date",
+        "operatorType": 6,
+        "searchName": "endDate",
+        "labelName": "结束日期",
+        "searchOrder": 1,
+        "searchType": 1,
+        "defaultType": 2,
+        "defaultValue": "2018-07-25",
+        "extInfo": ""
+      },
+      {
+        "id": 1491,
+        "chartQueryId": 475,
+        "columnTitle": "app_id",
+        "operatorType": 9,
+        "searchName": "app_id",
+        "labelName": "媒体",
+        "searchOrder": 2,
+        "searchType": 6,
+        "defaultType": 3,
+        "defaultValue": "",
+        "extInfo": ""
+      },
+      {
+        "id": 1497,
+        "chartQueryId": 475,
+        "columnTitle": "media_id",
+        "operatorType": 9,
+        "searchName": "media_id",
+        "labelName": "账号ID",
+        "searchOrder": 2,
+        "searchType": 6,
+        "defaultType": 3,
+        "defaultValue": "",
+        "extInfo": ""
+      },
+      {
+        "id": 1498,
+        "chartQueryId": 475,
+        "columnTitle": "account_type",
+        "operatorType": 1,
+        "searchName": "account_type",
+        "labelName": "账号类型",
+        "searchOrder": 2,
+        "searchType": 2,
+        "defaultType": 3,
+        "defaultValue": "",
+        "extInfo": ""
+      },
+      {
+        "id": 1492,
+        "chartQueryId": 475,
+        "columnTitle": "app_name",
+        "operatorType": 8,
+        "searchName": "app_name",
+        "labelName": "媒体名称",
+        "searchOrder": 3,
+        "searchType": 2,
+        "defaultType": 3,
+        "defaultValue": "",
+        "extInfo": ""
+      },
+      {
+        "id": 1493,
+        "chartQueryId": 475,
+        "columnTitle": "slot_id",
+        "operatorType": 9,
+        "searchName": "slot_id",
+        "labelName": "广告位ID",
+        "searchOrder": 4,
+        "searchType": 6,
+        "defaultType": 3,
+        "defaultValue": "",
+        "extInfo": ""
+      },
+      {
+        "id": 1494,
+        "chartQueryId": 475,
+        "columnTitle": "slot_name",
+        "operatorType": 8,
+        "searchName": "slot_name",
+        "labelName": "广告位名称",
+        "searchOrder": 5,
+        "searchType": 2,
+        "defaultType": 3,
+        "defaultValue": "",
+        "extInfo": ""
+      },
+      {
+        "id": 1495,
+        "chartQueryId": 475,
+        "columnTitle": "new_trade",
+        "operatorType": 8,
+        "searchName": "new_trade",
+        "labelName": "行业名称",
+        "searchOrder": 6,
+        "searchType": 2,
+        "defaultType": 3,
+        "defaultValue": "",
+        "extInfo": ""
+      },
+      {
+        "id": 1499,
+        "chartQueryId": 475,
+        "columnTitle": "trade_cvr",
+        "operatorType": 1,
+        "searchName": "trade_cvr",
+        "labelName": "行业cvr",
+        "searchOrder": 7,
+        "searchType": 2,
+        "defaultType": 3,
+        "defaultValue": "",
+        "extInfo": ""
+      }
+    ]
+  }
+}

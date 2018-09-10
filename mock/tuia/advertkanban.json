@@ -1,0 +1,854 @@
+{
+  "success": true,
+  "errorCode": null,
+  "desc": null,
+  "data": {
+    "topad": {
+      "chartQuery": {
+        "chartQuery": {
+          "id": 461,
+          "reportType": 2,
+          "queryName": "广告线业务大盘数据（天维度-子母表）",
+          "queryType": 1,
+          "queryTemp": "dws_advert_business_market_data_day_di",
+          "databaseId": 3,
+          "typeEnum": "TABLE_CHART"
+        }
+      },
+      "data": {
+        "2018-07-01": [
+          {
+            "cur_date": "2018-07-01",
+            "account_id": 390,
+            "account_name": "上海淇毓信息科技有限公司",
+            "consume_total": 330007.12
+          },
+          {
+            "cur_date": "2018-07-01",
+            "account_id": 6300,
+            "account_name": "上海寻梦信息技术有限公司(YR)",
+            "consume_total": 322152.49
+          },
+          {
+            "cur_date": "2018-07-01",
+            "account_id": 2367,
+            "account_name": "北京奇才天下科技有限公司",
+            "consume_total": 292714.45
+          },
+          {
+            "cur_date": "2018-07-01",
+            "account_id": 7476,
+            "account_name": "深圳市南美洲表业有限公司",
+            "consume_total": 107549.51
+          },
+          {
+            "cur_date": "2018-07-01",
+            "account_id": 5477,
+            "account_name": "小咖秀（北京）科技有限公司(波波视频)",
+            "consume_total": 102000.24
+          },
+          {
+            "cur_date": "2018-07-01",
+            "account_id": 7611,
+            "account_name": "北京博星证券投资顾问有限公司(YQ)",
+            "consume_total": 90130.02
+          },
+          {
+            "cur_date": "2018-07-01",
+            "account_id": 6304,
+            "account_name": "交通银行股份有限公司太平洋信用卡中心(SZ)",
+            "consume_total": 81988.37
+          },
+          {
+            "cur_date": "2018-07-01",
+            "account_id": 5471,
+            "account_name": "横琴蓥酆金融服务有限公司(YQ)",
+            "consume_total": 77180.66
+          },
+          {
+            "cur_date": "2018-07-01",
+            "account_id": 7543,
+            "account_name": "杭州苍耳科技有限公司(XM)",
+            "consume_total": 75558.06
+          },
+          {
+            "cur_date": "2018-07-01",
+            "account_id": 8099,
+            "account_name": "北京微鲤科技有限公司(FF)",
+            "consume_total": 68923.59
+          },
+          {
+            "cur_date": "2018-07-01",
+            "account_id": 6573,
+            "account_name": "中电投先融期货有限公司(FF)",
+            "consume_total": 64670.68
+          },
+          {
+            "cur_date": "2018-07-01",
+            "account_id": 7209,
+            "account_name": "北京融七牛信息技术有限公司",
+            "consume_total": 60810.68
+          },
+          {
+            "cur_date": "2018-07-01",
+            "account_id": 7553,
+            "account_name": "天津皓德丰贸易有限公司",
+            "consume_total": 59641.98
+          },
+          {
+            "cur_date": "2018-07-01",
+            "account_id": 5254,
+            "account_name": "北京字节跳动科技有限公司(火山)",
+            "consume_total": 57113.62
+          },
+          {
+            "cur_date": "2018-07-01",
+            "account_id": 7199,
+            "account_name": "北京宇晨亿荣网络科技有限公司(FF)",
+            "consume_total": 51642.13
+          },
+          {
+            "cur_date": "2018-07-01",
+            "account_id": 7879,
+            "account_name": "芝麻互娱（北京）科技有限公司",
+            "consume_total": 50001.82
+          },
+          {
+            "cur_date": "2018-07-01",
+            "account_id": 3279,
+            "account_name": "英域成语言培训（南京）有限公司",
+            "consume_total": 47630.03
+          },
+          {
+            "cur_date": "2018-07-01",
+            "account_id": 4710,
+            "account_name": "贵州省仁怀市约米网络有限公司",
+            "consume_total": 41639.73
+          },
+          {
+            "cur_date": "2018-07-01",
+            "account_id": 7401,
+            "account_name": "北京中资北方投资顾问有限公司广州分公司(DK)",
+            "consume_total": 33751.3
+          },
+          {
+            "cur_date": "2018-07-01",
+            "account_id": 5255,
+            "account_name": "北京字节跳动科技有限公司(西瓜)",
+            "consume_total": 30949.04
+          },
+          {
+            "cur_date": "2018-07-01",
+            "account_id": 5838,
+            "account_name": "北京每日优鲜电子商务有限公司(WS)",
+            "consume_total": 30747.22
+          },
+          {
+            "cur_date": "2018-07-01",
+            "account_id": 7557,
+            "account_name": "北京皓琳通盛网络科技有限公司(M)",
+            "consume_total": 30002.81
+          },
+          {
+            "cur_date": "2018-07-01",
+            "account_id": 5760,
+            "account_name": "广东万丈金数信息技术股份有限公司(保险)",
+            "consume_total": 29896.09
+          },
+          {
+            "cur_date": "2018-07-01",
+            "account_id": 3347,
+            "account_name": "投资乐（上海）科技有限公司",
+            "consume_total": 29297.0
+          },
+          {
+            "cur_date": "2018-07-01",
+            "account_id": 6256,
+            "account_name": "北京远山保科技有限公司(DK)",
+            "consume_total": 28979.78
+          },
+          {
+            "cur_date": "2018-07-01",
+            "account_id": 6223,
+            "account_name": "北京盛世千腾商贸有限公司(CJ)",
+            "consume_total": 25530.29
+          },
+          {
+            "cur_date": "2018-07-01",
+            "account_id": 3818,
+            "account_name": "北京融联世纪信息技术有限公司(PX)",
+            "consume_total": 25001.74
+          },
+          {
+            "cur_date": "2018-07-01",
+            "account_id": 5635,
+            "account_name": "上海基分文化传播有限公司(XM)",
+            "consume_total": 24124.82
+          },
+          {
+            "cur_date": "2018-07-01",
+            "account_id": 5667,
+            "account_name": "河南和信证券投资顾问股份有限公司(KT)",
+            "consume_total": 23212.83
+          },
+          {
+            "cur_date": "2018-07-01",
+            "account_id": 6362,
+            "account_name": "泰康人寿保险股份有限公司(WS)",
+            "consume_total": 22606.4
+          },
+          {
+            "cur_date": "2018-07-01",
+            "account_id": 8154,
+            "account_name": "招商银行股份有限公司信用卡中心(by)",
+            "consume_total": 22098.22
+          },
+          {
+            "cur_date": "2018-07-01",
+            "account_id": 8180,
+            "account_name": "深圳市西游网网络科技有限公司(JX)",
+            "consume_total": 21422.36
+          },
+          {
+            "cur_date": "2018-07-01",
+            "account_id": 8320,
+            "account_name": "贵州民族酒业（集团）销售有限公司(YQ)",
+            "consume_total": 20211.09
+          },
+          {
+            "cur_date": "2018-07-01",
+            "account_id": 4104,
+            "account_name": "杭州鼎柱网络科技有限公司",
+            "consume_total": 19210.45
+          },
+          {
+            "cur_date": "2018-07-01",
+            "account_id": 6078,
+            "account_name": "贵州省仁怀市喜来登酒业（集团）有限公司",
+            "consume_total": 19191.65
+          },
+          {
+            "cur_date": "2018-07-01",
+            "account_id": 8156,
+            "account_name": "重庆市中鸿小额贷款有限责任公司(by)",
+            "consume_total": 18795.97
+          },
+          {
+            "cur_date": "2018-07-01",
+            "account_id": 3022,
+            "account_name": "上海筑懿投资管理有限公司",
+            "consume_total": 18189.5
+          },
+          {
+            "cur_date": "2018-07-01",
+            "account_id": 4152,
+            "account_name": "天津云聚科技有限公司",
+            "consume_total": 18000.82
+          },
+          {
+            "cur_date": "2018-07-01",
+            "account_id": 5037,
+            "account_name": "北京抖动青春科技有限公司(KT)",
+            "consume_total": 17502.13
+          },
+          {
+            "cur_date": "2018-07-01",
+            "account_id": 7029,
+            "account_name": "杭州冒险元素网络技术有限公司(YQ)",
+            "consume_total": 17339.71
+          },
+          {
+            "cur_date": "2018-07-01",
+            "account_id": 7327,
+            "account_name": "中国平安人寿保险股份有限公司(WS)",
+            "consume_total": 17171.74
+          },
+          {
+            "cur_date": "2018-07-01",
+            "account_id": 8005,
+            "account_name": "广州市因地利信息科技有限公司",
+            "consume_total": 9793.29
+          },
+          {
+            "cur_date": "2018-07-01",
+            "account_id": 7632,
+            "account_name": "北京阿尔法网智信息科技有限公司(JUQI)",
+            "consume_total": 9442.55
+          },
+          {
+            "cur_date": "2018-07-01",
+            "account_id": 7633,
+            "account_name": "无锡信成科技有限公司(JUQI)",
+            "consume_total": 7162.64
+          },
+          {
+            "cur_date": "2018-07-01",
+            "account_id": 637,
+            "account_name": "深圳市诺诺易购网络科技有限公司",
+            "consume_total": 6420.25
+          },
+          {
+            "cur_date": "2018-07-01",
+            "account_id": 614,
+            "account_name": "深圳萨摩耶互联网金融服务有限公司",
+            "consume_total": 5400.33
+          },
+          {
+            "cur_date": "2018-07-01",
+            "account_id": 7889,
+            "account_name": "常德欣豪商贸有限公司",
+            "consume_total": 5000.05
+          },
+          {
+            "cur_date": "2018-07-01",
+            "account_id": 8398,
+            "account_name": "华尔街英语培训中心（上海）有限公司(BC)",
+            "consume_total": 4014.13
+          },
+          {
+            "cur_date": "2018-07-01",
+            "account_id": 3351,
+            "account_name": "华龙期货股份有限公司",
+            "consume_total": 3923.54
+          },
+          {
+            "cur_date": "2018-07-01",
+            "account_id": 2518,
+            "account_name": "北京六律科技有限责任公司(移动1)",
+            "consume_total": 1573.19
+          },
+          {
+            "cur_date": "2018-07-01",
+            "account_id": 7731,
+            "account_name": "深圳市方贝科技有限公司(YQ)",
+            "consume_total": 0.0
+          },
+          {
+            "cur_date": "2018-07-01",
+            "account_id": 2952,
+            "account_name": "上海狮王黄金有限责任公司(XM)",
+            "consume_total": 0.0
+          },
+          {
+            "account_id": 390,
+            "consume_total": 0,
+            "account_name": "上海淇毓信息科技有限公司"
+          },
+          {
+            "account_id": 6300,
+            "consume_total": 0,
+            "account_name": "上海寻梦信息技术有限公司(YR)"
+          },
+          {
+            "account_id": 2367,
+            "consume_total": 0,
+            "account_name": "北京奇才天下科技有限公司"
+          },
+          {
+            "account_id": 5477,
+            "consume_total": 0,
+            "account_name": "小咖秀（北京）科技有限公司(波波视频)"
+          },
+          {
+            "account_id": 7476,
+            "consume_total": 0,
+            "account_name": "深圳市南美洲表业有限公司"
+          },
+          {
+            "account_id": 6304,
+            "consume_total": 0,
+            "account_name": "交通银行股份有限公司太平洋信用卡中心(SZ)"
+          },
+          {
+            "account_id": 7543,
+            "consume_total": 0,
+            "account_name": "杭州苍耳科技有限公司(XM)"
+          },
+          {
+            "account_id": 8099,
+            "consume_total": 0,
+            "account_name": "北京微鲤科技有限公司(FF)"
+          },
+          {
+            "account_id": 5471,
+            "consume_total": 0,
+            "account_name": "横琴蓥酆金融服务有限公司(YQ)"
+          },
+          {
+            "account_id": 7553,
+            "consume_total": 0,
+            "account_name": "天津皓德丰贸易有限公司"
+          }
+        ],
+        "2018-07-02": [
+          {
+            "cur_date": "2018-07-02",
+            "account_id": 390,
+            "account_name": "上海淇毓信息科技有限公司",
+            "consume_total": 399065.44
+          },
+          {
+            "cur_date": "2018-07-02",
+            "account_id": 6300,
+            "account_name": "上海寻梦信息技术有限公司(YR)",
+            "consume_total": 365281.47
+          },
+          {
+            "cur_date": "2018-07-02",
+            "account_id": 2367,
+            "account_name": "北京奇才天下科技有限公司",
+            "consume_total": 227368.5
+          },
+          {
+            "cur_date": "2018-07-02",
+            "account_id": 5477,
+            "account_name": "小咖秀（北京）科技有限公司(波波视频)",
+            "consume_total": 102302.11
+          },
+          {
+            "cur_date": "2018-07-02",
+            "account_id": 6304,
+            "account_name": "交通银行股份有限公司太平洋信用卡中心(SZ)",
+            "consume_total": 82920.91
+          },
+          {
+            "cur_date": "2018-07-02",
+            "account_id": 7476,
+            "account_name": "深圳市南美洲表业有限公司",
+            "consume_total": 75005.1
+          },
+          {
+            "cur_date": "2018-07-02",
+            "account_id": 8099,
+            "account_name": "北京微鲤科技有限公司(FF)",
+            "consume_total": 67614.06
+          },
+          {
+            "cur_date": "2018-07-02",
+            "account_id": 7543,
+            "account_name": "杭州苍耳科技有限公司(XM)",
+            "consume_total": 65894.34
+          },
+          {
+            "cur_date": "2018-07-02",
+            "account_id": 7553,
+            "account_name": "天津皓德丰贸易有限公司",
+            "consume_total": 62038.11
+          },
+          {
+            "cur_date": "2018-07-02",
+            "account_id": 7199,
+            "account_name": "北京宇晨亿荣网络科技有限公司(FF)",
+            "consume_total": 54001.05
+          },
+          {
+            "cur_date": "2018-07-02",
+            "account_id": 3279,
+            "account_name": "英域成语言培训（南京）有限公司",
+            "consume_total": 50539.25
+          },
+          {
+            "cur_date": "2018-07-02",
+            "account_id": 7879,
+            "account_name": "芝麻互娱（北京）科技有限公司",
+            "consume_total": 50003.23
+          },
+          {
+            "cur_date": "2018-07-02",
+            "account_id": 5471,
+            "account_name": "横琴蓥酆金融服务有限公司(YQ)",
+            "consume_total": 47523.79
+          },
+          {
+            "cur_date": "2018-07-02",
+            "account_id": 7209,
+            "account_name": "北京融七牛信息技术有限公司",
+            "consume_total": 45938.52
+          },
+          {
+            "cur_date": "2018-07-02",
+            "account_id": 3818,
+            "account_name": "北京融联世纪信息技术有限公司(PX)",
+            "consume_total": 45353.77
+          },
+          {
+            "cur_date": "2018-07-02",
+            "account_id": 5254,
+            "account_name": "北京字节跳动科技有限公司(火山)",
+            "consume_total": 43517.34
+          },
+          {
+            "cur_date": "2018-07-02",
+            "account_id": 3347,
+            "account_name": "投资乐（上海）科技有限公司",
+            "consume_total": 40441.49
+          },
+          {
+            "cur_date": "2018-07-02",
+            "account_id": 614,
+            "account_name": "深圳萨摩耶互联网金融服务有限公司",
+            "consume_total": 39099.04
+          },
+          {
+            "cur_date": "2018-07-02",
+            "account_id": 7401,
+            "account_name": "北京中资北方投资顾问有限公司广州分公司(DK)",
+            "consume_total": 38888.26
+          },
+          {
+            "cur_date": "2018-07-02",
+            "account_id": 4710,
+            "account_name": "贵州省仁怀市约米网络有限公司",
+            "consume_total": 33926.09
+          },
+          {
+            "cur_date": "2018-07-02",
+            "account_id": 5760,
+            "account_name": "广东万丈金数信息技术股份有限公司(保险)",
+            "consume_total": 32623.55
+          },
+          {
+            "cur_date": "2018-07-02",
+            "account_id": 5667,
+            "account_name": "河南和信证券投资顾问股份有限公司(KT)",
+            "consume_total": 32003.06
+          },
+          {
+            "cur_date": "2018-07-02",
+            "account_id": 6256,
+            "account_name": "北京远山保科技有限公司(DK)",
+            "consume_total": 31380.24
+          },
+          {
+            "cur_date": "2018-07-02",
+            "account_id": 6223,
+            "account_name": "北京盛世千腾商贸有限公司(CJ)",
+            "consume_total": 31232.33
+          },
+          {
+            "cur_date": "2018-07-02",
+            "account_id": 3022,
+            "account_name": "上海筑懿投资管理有限公司",
+            "consume_total": 31111.71
+          },
+          {
+            "cur_date": "2018-07-02",
+            "account_id": 5255,
+            "account_name": "北京字节跳动科技有限公司(西瓜)",
+            "consume_total": 29974.6
+          },
+          {
+            "cur_date": "2018-07-02",
+            "account_id": 6078,
+            "account_name": "贵州省仁怀市喜来登酒业（集团）有限公司",
+            "consume_total": 24743.58
+          },
+          {
+            "cur_date": "2018-07-02",
+            "account_id": 5838,
+            "account_name": "北京每日优鲜电子商务有限公司(WS)",
+            "consume_total": 24361.2
+          },
+          {
+            "cur_date": "2018-07-02",
+            "account_id": 6362,
+            "account_name": "泰康人寿保险股份有限公司(WS)",
+            "consume_total": 23379.48
+          },
+          {
+            "cur_date": "2018-07-02",
+            "account_id": 637,
+            "account_name": "深圳市诺诺易购网络科技有限公司",
+            "consume_total": 23351.4
+          },
+          {
+            "cur_date": "2018-07-02",
+            "account_id": 8180,
+            "account_name": "深圳市西游网网络科技有限公司(JX)",
+            "consume_total": 21637.92
+          },
+          {
+            "cur_date": "2018-07-02",
+            "account_id": 6573,
+            "account_name": "中电投先融期货有限公司(FF)",
+            "consume_total": 20269.74
+          },
+          {
+            "cur_date": "2018-07-02",
+            "account_id": 5635,
+            "account_name": "上海基分文化传播有限公司(XM)",
+            "consume_total": 17589.61
+          },
+          {
+            "cur_date": "2018-07-02",
+            "account_id": 7327,
+            "account_name": "中国平安人寿保险股份有限公司(WS)",
+            "consume_total": 17500.23
+          },
+          {
+            "cur_date": "2018-07-02",
+            "account_id": 4152,
+            "account_name": "天津云聚科技有限公司",
+            "consume_total": 17321.2
+          },
+          {
+            "cur_date": "2018-07-02",
+            "account_id": 7557,
+            "account_name": "北京皓琳通盛网络科技有限公司(M)",
+            "consume_total": 15688.66
+          },
+          {
+            "cur_date": "2018-07-02",
+            "account_id": 7029,
+            "account_name": "杭州冒险元素网络技术有限公司(YQ)",
+            "consume_total": 14555.85
+          },
+          {
+            "cur_date": "2018-07-02",
+            "account_id": 8320,
+            "account_name": "贵州民族酒业（集团）销售有限公司(YQ)",
+            "consume_total": 14343.09
+          },
+          {
+            "cur_date": "2018-07-02",
+            "account_id": 5037,
+            "account_name": "北京抖动青春科技有限公司(KT)",
+            "consume_total": 14300.45
+          },
+          {
+            "cur_date": "2018-07-02",
+            "account_id": 8154,
+            "account_name": "招商银行股份有限公司信用卡中心(by)",
+            "consume_total": 12843.6
+          },
+          {
+            "cur_date": "2018-07-02",
+            "account_id": 8156,
+            "account_name": "重庆市中鸿小额贷款有限责任公司(by)",
+            "consume_total": 10849.79
+          },
+          {
+            "cur_date": "2018-07-02",
+            "account_id": 4104,
+            "account_name": "杭州鼎柱网络科技有限公司",
+            "consume_total": 8990.87
+          },
+          {
+            "cur_date": "2018-07-02",
+            "account_id": 7632,
+            "account_name": "北京阿尔法网智信息科技有限公司(JUQI)",
+            "consume_total": 8609.26
+          },
+          {
+            "cur_date": "2018-07-02",
+            "account_id": 3351,
+            "account_name": "华龙期货股份有限公司",
+            "consume_total": 7908.5
+          },
+          {
+            "cur_date": "2018-07-02",
+            "account_id": 7889,
+            "account_name": "常德欣豪商贸有限公司",
+            "consume_total": 5000.99
+          },
+          {
+            "cur_date": "2018-07-02",
+            "account_id": 2518,
+            "account_name": "北京六律科技有限责任公司(移动1)",
+            "consume_total": 1470.59
+          },
+          {
+            "cur_date": "2018-07-02",
+            "account_id": 7731,
+            "account_name": "深圳市方贝科技有限公司(YQ)",
+            "consume_total": 0.0
+          },
+          {
+            "cur_date": "2018-07-02",
+            "account_id": 2952,
+            "account_name": "上海狮王黄金有限责任公司(XM)",
+            "consume_total": 0.0
+          },
+          {
+            "account_id": 390,
+            "consume_total": 0,
+            "account_name": "上海淇毓信息科技有限公司"
+          },
+          {
+            "account_id": 6300,
+            "consume_total": 0,
+            "account_name": "上海寻梦信息技术有限公司(YR)"
+          },
+          {
+            "account_id": 2367,
+            "consume_total": 0,
+            "account_name": "北京奇才天下科技有限公司"
+          },
+          {
+            "account_id": 5477,
+            "consume_total": 0,
+            "account_name": "小咖秀（北京）科技有限公司(波波视频)"
+          },
+          {
+            "account_id": 7476,
+            "consume_total": 0,
+            "account_name": "深圳市南美洲表业有限公司"
+          },
+          {
+            "account_id": 6304,
+            "consume_total": 0,
+            "account_name": "交通银行股份有限公司太平洋信用卡中心(SZ)"
+          },
+          {
+            "account_id": 7543,
+            "consume_total": 0,
+            "account_name": "杭州苍耳科技有限公司(XM)"
+          },
+          {
+            "account_id": 8099,
+            "consume_total": 0,
+            "account_name": "北京微鲤科技有限公司(FF)"
+          },
+          {
+            "account_id": 5471,
+            "consume_total": 0,
+            "account_name": "横琴蓥酆金融服务有限公司(YQ)"
+          },
+          {
+            "account_id": 7553,
+            "consume_total": 0,
+            "account_name": "天津皓德丰贸易有限公司"
+          }
+        ]
+      },
+      "info": {
+        "kanbanType": "bar_chart",
+        "quota": null,
+        "time": { "startDate": "2018-07-01", "endDate": "2018-07-02" },
+        "dimensionDesc": "cur_date",
+        "kanbanName": "KA广告主"
+      }
+    },
+    "adconsume": {
+      "chartQuery": {
+        "chartQuery": {
+          "id": 461,
+          "reportType": 2,
+          "queryName": "广告线业务大盘数据（天维度-子母表）",
+          "queryType": 1,
+          "queryTemp": "dws_advert_business_market_data_day_di",
+          "databaseId": 3,
+          "typeEnum": "TABLE_CHART"
+        }
+      },
+      "data": {
+        "贷款-借贷": {
+          "2018-06-26": [{ "consume_total": 737780.2 }],
+          "2018-06-27": [{ "consume_total": 667518.06 }],
+          "2018-06-28": [{ "consume_total": 623470.98 }],
+          "2018-06-29": [{ "consume_total": 644991.57 }],
+          "2018-06-30": [{ "consume_total": 662964.32 }],
+          "2018-07-01": [{ "consume_total": 707728.55 }],
+          "2018-07-02": [{ "consume_total": 722321.29 }]
+        },
+        "微信加粉-证券": {
+          "2018-06-26": [{ "consume_total": 523902.84 }],
+          "2018-06-27": [{ "consume_total": 497620.59 }],
+          "2018-06-28": [{ "consume_total": 399652.76 }],
+          "2018-06-29": [{ "consume_total": 247950.31 }],
+          "2018-06-30": [{ "consume_total": 269348.54 }],
+          "2018-07-01": [{ "consume_total": 340355.53 }],
+          "2018-07-02": [{ "consume_total": 218146.55 }]
+        },
+        "电商平台-综合电商": {
+          "2018-06-26": [{ "consume_total": 318808.78 }],
+          "2018-06-27": [{ "consume_total": 358989.26 }],
+          "2018-06-28": [{ "consume_total": 342488.7 }],
+          "2018-06-29": [{ "consume_total": 255355.43 }],
+          "2018-06-30": [{ "consume_total": 277351.01 }],
+          "2018-07-01": [{ "consume_total": 322152.49 }],
+          "2018-07-02": [{ "consume_total": 365281.47 }]
+        },
+        "视频-视频": {
+          "2018-06-26": [{ "consume_total": 201976.72 }],
+          "2018-06-27": [{ "consume_total": 199163.57 }],
+          "2018-06-28": [{ "consume_total": 205089.22 }],
+          "2018-06-29": [{ "consume_total": 197772.84 }],
+          "2018-06-30": [{ "consume_total": 251945.35 }],
+          "2018-07-01": [{ "consume_total": 241705.03 }],
+          "2018-07-02": [{ "consume_total": 229795.1 }]
+        },
+        "货到付款-首饰": {
+          "2018-06-26": [{ "consume_total": 176971.23 }],
+          "2018-06-27": [{ "consume_total": 199707.12 }],
+          "2018-06-28": [{ "consume_total": 212458.64 }],
+          "2018-06-29": [{ "consume_total": 162240.88 }],
+          "2018-06-30": [{ "consume_total": 212688.11 }],
+          "2018-07-01": [{ "consume_total": 181839.82 }],
+          "2018-07-02": [{ "consume_total": 166859.53 }]
+        },
+        "新闻资讯-新闻": {
+          "2018-06-26": [{ "consume_total": 171329.28 }],
+          "2018-06-27": [{ "consume_total": 180317.73 }],
+          "2018-06-28": [{ "consume_total": 139655.84 }],
+          "2018-06-29": [{ "consume_total": 129929.51 }],
+          "2018-06-30": [{ "consume_total": 173791.81 }],
+          "2018-07-01": [{ "consume_total": 161051.05 }],
+          "2018-07-02": [{ "consume_total": 152528.1 }]
+        },
+        "信用卡-信用卡": {
+          "2018-06-26": [{ "consume_total": 98189.67 }],
+          "2018-06-27": [{ "consume_total": 146537.32 }],
+          "2018-06-28": [{ "consume_total": 162171.77 }],
+          "2018-06-29": [{ "consume_total": 163620.81 }],
+          "2018-06-30": [{ "consume_total": 142149.39 }],
+          "2018-07-01": [{ "consume_total": 138881.62 }],
+          "2018-07-02": [{ "consume_total": 141118.28 }]
+        },
+        "货到付款-钟表": {
+          "2018-06-26": [{ "consume_total": 182935.56 }],
+          "2018-06-27": [{ "consume_total": 80268.82 }],
+          "2018-06-28": [{ "consume_total": 113030.84 }],
+          "2018-06-29": [{ "consume_total": 117537.73 }],
+          "2018-06-30": [{ "consume_total": 135726.65 }],
+          "2018-07-01": [{ "consume_total": 133079.8 }],
+          "2018-07-02": [{ "consume_total": 106237.43 }]
+        },
+        "保险-保险": {
+          "2018-06-26": [{ "consume_total": 91491.32 }],
+          "2018-06-27": [{ "consume_total": 92262.34 }],
+          "2018-06-28": [{ "consume_total": 89833.12 }],
+          "2018-06-29": [{ "consume_total": 99454.15 }],
+          "2018-06-30": [{ "consume_total": 118512.99 }],
+          "2018-07-01": [{ "consume_total": 115259.2 }],
+          "2018-07-02": [{ "consume_total": 113492.76 }]
+        },
+        "教育-语言培训": {
+          "2018-06-26": [{ "consume_total": 49407.36 }],
+          "2018-06-27": [{ "consume_total": 49266.08 }],
+          "2018-06-28": [{ "consume_total": 49999.54 }],
+          "2018-06-29": [{ "consume_total": 50000.61 }],
+          "2018-06-30": [{ "consume_total": 50001.51 }],
+          "2018-07-01": [{ "consume_total": 51644.16 }],
+          "2018-07-02": [{ "consume_total": 50539.25 }]
+        },
+        "其他": {
+          "2018-06-26": [{ "consume_total": 154737.63 }],
+          "2018-06-27": [{ "consume_total": 166057.37 }],
+          "2018-06-28": [{ "consume_total": 139895.06 }],
+          "2018-06-29": [{ "consume_total": 151979.15 }],
+          "2018-06-30": [{ "consume_total": 156245.31 }],
+          "2018-07-01": [{ "consume_total": 183620.86 }],
+          "2018-07-02": [{ "consume_total": 163443.61 }]
+        }
+      },
+      "info": {
+        "kanbanType": "line_chart",
+        "quota": ["consume_total"],
+        "time": { "startDate": "2018-06-26", "endDate": "2018-07-02" },
+        "dimensionDesc": "cur_date",
+        "kanbanName": "广告行业消耗分布"
+      }
+    }
+  }
+}

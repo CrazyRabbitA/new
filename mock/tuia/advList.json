@@ -1,0 +1,457 @@
+{
+    "success": true,
+    "errorCode": null,
+    "desc": null,
+    "data": [
+        {
+            "advertName": "万豪地主Android",
+            "launchCount": 529532,
+            "exposureCount": 517960,
+            "clickCount": 376346,
+            "efClickCount": 309615,
+            "advertId": 10940,
+            "consumeTotal": 19501639
+        },
+        {
+            "advertName": "百胜棋牌A-2677",
+            "launchCount": 419415,
+            "exposureCount": 412545,
+            "clickCount": 253982,
+            "efClickCount": 217064,
+            "advertId": 13518,
+            "consumeTotal": 14086487
+        },
+        {
+            "advertName": "金花斗地主（安卓）",
+            "launchCount": 337402,
+            "exposureCount": 330317,
+            "clickCount": 225548,
+            "efClickCount": 175300,
+            "advertId": 14680,
+            "consumeTotal": 12128951
+        },
+        {
+            "advertName": "开心A_2453_20170804",
+            "launchCount": 241718,
+            "exposureCount": 237924,
+            "clickCount": 135358,
+            "efClickCount": 114024,
+            "advertId": 12346,
+            "consumeTotal": 7456406
+        },
+        {
+            "advertName": "博乐Android-1013",
+            "launchCount": 217043,
+            "exposureCount": 216136,
+            "clickCount": 120982,
+            "efClickCount": 102910,
+            "advertId": 16356,
+            "consumeTotal": 6312270
+        },
+        {
+            "advertName": "菠菜",
+            "launchCount": 209732,
+            "exposureCount": 205834,
+            "clickCount": 121989,
+            "efClickCount": 99235,
+            "advertId": 15251,
+            "consumeTotal": 6115723
+        },
+        {
+            "advertName": "129_push3_0714",
+            "launchCount": 168857,
+            "exposureCount": 163591,
+            "clickCount": 66924,
+            "efClickCount": 61752,
+            "advertId": 10808,
+            "consumeTotal": 8175747
+        },
+        {
+            "advertName": "李艳霞-yx",
+            "launchCount": 160664,
+            "exposureCount": 154084,
+            "clickCount": 107668,
+            "efClickCount": 101845,
+            "advertId": 18455,
+            "consumeTotal": 4073800
+        },
+        {
+            "advertName": "z-蘑菇保V1",
+            "launchCount": 147704,
+            "exposureCount": 148524,
+            "clickCount": 82751,
+            "efClickCount": 80993,
+            "advertId": 8941,
+            "consumeTotal": 2132125
+        },
+        {
+            "advertName": "万豪娱乐-apk-2",
+            "launchCount": 143833,
+            "exposureCount": 140776,
+            "clickCount": 84519,
+            "efClickCount": 64222,
+            "advertId": 12847,
+            "consumeTotal": 4537668
+        },
+        {
+            "advertName": "jf-c007-10",
+            "launchCount": 139334,
+            "exposureCount": 135051,
+            "clickCount": 74227,
+            "efClickCount": 70524,
+            "advertId": 18187,
+            "consumeTotal": 2820961
+        },
+        {
+            "advertName": "融360-p2p7（1027）",
+            "launchCount": 135984,
+            "exposureCount": 133850,
+            "clickCount": 47074,
+            "efClickCount": 45307,
+            "advertId": 17679,
+            "consumeTotal": 2008430
+        },
+        {
+            "advertName": "db1lxg01-手表免费送-8.7陈龙",
+            "launchCount": 127288,
+            "exposureCount": 126517,
+            "clickCount": 66135,
+            "efClickCount": 64797,
+            "advertId": 12104,
+            "consumeTotal": 2340486
+        },
+        {
+            "advertName": "青年黑卡（轩辕）安卓",
+            "launchCount": 126209,
+            "exposureCount": 127223,
+            "clickCount": 31653,
+            "efClickCount": 31128,
+            "advertId": 13277,
+            "consumeTotal": 1571146
+        },
+        {
+            "advertName": "天天斗牛-105-安卓-1107",
+            "launchCount": 104262,
+            "exposureCount": 102988,
+            "clickCount": 39831,
+            "efClickCount": 33288,
+            "advertId": 18605,
+            "consumeTotal": 1997268
+        },
+        {
+            "advertName": "融360-pp4-100元（9.29",
+            "launchCount": 95035,
+            "exposureCount": 94290,
+            "clickCount": 32461,
+            "efClickCount": 31638,
+            "advertId": 15745,
+            "consumeTotal": 1328282
+        },
+        {
+            "advertName": "英雄麻将-新",
+            "launchCount": 89830,
+            "exposureCount": 88677,
+            "clickCount": 33739,
+            "efClickCount": 31770,
+            "advertId": 17525,
+            "consumeTotal": 3158765
+        },
+        {
+            "advertName": "省呗-安卓（挖掘机页面）5",
+            "launchCount": 87245,
+            "exposureCount": 86481,
+            "clickCount": 45166,
+            "efClickCount": 42963,
+            "advertId": 18119,
+            "consumeTotal": 2030585
+        },
+        {
+            "advertName": "孙榕-ty",
+            "launchCount": 85508,
+            "exposureCount": 83228,
+            "clickCount": 47777,
+            "efClickCount": 46127,
+            "advertId": 16195,
+            "consumeTotal": 2018924
+        },
+        {
+            "advertName": "融360-p2p00（1107）",
+            "launchCount": 83243,
+            "exposureCount": 81063,
+            "clickCount": 18708,
+            "efClickCount": 18024,
+            "advertId": 18515,
+            "consumeTotal": 757008
+        },
+        {
+            "advertName": "浦发白金卡ios",
+            "launchCount": 76851,
+            "exposureCount": 77796,
+            "clickCount": 18950,
+            "efClickCount": 18357,
+            "advertId": 13008,
+            "consumeTotal": 766371
+        },
+        {
+            "advertName": "博瑞手机",
+            "launchCount": 76149,
+            "exposureCount": 74530,
+            "clickCount": 31900,
+            "efClickCount": 31094,
+            "advertId": 18138,
+            "consumeTotal": 843887
+        },
+        {
+            "advertName": "金融超市-JS-0063金融贷款0720",
+            "launchCount": 75660,
+            "exposureCount": 73610,
+            "clickCount": 32433,
+            "efClickCount": 31870,
+            "advertId": 11135,
+            "consumeTotal": 1104689
+        },
+        {
+            "advertName": "12",
+            "launchCount": 74689,
+            "exposureCount": 72805,
+            "clickCount": 41269,
+            "efClickCount": 39046,
+            "advertId": 10337,
+            "consumeTotal": 1561840
+        },
+        {
+            "advertName": "e1-28",
+            "launchCount": 74430,
+            "exposureCount": 71684,
+            "clickCount": 35026,
+            "efClickCount": 32383,
+            "advertId": 14791,
+            "consumeTotal": 1669991
+        },
+        {
+            "advertName": "128_push2_0823",
+            "launchCount": 72265,
+            "exposureCount": 70483,
+            "clickCount": 26183,
+            "efClickCount": 23541,
+            "advertId": 13017,
+            "consumeTotal": 966893
+        },
+        {
+            "advertName": "128_push_0908",
+            "launchCount": 71937,
+            "exposureCount": 70181,
+            "clickCount": 22071,
+            "efClickCount": 20768,
+            "advertId": 14020,
+            "consumeTotal": 1012270
+        },
+        {
+            "advertName": "黑牛有钱新1",
+            "launchCount": 69124,
+            "exposureCount": 68114,
+            "clickCount": 22929,
+            "efClickCount": 22557,
+            "advertId": 17460,
+            "consumeTotal": 1020605
+        },
+        {
+            "advertName": "奇货智能插卡手表货到付款",
+            "launchCount": 67301,
+            "exposureCount": 67055,
+            "clickCount": 32816,
+            "efClickCount": 32217,
+            "advertId": 4882,
+            "consumeTotal": 833015
+        },
+        {
+            "advertName": "西黛尔-手表-10.19",
+            "launchCount": 61883,
+            "exposureCount": 60889,
+            "clickCount": 27880,
+            "efClickCount": 26957,
+            "advertId": 16963,
+            "consumeTotal": 871925
+        },
+        {
+            "advertName": "11.3tatg.3",
+            "launchCount": 60062,
+            "exposureCount": 57408,
+            "clickCount": 27938,
+            "efClickCount": 22609,
+            "advertId": 18679,
+            "consumeTotal": 904360
+        },
+        {
+            "advertName": "奇货新太阳能充电宝货到付款（付费券）",
+            "launchCount": 60013,
+            "exposureCount": 60374,
+            "clickCount": 26626,
+            "efClickCount": 26307,
+            "advertId": 15246,
+            "consumeTotal": 372851
+        },
+        {
+            "advertName": "黑牛保险cpc4",
+            "launchCount": 58709,
+            "exposureCount": 58152,
+            "clickCount": 33934,
+            "efClickCount": 33500,
+            "advertId": 8937,
+            "consumeTotal": 1377278
+        },
+        {
+            "advertName": "投资咨询30",
+            "launchCount": 56988,
+            "exposureCount": 55365,
+            "clickCount": 23054,
+            "efClickCount": 21198,
+            "advertId": 18215,
+            "consumeTotal": 879964
+        },
+        {
+            "advertName": "泰康-包券",
+            "launchCount": 56028,
+            "exposureCount": 54926,
+            "clickCount": 19147,
+            "efClickCount": 18879,
+            "advertId": 17231,
+            "consumeTotal": 780107
+        },
+        {
+            "advertName": "128_push3_1020",
+            "launchCount": 54525,
+            "exposureCount": 53637,
+            "clickCount": 12425,
+            "efClickCount": 11539,
+            "advertId": 17080,
+            "consumeTotal": 558278
+        },
+        {
+            "advertName": "厦门-扎金花",
+            "launchCount": 52058,
+            "exposureCount": 51233,
+            "clickCount": 24381,
+            "efClickCount": 20446,
+            "advertId": 10725,
+            "consumeTotal": 1187634
+        },
+        {
+            "advertName": "万豪地主ios",
+            "launchCount": 49983,
+            "exposureCount": 49619,
+            "clickCount": 24907,
+            "efClickCount": 24183,
+            "advertId": 10941,
+            "consumeTotal": 2224475
+        },
+        {
+            "advertName": "大家玩娱乐-6301-安卓1030",
+            "launchCount": 49721,
+            "exposureCount": 49142,
+            "clickCount": 19607,
+            "efClickCount": 16611,
+            "advertId": 17812,
+            "consumeTotal": 986528
+        },
+        {
+            "advertName": "天天中彩票ios3",
+            "launchCount": 48987,
+            "exposureCount": 47604,
+            "clickCount": 26446,
+            "efClickCount": 25321,
+            "advertId": 8695,
+            "consumeTotal": 1650812
+        },
+        {
+            "advertName": "爱动漫-安卓（1）-wx",
+            "launchCount": 48782,
+            "exposureCount": 52005,
+            "clickCount": 25906,
+            "efClickCount": 24134,
+            "advertId": 13815,
+            "consumeTotal": 321633
+        },
+        {
+            "advertName": "张-原始传奇-安21460",
+            "launchCount": 48174,
+            "exposureCount": 48112,
+            "clickCount": 13881,
+            "efClickCount": 12331,
+            "advertId": 16938,
+            "consumeTotal": 545880
+        },
+        {
+            "advertName": "计划888",
+            "launchCount": 44990,
+            "exposureCount": 43172,
+            "clickCount": 17561,
+            "efClickCount": 16357,
+            "advertId": 18511,
+            "consumeTotal": 670364
+        },
+        {
+            "advertName": "JX016969-聚讯-网赚-黄河",
+            "launchCount": 44973,
+            "exposureCount": 43061,
+            "clickCount": 20174,
+            "efClickCount": 18550,
+            "advertId": 18621,
+            "consumeTotal": 799994
+        },
+        {
+            "advertName": "w万丈-中国人寿12-刘寿伟（成都）",
+            "launchCount": 42512,
+            "exposureCount": 41672,
+            "clickCount": 24103,
+            "efClickCount": 23769,
+            "advertId": 8387,
+            "consumeTotal": 1134043
+        },
+        {
+            "advertName": "张-原始传奇-安21436(2)",
+            "launchCount": 42129,
+            "exposureCount": 41438,
+            "clickCount": 9693,
+            "efClickCount": 8945,
+            "advertId": 16868,
+            "consumeTotal": 370101
+        },
+        {
+            "advertName": "万豪彩票1（盼盼）duiba1",
+            "launchCount": 41020,
+            "exposureCount": 40487,
+            "clickCount": 24820,
+            "efClickCount": 24188,
+            "advertId": 8665,
+            "consumeTotal": 1043180
+        },
+        {
+            "advertName": "捕鱼大富翁",
+            "launchCount": 40023,
+            "exposureCount": 39169,
+            "clickCount": 17771,
+            "efClickCount": 16825,
+            "advertId": 17430,
+            "consumeTotal": 673050
+        },
+        {
+            "advertName": "闪电借款-iOS-37-1101",
+            "launchCount": 39689,
+            "exposureCount": 38422,
+            "clickCount": 11987,
+            "efClickCount": 11183,
+            "advertId": 18011,
+            "consumeTotal": 1006470
+        },
+        {
+            "advertName": "国信微加",
+            "launchCount": 39402,
+            "exposureCount": 38350,
+            "clickCount": 14319,
+            "efClickCount": 13597,
+            "advertId": 17485,
+            "consumeTotal": 729978
+        }
+    ]
+}

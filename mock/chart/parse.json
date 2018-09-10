@@ -1,0 +1,31 @@
+{
+  "success": true,
+  "errorCode": null,
+  "desc": null,
+  "data": {
+    "searchEntity": [
+      {
+        "id": 802,
+        "chartQueryId": 134,
+        "searchName": "startDate",
+        "labelName": "开始了",
+        "searchOrder": 1,
+        "searchType": 1,
+        "defaultType": 1,
+        "defaultValue": "",
+        "extInfo": ""
+      },
+      {
+        "id": 803,
+        "chartQueryId": 134,
+        "searchName": "endDate",
+        "labelName": "结束了",
+        "searchOrder": 2,
+        "searchType": 1,
+        "defaultType": 1,
+        "defaultValue": "",
+        "extInfo": ""
+      }
+    ]
+  }
+}

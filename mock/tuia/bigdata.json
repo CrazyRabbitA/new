@@ -1,0 +1,37 @@
+{
+    "success": true,
+    "errorCode": null,
+    "desc": null,
+    "data": {
+      "2018-01-11": {
+        "launchPv": 3214942,
+        "clickPrice": 0.47603363162703216,
+        "efclickPv": 1307995
+      },
+      "2018-01-12": {
+        "launchPv": 3471919,
+        "clickPrice": 0.4807109014962429,
+        "efclickPv": 1437133
+      },
+      "2018-01-13": {
+        "launchPv": 3770017,
+        "clickPrice": 0.4492600899120023,
+        "efclickPv": 1488789
+      },
+      "2018-01-14": {
+        "launchPv": 3651006,
+        "clickPrice": 0.4449458034867677,
+        "efclickPv": 1422693
+      },
+      "2018-01-15": {
+        "launchPv": 3102900,
+        "clickPrice": 0.4746581337175102,
+        "efclickPv": 1218883
+      },
+      "2018-01-16": {
+        "launchPv": 3267467,
+        "clickPrice": 0.4880948373681382,
+        "efclickPv": 1289323
+      }
+    }
+  }

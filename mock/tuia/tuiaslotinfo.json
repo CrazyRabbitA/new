@@ -1,0 +1,42 @@
+{
+    "success": true,
+    "errorCode": null,
+    "desc": null,
+    "data": [
+        {
+            "slotName": "插屏",
+            "appName": "测试应用",
+            "appId": 17775,
+            "slotId": 1,
+            "appSource": "推啊"
+        },
+        {
+            "slotName": "横幅",
+            "appName": "测试应用",
+            "appId": 17775,
+            "slotId": 2,
+            "appSource": "推啊"
+        },
+        {
+            "slotName": "信息流（700x280）",
+            "appName": "测试应用",
+            "appId": 17775,
+            "slotId": 3,
+            "appSource": "推啊"
+        },
+        {
+            "slotName": "美团广告位",
+            "appName": "美团外卖app",
+            "appId": 17777,
+            "slotId": 4,
+            "appSource": "推啊"
+        },
+        {
+            "slotName": "小浣熊方便面",
+            "appName": "美团外卖app",
+            "appId": 17777,
+            "slotId": 5,
+            "appSource": "推啊"
+        }
+    ]
+}

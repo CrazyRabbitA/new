@@ -1,0 +1,23 @@
+{
+  "success": true,
+  "errorCode": null,
+  "desc": null,
+  "data": {
+    "value": 2968704.46,
+    "compValue": 4477075.64,
+    "diff": -1508371.18,
+    "diffPercent": -0.51,
+    "source": {
+      "sdkUv0": 1.8502415E7,
+      "advertRequestCount0": 2.3190812E7,
+      "launchCount0": 2.2308491E7,
+      "payLaunchPv0": 0.0,
+      "adConsume0": 2.96870446E8,
+      "sdkUv1": 2.859338E7,
+      "advertRequestCount1": 3.5920826E7,
+      "launchCount1": 3.4906515E7,
+      "payLaunchPv1": 0.0,
+      "adConsume1": 4.47707564E8
+    }
+  }
+}

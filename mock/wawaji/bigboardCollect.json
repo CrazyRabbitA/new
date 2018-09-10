@@ -1,0 +1,128 @@
+{
+  "success": true,
+  "errorCode": null,
+  "desc": null,
+  "data": {
+    "linechart": {
+      "collect": {
+        "history": {
+          "newUser": 1000,
+          "activityUser": 500,
+          "dayStayRate": 0.6,
+          "weekStayRate": 0.4,
+          "adConsume": 3000,
+          "chargeMoney": 1000,
+          "issueCoin": 1000
+        },
+        "realtime": {
+          "newUser": 1000,
+          "activityUser": 500,
+          "dayStayRate": 0.6,
+          "weekStayRate": 0.4,
+          "adConsume": 3000,
+          "chargeMoney": 1000,
+          "issueCoin": 1000
+        }
+      },
+      "realtime": {
+        "2017-11-01": {
+          "newUser": 1000,
+          "activityUser": 500,
+          "dayStayRate": 0.6,
+          "weekStayRate": 0.4,
+          "adConsume": 3000,
+          "chargeMoney": 1000,
+          "issueCoin": 1000
+        },
+        "2017-11-02": {
+          "newUser": 1000,
+          "activityUser": 500,
+          "dayStayRate": 0.6,
+          "weekStayRate": 0.4,
+          "adConsume": 3000,
+          "chargeMoney": 1000,
+          "issueCoin": 1000
+        },
+        "2017-11-03": {
+          "newUser": 1000,
+          "activityUser": 500,
+          "dayStayRate": 0.6,
+          "weekStayRate": 0.4,
+          "adConsume": 3000,
+          "chargeMoney": 1000,
+          "issueCoin": 1000
+        },
+        "2017-11-04": {
+          "newUser": 1000,
+          "activityUser": 500,
+          "dayStayRate": 0.6,
+          "weekStayRate": 0.4,
+          "adConsume": 3000,
+          "chargeMoney": 1000,
+          "issueCoin": 1000
+        },
+        "2017-11-05": {
+          "newUser": 1000,
+          "activityUser": 500,
+          "dayStayRate": 0.6,
+          "weekStayRate": 0.4,
+          "adConsume": 3000,
+          "chargeMoney": 1000,
+          "issueCoin": 1000
+        },
+        "2017-11-06": {
+          "newUser": 1000,
+          "activityUser": 500,
+          "dayStayRate": 0.6,
+          "weekStayRate": 0.4,
+          "adConsume": 3000,
+          "chargeMoney": 1000,
+          "issueCoin": 1000
+        },
+        "2017-11-07": {
+          "newUser": 1000,
+          "activityUser": 500,
+          "dayStayRate": 0.6,
+          "weekStayRate": 0.4,
+          "adConsume": 3000,
+          "chargeMoney": 1000,
+          "issueCoin": 1000
+        }
+      }
+    },
+    "table": {
+      "collect": {
+        "curDate": "时间段汇总",
+        "newUser": 1000,
+        "activityUser": 500,
+        "dayStayRate": 0.6,
+        "weekStayRate": 0.4,
+        "adConsume": 3000,
+        "chargeMoney": 1000,
+        "issueCoin": 1000
+      },
+      "count": 50,
+      "data": [{
+          "curDate": "2017-11-21",
+          "newUser": 1000,
+          "activityUser": 500,
+          "dayStayRate": 0.6,
+          "weekStayRate": 0.4,
+          "adConsume": 3000,
+          "chargeMoney": 1000,
+          "issueCoin": 1000
+        },
+        {
+          "curDate": "2017-11-21",
+          "newUser": 1000,
+          "activityUser": 500,
+          "dayStayRate": 0.6,
+          "weekStayRate": 0.4,
+          "adConsume": 3000,
+          "chargeMoney": 1000,
+          "issueCoin": 1000
+        }
+      ]
+    }
+  }
+}

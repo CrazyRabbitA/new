@@ -1,0 +1,29 @@
+{
+    "success": true,
+    "errorCode": null,
+    "desc": null,
+    "data": {
+        "table": [
+            {
+                "appId": null,
+                "appName": null,
+                "curDate": "2017-08-24",
+                "floorName": null,
+                "appFloorName": null,
+                "expPv": 0,
+                "expUv": 0,
+                "clickPv": 4147,
+                "clickUv": 1605,
+                "uvClickRate": null,
+                "pvClickRate": 0,
+                "lastSevenDayClickRate": null,
+                "growth": null,
+                "count": 222,
+                "appCount": 1,
+                "pageId": null,
+                "regionId": null
+            }
+        ],
+        "count": 13
+    }
+}

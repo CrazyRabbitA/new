@@ -1,0 +1,52 @@
+{
+  "success": true,
+  "errorCode": null,
+  "desc": null,
+  "data": {
+    "list": [
+      {
+        "id": 12,
+        "advertId": 1,
+        "advertName": "广告计划1",
+        "alarmName": "点击率"
+      },
+      {
+        "id": 15,
+        "advertId": 1,
+        "advertName": "广告计划2",
+        "alarmName": "CPA熔断"
+      },
+      {
+        "id": 17,
+        "advertId": 1,
+        "advertName": "广告计划3",
+        "alarmName": "CPA放量"
+      },
+      {
+        "id": 14,
+        "advertId": 2,
+        "advertName": "广告计划4",
+        "alarmName": "点击率"
+      },
+      {
+        "id": 16,
+        "advertId": 2,
+        "advertName": "广告计划5",
+        "alarmName": "CPA熔断"
+      },
+      {
+        "id": 18,
+        "advertId": 2,
+        "advertName": "广告计划6",
+        "alarmName": "CPA放量"
+      },
+      {
+        "id": 19,
+        "advertId": 1,
+        "advertName": "广告计划7",
+        "alarmName": "消耗"
+      }
+    ],
+    "total": 26
+  }
+}

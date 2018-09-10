@@ -1,0 +1,10 @@
+{
+  "data": [
+    "duibaTable",
+    "tuiaTable",
+    "qihoTable"
+  ],
+  "desc": "string",
+  "errorCode": "string",
+  "success": true
+}

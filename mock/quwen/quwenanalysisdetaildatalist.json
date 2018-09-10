@@ -1,0 +1,111 @@
+{
+  "success": true,
+  "errorCode": null,
+  "desc": null,
+  "data": {
+    "page": {
+      "list": [
+        {
+          "curDate": "2018-04-25",
+          "appStartUser": 55735,
+          "loginUser": 53194,
+          "startLoginPer": "95.44%",
+          "participateUserCt": 23078,
+          "loginPartPer": "43.38%",
+          "participateIssueUser": 33048,
+          "partCoinPer": "143.20%",
+          "cashUserCt": 574,
+          "issueCashPer": "1.74%"
+        },
+        {
+          "curDate": "2018-04-26",
+          "appStartUser": 48839,
+          "loginUser": 46648,
+          "startLoginPer": "95.51%",
+          "participateUserCt": 26892,
+          "loginPartPer": "57.65%",
+          "participateIssueUser": 33966,
+          "partCoinPer": "126.31%",
+          "cashUserCt": 1155,
+          "issueCashPer": "3.40%"
+        },
+        {
+          "curDate": "2018-04-27",
+          "appStartUser": 49304,
+          "loginUser": 47077,
+          "startLoginPer": "95.48%",
+          "participateUserCt": 29394,
+          "loginPartPer": "62.44%",
+          "participateIssueUser": 34581,
+          "partCoinPer": "117.65%",
+          "cashUserCt": 1166,
+          "issueCashPer": "3.37%"
+        },
+        {
+          "curDate": "2018-04-28",
+          "appStartUser": 48744,
+          "loginUser": 46585,
+          "startLoginPer": "95.57%",
+          "participateUserCt": 31730,
+          "loginPartPer": "68.11%",
+          "participateIssueUser": 35513,
+          "partCoinPer": "111.92%",
+          "cashUserCt": 1108,
+          "issueCashPer": "3.12%"
+        },
+        {
+          "curDate": "2018-04-29",
+          "appStartUser": 54439,
+          "loginUser": 51306,
+          "startLoginPer": "94.24%",
+          "participateUserCt": 34809,
+          "loginPartPer": "67.85%",
+          "participateIssueUser": 37137,
+          "partCoinPer": "106.69%",
+          "cashUserCt": 503,
+          "issueCashPer": "1.35%"
+        },
+        {
+          "curDate": "2018-04-30",
+          "appStartUser": 59769,
+          "loginUser": 56049,
+          "startLoginPer": "93.78%",
+          "participateUserCt": 37934,
+          "loginPartPer": "67.68%",
+          "participateIssueUser": 39282,
+          "partCoinPer": "103.55%",
+          "cashUserCt": 767,
+          "issueCashPer": "1.95%"
+        },
+        {
+          "curDate": "2018-05-01",
+          "appStartUser": 61964,
+          "loginUser": 58496,
+          "startLoginPer": "94.40%",
+          "participateUserCt": 40083,
+          "loginPartPer": "68.52%",
+          "participateIssueUser": 41365,
+          "partCoinPer": "103.20%",
+          "cashUserCt": 1572,
+          "issueCashPer": "3.80%"
+        }
+      ],
+      "page": 0,
+      "pageSize": 0,
+      "totalPages": "Infinity",
+      "totalRecords": 7
+    },
+    "total": {
+      "curDate": "汇总",
+      "appStartUser": 378794,
+      "loginUser": 359355,
+      "startLoginPer": "94.87%",
+      "participateUserCt": 223920,
+      "loginPartPer": "62.31%",
+      "participateIssueUser": 254892,
+      "partCoinPer": "113.83%",
+      "cashUserCt": 6845,
+      "issueCashPer": "2.69%"
+    }
+  }
+}

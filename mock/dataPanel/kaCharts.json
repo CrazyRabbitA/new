@@ -1,0 +1,552 @@
+{
+  "success": true,
+  "errorCode": null,
+  "desc": null,
+  "data": {
+    "line": {
+      "target": [
+        {
+          "time": "2018-08-01",
+          "value": 70,
+          "percent": 0.6714
+        },
+        {
+          "time": "2018-08-02",
+          "value": 70,
+          "percent": 0.6714
+        },
+        {
+          "time": "2018-08-03",
+          "value": 70,
+          "percent": 0.6714
+        },
+        {
+          "time": "2018-08-04",
+          "value": 70,
+          "percent": 0.7
+        },
+        {
+          "time": "2018-08-05",
+          "value": 70,
+          "percent": 0.7
+        },
+        {
+          "time": "2018-08-06",
+          "value": 70,
+          "percent": 0.6857
+        },
+        {
+          "time": "2018-08-07",
+          "value": 70,
+          "percent": 0.7429
+        }
+      ],
+      "KACt": [
+        {
+          "time": "2018-08-01",
+          "value": 47,
+          "percent": 0.6714
+        },
+        {
+          "time": "2018-08-02",
+          "value": 47,
+          "percent": 0.6714
+        },
+        {
+          "time": "2018-08-03",
+          "value": 47,
+          "percent": 0.6714
+        },
+        {
+          "time": "2018-08-04",
+          "value": 49,
+          "percent": 0.7
+        },
+        {
+          "time": "2018-08-05",
+          "value": 49,
+          "percent": 0.7
+        },
+        {
+          "time": "2018-08-06",
+          "value": 48,
+          "percent": 0.6857
+        },
+        {
+          "time": "2018-08-07",
+          "value": 52,
+          "percent": 0.7429
+        }
+      ],
+      "estiKACt": [
+        {
+          "time": "2018-08-01",
+          "value": 10,
+          "percent": 0.6714
+        },
+        {
+          "time": "2018-08-02",
+          "value": 15,
+          "percent": 0.6714
+        },
+        {
+          "time": "2018-08-03",
+          "value": 22,
+          "percent": 0.6714
+        },
+        {
+          "time": "2018-08-04",
+          "value": 36,
+          "percent": 0.7
+        },
+        {
+          "time": "2018-08-05",
+          "value": 18,
+          "percent": 0.7
+        },
+        {
+          "time": "2018-08-06",
+          "value": 36,
+          "percent": 0.6857
+        },
+        {
+          "time": "2018-08-07",
+          "value": 20,
+          "percent": 0.7429
+        }
+      ],
+      "eastKACt": [
+        {
+          "time": "2018-08-01",
+          "value": 40,
+          "percent": 0.6714
+        },
+        {
+          "time": "2018-08-02",
+          "value": 10,
+          "percent": 0.6714
+        },
+        {
+          "time": "2018-08-03",
+          "value": 31,
+          "percent": 0.6714
+        },
+        {
+          "time": "2018-08-04",
+          "value": 48,
+          "percent": 0.7
+        },
+        {
+          "time": "2018-08-05",
+          "value": 8,
+          "percent": 0.7
+        },
+        {
+          "time": "2018-08-06",
+          "value": 50,
+          "percent": 0.6857
+        },
+        {
+          "time": "2018-08-07",
+          "value": 10,
+          "percent": 0.7429
+        }
+      ],
+      "eastEstiKACt": [
+        {
+          "time": "2018-08-01",
+          "value": 33,
+          "percent": 0.6714
+        },
+        {
+          "time": "2018-08-02",
+          "value": 34,
+          "percent": 0.6714
+        },
+        {
+          "time": "2018-08-03",
+          "value": 42,
+          "percent": 0.6714
+        },
+        {
+          "time": "2018-08-04",
+          "value": 22,
+          "percent": 0.7
+        },
+        {
+          "time": "2018-08-05",
+          "value": 12,
+          "percent": 0.7
+        },
+        {
+          "time": "2018-08-06",
+          "value": 42,
+          "percent": 0.6857
+        },
+        {
+          "time": "2018-08-07",
+          "value": 42,
+          "percent": 0.7429
+        }
+      ]
+    },
+    "tradeList": [
+      {
+        "curDate": "2018-08-07",
+        "newTrade": "P2P",
+        "percent": null,
+        "estiKACt": 0,
+        "eastKACt": 0,
+        "eastEstiKACt": 0,
+        "target": 0,
+        "eastTarget": 1,
+        "ka": [],
+        "varyKA": [],
+        "estiKA": [
+          {
+            "curDate": "2018-08-07",
+            "newTrade": "P2P",
+            "accountId": 413,
+            "accountName": "北京红高粱网络科技有限公司",
+            "accountOtherName": "花生票号",
+            "avgConsumeTotal": 3376.9725,
+            "consumeTotal": 0,
+            "varyKA": 3,
+            "estiKA": 1,
+            "ka": 0
+          }
+        ],
+        "kact": 0
+      },
+      {
+        "curDate": "2018-08-07",
+        "newTrade": "休闲游戏",
+        "percent": null,
+        "estiKACt": 0,
+        "eastKACt": 0,
+        "eastEstiKACt": 0,
+        "target": 0,
+        "eastTarget": 22,
+        "ka": [],
+        "varyKA": [],
+        "estiKA": [],
+        "kact": 0
+      },
+      {
+        "curDate": "2018-08-07",
+        "newTrade": "其他服务",
+        "percent": null,
+        "estiKACt": 2,
+        "eastKACt": 0,
+        "eastEstiKACt": 2,
+        "target": 0,
+        "eastTarget": 3,
+        "ka": [
+          {
+            "curDate": "2018-08-07",
+            "newTrade": "其他服务",
+            "accountId": 7459,
+            "accountName": "北京五八信息技术有限公司(FF)",
+            "accountOtherName": "58同城",
+            "avgConsumeTotal": 17681.2929,
+            "consumeTotal": 1413885,
+            "varyKA": 0,
+            "estiKA": 0,
+            "ka": 1
+          }
+        ],
+        "varyKA": [],
+        "estiKA": [
+          {
+            "curDate": "2018-08-07",
+            "newTrade": "其他服务",
+            "accountId": 5467,
+            "accountName": "上海炫讯科技有限公司(CJ)",
+            "accountOtherName": "微信加粉-热链应用小程序开发",
+            "avgConsumeTotal": 5015.62,
+            "consumeTotal": 0,
+            "varyKA": 3,
+            "estiKA": 1,
+            "ka": 0
+          },
+          {
+            "curDate": "2018-08-07",
+            "newTrade": "其他服务",
+            "accountId": 9027,
+            "accountName": "天津飞讯和沃网络技术有限公司",
+            "accountOtherName": "--",
+            "avgConsumeTotal": 4614.86,
+            "consumeTotal": 0,
+            "varyKA": 3,
+            "estiKA": 1,
+            "ka": 0
+          }
+        ],
+        "kact": 1
+      },
+      {
+        "curDate": "2018-08-07",
+        "newTrade": "医疗保健",
+        "percent": null,
+        "estiKACt": 0,
+        "eastKACt": 0,
+        "eastEstiKACt": 0,
+        "target": 0,
+        "eastTarget": 4,
+        "ka": [],
+        "varyKA": [],
+        "estiKA": [],
+        "kact": 0
+      },
+      {
+        "curDate": "2018-08-07",
+        "newTrade": "微信加粉",
+        "percent": null,
+        "estiKACt": 3,
+        "eastKACt": 6,
+        "eastEstiKACt": 1,
+        "target": 0,
+        "eastTarget": 5,
+        "ka": [
+          {
+            "curDate": "2018-08-07",
+            "newTrade": "微信加粉",
+            "accountId": 3022,
+            "accountName": "上海筑懿投资管理有限公司",
+            "accountOtherName": "微信加粉",
+            "avgConsumeTotal": 37792.23,
+            "consumeTotal": 6475247,
+            "varyKA": 0,
+            "estiKA": 0,
+            "ka": 1
+          },
+          {
+            "curDate": "2018-08-07",
+            "newTrade": "微信加粉",
+            "accountId": 3347,
+            "accountName": "投资乐（上海）科技有限公司",
+            "accountOtherName": "微信加粉",
+            "avgConsumeTotal": 83463.9157,
+            "consumeTotal": 12249204,
+            "varyKA": 0,
+            "estiKA": 0,
+            "ka": 1
+          },
+          {
+            "curDate": "2018-08-07",
+            "newTrade": "微信加粉",
+            "accountId": 3944,
+            "accountName": "广州经传多赢投资咨询有限公司(SZ)",
+            "accountOtherName": "--",
+            "avgConsumeTotal": 71162.5571,
+            "consumeTotal": 8430348,
+            "varyKA": 0,
+            "estiKA": 0,
+            "ka": 1
+          },
+          {
+            "curDate": "2018-08-07",
+            "newTrade": "微信加粉",
+            "accountId": 5471,
+            "accountName": "横琴蓥酆金融服务有限公司(YQ)",
+            "accountOtherName": "微信加粉",
+            "avgConsumeTotal": 81988.5157,
+            "consumeTotal": 6340004,
+            "varyKA": 0,
+            "estiKA": 0,
+            "ka": 1
+          },
+          {
+            "curDate": "2018-08-07",
+            "newTrade": "微信加粉",
+            "accountId": 5667,
+            "accountName": "河南和信证券投资顾问股份有限公司(KT)",
+            "accountOtherName": "微信加粉",
+            "avgConsumeTotal": 62853.4043,
+            "consumeTotal": 8300163,
+            "varyKA": 0,
+            "estiKA": 0,
+            "ka": 1
+          },
+          {
+            "curDate": "2018-08-07",
+            "newTrade": "微信加粉",
+            "accountId": 5832,
+            "accountName": "上海新兰德证券投资咨询顾问有限公司(D)",
+            "accountOtherName": "--",
+            "avgConsumeTotal": 50454.58,
+            "consumeTotal": 4784967,
+            "varyKA": 0,
+            "estiKA": 0,
+            "ka": 1
+          },
+          {
+            "curDate": "2018-08-07",
+            "newTrade": "微信加粉",
+            "accountId": 6573,
+            "accountName": "中电投先融期货有限公司(FF)",
+            "accountOtherName": "微信加粉",
+            "avgConsumeTotal": 39960.9443,
+            "consumeTotal": 4753347,
+            "varyKA": 0,
+            "estiKA": 0,
+            "ka": 1
+          },
+          {
+            "curDate": "2018-08-07",
+            "newTrade": "微信加粉",
+            "accountId": 7401,
+            "accountName": "北京中资北方投资顾问有限公司广州分公司(DK)",
+            "accountOtherName": "微信加粉",
+            "avgConsumeTotal": 60014.7557,
+            "consumeTotal": 5155837,
+            "varyKA": 0,
+            "estiKA": 0,
+            "ka": 1
+          },
+          {
+            "curDate": "2018-08-07",
+            "newTrade": "微信加粉",
+            "accountId": 7611,
+            "accountName": "北京博星证券投资顾问有限公司(YQ)",
+            "accountOtherName": "微信加粉",
+            "avgConsumeTotal": 55406.9271,
+            "consumeTotal": 4251789,
+            "varyKA": 0,
+            "estiKA": 0,
+            "ka": 1
+          },
+          {
+            "curDate": "2018-08-07",
+            "newTrade": "微信加粉",
+            "accountId": 8841,
+            "accountName": "上海偃蹇网络科技有限公司(YQ)",
+            "accountOtherName": "--",
+            "avgConsumeTotal": 26954.0686,
+            "consumeTotal": 4255147,
+            "varyKA": 0,
+            "estiKA": 0,
+            "ka": 1
+          },
+          {
+            "curDate": "2018-08-07",
+            "newTrade": "微信加粉",
+            "accountId": 8885,
+            "accountName": "大连华讯投资股份有限公司(YR)",
+            "accountOtherName": "--",
+            "avgConsumeTotal": 29069.3914,
+            "consumeTotal": 1469428,
+            "varyKA": 0,
+            "estiKA": 0,
+            "ka": 1
+          },
+          {
+            "curDate": "2018-08-07",
+            "newTrade": "微信加粉",
+            "accountId": 8886,
+            "accountName": "海顺证券投资咨询有限公司合肥分公司(YR)",
+            "accountOtherName": "--",
+            "avgConsumeTotal": 10900.8243,
+            "consumeTotal": 3297270,
+            "varyKA": 1,
+            "estiKA": 0,
+            "ka": 1
+          }
+        ],
+        "varyKA": [
+          {
+            "curDate": "2018-08-07",
+            "newTrade": "微信加粉",
+            "accountId": 8855,
+            "accountName": "新时代证券股份有限公司信阳北京大街证券营业部(FF)",
+            "accountOtherName": "--",
+            "avgConsumeTotal": 4048.0525,
+            "consumeTotal": 0,
+            "varyKA": 2,
+            "estiKA": 1,
+            "ka": 0
+          },
+          {
+            "curDate": "2018-08-07",
+            "newTrade": "微信加粉",
+            "accountId": 8886,
+            "accountName": "海顺证券投资咨询有限公司合肥分公司(YR)",
+            "accountOtherName": "--",
+            "avgConsumeTotal": 10900.8243,
+            "consumeTotal": 3297270,
+            "varyKA": 1,
+            "estiKA": 0,
+            "ka": 1
+          }
+        ],
+        "estiKA": [
+          {
+            "curDate": "2018-08-07",
+            "newTrade": "微信加粉",
+            "accountId": 7653,
+            "accountName": "深圳市国诚投资咨询有限公司上海分公司",
+            "accountOtherName": "--",
+            "avgConsumeTotal": 6489.708,
+            "consumeTotal": 444955,
+            "varyKA": 3,
+            "estiKA": 1,
+            "ka": 0
+          },
+          {
+            "curDate": "2018-08-07",
+            "newTrade": "微信加粉",
+            "accountId": 8855,
+            "accountName": "新时代证券股份有限公司信阳北京大街证券营业部(FF)",
+            "accountOtherName": "--",
+            "avgConsumeTotal": 4048.0525,
+            "consumeTotal": 0,
+            "varyKA": 2,
+            "estiKA": 1,
+            "ka": 0
+          },
+          {
+            "curDate": "2018-08-07",
+            "newTrade": "微信加粉",
+            "accountId": 9059,
+            "accountName": "北京卡瘦生物科技有限公司BC",
+            "accountOtherName": "--",
+            "avgConsumeTotal": 3818.3,
+            "consumeTotal": 381830,
+            "varyKA": 3,
+            "estiKA": 1,
+            "ka": 0
+          }
+        ],
+        "kact": 12
+      },
+      {
+        "curDate": "2018-08-07",
+        "newTrade": "本地化教育",
+        "percent": null,
+        "estiKACt": 0,
+        "eastKACt": 0,
+        "eastEstiKACt": 0,
+        "target": 0,
+        "eastTarget": 6,
+        "ka": [],
+        "varyKA": [],
+        "estiKA": [],
+        "kact": 0
+      },
+      {
+        "curDate": "2018-08-07",
+        "newTrade": "生活日用",
+        "percent": null,
+        "estiKACt": 0,
+        "eastKACt": 0,
+        "eastEstiKACt": 0,
+        "target": 0,
+        "eastTarget": 26,
+        "ka": [],
+        "varyKA": [],
+        "estiKA": [],
+        "kact": 0
+      }
+    ]
+  }
+}

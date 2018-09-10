@@ -1,0 +1,13 @@
+{
+  "success": true,
+  "errorCode": null,
+  "desc": null,
+  "data": {
+    "id": 12,
+    "advertId": 1,
+    "alarmName": "点击率",
+    "outlier": 2.371,
+    "clickRate": 1.75,
+    "diffRate": 2.377
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "success": true,
+  "errorCode": null,
+  "desc": null,
+  "data": {
+    "urlList": [
+      "http://0activity.tuia.cn/activity/index?id=5538&login=preview&appKey=jlg88lyxz7siqtmr",
+      "http://1activity.tuia.cn/activity/index?id=5538&login=preview&appKey=jlg88lyxz7siqtmr",
+      "http://2activity.tuia.cn/activity/index?id=5538&login=preview&appKey=jlg88lyxz7siqtmr"
+    ]
+  }
+}

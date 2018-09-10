@@ -1,0 +1,414 @@
+{
+    "success": true,
+    "errorCode": null,
+    "desc": null,
+    "data": {
+        "basic": {
+            "diffValue": -289361.0000,
+            "contrastValue": 1969998.0000,
+            "currentValue": 1680637.0000
+        },
+        "table": [
+            {
+                "appName": "转转",
+                "appId": 42587,
+                "contrastValue": 11449,
+                "currentValue": 49407,
+                "variation": 37958,
+                "ratio": "3.3154"
+            },
+            {
+                "appName": "兑吧-腾讯手游",
+                "appId": 41943,
+                "contrastValue": 8058,
+                "currentValue": 26919,
+                "variation": 18861,
+                "ratio": "2.3407"
+            },
+            {
+                "appName": "斗鱼直播",
+                "appId": 32336,
+                "contrastValue": 0,
+                "currentValue": 14113,
+                "variation": 14113,
+                "ratio": "Infinity"
+            },
+            {
+                "appName": "QQ飞车手游",
+                "appId": 38238,
+                "contrastValue": 2595,
+                "currentValue": 9463,
+                "variation": 6868,
+                "ratio": "2.6466"
+            },
+            {
+                "appName": "QQ钱包",
+                "appId": 36976,
+                "contrastValue": 63864,
+                "currentValue": 69572,
+                "variation": 5708,
+                "ratio": "0.0894"
+            },
+            {
+                "appName": "360手机卫士",
+                "appId": 8786,
+                "contrastValue": 5278,
+                "currentValue": 9901,
+                "variation": 4623,
+                "ratio": "0.8759"
+            },
+            {
+                "appName": "爱奇艺",
+                "appId": 31819,
+                "contrastValue": 162942,
+                "currentValue": 167440,
+                "variation": 4498,
+                "ratio": "0.0276"
+            },
+            {
+                "appName": "腾讯手机管家",
+                "appId": 25036,
+                "contrastValue": 18354,
+                "currentValue": 21665,
+                "variation": 3311,
+                "ratio": "0.1804"
+            },
+            {
+                "appName": "饿了么金币商城",
+                "appId": 14695,
+                "contrastValue": 11942,
+                "currentValue": 14529,
+                "variation": 2587,
+                "ratio": "0.2166"
+            },
+            {
+                "appName": "低碳U品",
+                "appId": 28523,
+                "contrastValue": 1916,
+                "currentValue": 3300,
+                "variation": 1384,
+                "ratio": "0.7223"
+            },
+            {
+                "appName": "马上金融app",
+                "appId": 28708,
+                "contrastValue": 8922,
+                "currentValue": 10063,
+                "variation": 1141,
+                "ratio": "0.1279"
+            },
+            {
+                "appName": "丰巢管家",
+                "appId": 27733,
+                "contrastValue": 2875,
+                "currentValue": 4012,
+                "variation": 1137,
+                "ratio": "0.3955"
+            },
+            {
+                "appName": "猎豹清理大师",
+                "appId": 17548,
+                "contrastValue": 11226,
+                "currentValue": 12305,
+                "variation": 1079,
+                "ratio": "0.0961"
+            },
+            {
+                "appName": "运动世界校园",
+                "appId": 42420,
+                "contrastValue": 2822,
+                "currentValue": 3859,
+                "variation": 1037,
+                "ratio": "0.3675"
+            },
+            {
+                "appName": "驾考宝典",
+                "appId": 7823,
+                "contrastValue": 3850,
+                "currentValue": 4694,
+                "variation": 844,
+                "ratio": "0.2192"
+            },
+            {
+                "appName": "腾讯动漫",
+                "appId": 11067,
+                "contrastValue": 32842,
+                "currentValue": 33594,
+                "variation": 752,
+                "ratio": "0.0229"
+            },
+            {
+                "appName": "360儿童卫士",
+                "appId": 17212,
+                "contrastValue": 3298,
+                "currentValue": 3944,
+                "variation": 646,
+                "ratio": "0.1959"
+            },
+            {
+                "appName": "凤凰新闻客户端",
+                "appId": 6002,
+                "contrastValue": 24070,
+                "currentValue": 24705,
+                "variation": 635,
+                "ratio": "0.0264"
+            },
+            {
+                "appName": "淘最热点",
+                "appId": 41638,
+                "contrastValue": 280,
+                "currentValue": 833,
+                "variation": 553,
+                "ratio": "1.9750"
+            },
+            {
+                "appName": "起点积分兑换",
+                "appId": 4280,
+                "contrastValue": 1130,
+                "currentValue": 1596,
+                "variation": 466,
+                "ratio": "0.4124"
+            },
+            {
+                "appName": "E米商城",
+                "appId": 25469,
+                "contrastValue": 2687,
+                "currentValue": 3148,
+                "variation": 461,
+                "ratio": "0.1716"
+            },
+            {
+                "appName": "挖财记账理财",
+                "appId": 31002,
+                "contrastValue": 1658,
+                "currentValue": 2056,
+                "variation": 398,
+                "ratio": "0.2400"
+            },
+            {
+                "appName": "北京一卡通",
+                "appId": 12057,
+                "contrastValue": 3617,
+                "currentValue": 3946,
+                "variation": 329,
+                "ratio": "0.0910"
+            },
+            {
+                "appName": "凤金正式",
+                "appId": 30015,
+                "contrastValue": 655,
+                "currentValue": 977,
+                "variation": 322,
+                "ratio": "0.4916"
+            },
+            {
+                "appName": "（生产）草根殿堂",
+                "appId": 2564,
+                "contrastValue": 1098,
+                "currentValue": 1384,
+                "variation": 286,
+                "ratio": "0.2605"
+            },
+            {
+                "appName": "恋爱记",
+                "appId": 5281,
+                "contrastValue": 465,
+                "currentValue": 745,
+                "variation": 280,
+                "ratio": "0.6022"
+            },
+            {
+                "appName": "体检宝",
+                "appId": 6895,
+                "contrastValue": 1210,
+                "currentValue": 1455,
+                "variation": 245,
+                "ratio": "0.2025"
+            },
+            {
+                "appName": "乐动力新商城",
+                "appId": 11105,
+                "contrastValue": 8653,
+                "currentValue": 8890,
+                "variation": 237,
+                "ratio": "0.0274"
+            },
+            {
+                "appName": "可可英语",
+                "appId": 4744,
+                "contrastValue": 947,
+                "currentValue": 1182,
+                "variation": 235,
+                "ratio": "0.2482"
+            },
+            {
+                "appName": "今日赚",
+                "appId": 13087,
+                "contrastValue": 22,
+                "currentValue": 254,
+                "variation": 232,
+                "ratio": "10.5455"
+            },
+            {
+                "appName": "浙江新闻",
+                "appId": 6822,
+                "contrastValue": 114,
+                "currentValue": 344,
+                "variation": 230,
+                "ratio": "2.0175"
+            },
+            {
+                "appName": "网易新闻",
+                "appId": 24797,
+                "contrastValue": 789,
+                "currentValue": 1017,
+                "variation": 228,
+                "ratio": "0.2890"
+            },
+            {
+                "appName": "融360",
+                "appId": 11834,
+                "contrastValue": 3369,
+                "currentValue": 3596,
+                "variation": 227,
+                "ratio": "0.0674"
+            },
+            {
+                "appName": "魔秀",
+                "appId": 17809,
+                "contrastValue": 3450,
+                "currentValue": 3666,
+                "variation": 216,
+                "ratio": "0.0626"
+            },
+            {
+                "appName": "三国杀",
+                "appId": 9669,
+                "contrastValue": 171,
+                "currentValue": 377,
+                "variation": 206,
+                "ratio": "1.2047"
+            },
+            {
+                "appName": "育儿宝",
+                "appId": 13351,
+                "contrastValue": 2036,
+                "currentValue": 2235,
+                "variation": 199,
+                "ratio": "0.0977"
+            },
+            {
+                "appName": "戒客",
+                "appId": 11184,
+                "contrastValue": 226,
+                "currentValue": 419,
+                "variation": 193,
+                "ratio": "0.8540"
+            },
+            {
+                "appName": "百度手机浏览器",
+                "appId": 19871,
+                "contrastValue": 565,
+                "currentValue": 743,
+                "variation": 178,
+                "ratio": "0.3150"
+            },
+            {
+                "appName": "用户福利",
+                "appId": 9464,
+                "contrastValue": 18,
+                "currentValue": 190,
+                "variation": 172,
+                "ratio": "9.5556"
+            },
+            {
+                "appName": "人人抓娃娃",
+                "appId": 40480,
+                "contrastValue": 389,
+                "currentValue": 561,
+                "variation": 172,
+                "ratio": "0.4422"
+            },
+            {
+                "appName": "车轮社区",
+                "appId": 17184,
+                "contrastValue": 392,
+                "currentValue": 560,
+                "variation": 168,
+                "ratio": "0.4286"
+            },
+            {
+                "appName": "百度糯米",
+                "appId": 21324,
+                "contrastValue": 276,
+                "currentValue": 436,
+                "variation": 160,
+                "ratio": "0.5797"
+            },
+            {
+                "appName": "医学教育网",
+                "appId": 33303,
+                "contrastValue": 385,
+                "currentValue": 542,
+                "variation": 157,
+                "ratio": "0.4078"
+            },
+            {
+                "appName": "鲁大师",
+                "appId": 10149,
+                "contrastValue": 966,
+                "currentValue": 1123,
+                "variation": 157,
+                "ratio": "0.1625"
+            },
+            {
+                "appName": "in",
+                "appId": 4511,
+                "contrastValue": 457,
+                "currentValue": 610,
+                "variation": 153,
+                "ratio": "0.3348"
+            },
+            {
+                "appName": "欢乐抓娃娃",
+                "appId": 38595,
+                "contrastValue": 248,
+                "currentValue": 401,
+                "variation": 153,
+                "ratio": "0.6169"
+            },
+            {
+                "appName": "永乐票务",
+                "appId": 9208,
+                "contrastValue": 631,
+                "currentValue": 779,
+                "variation": 148,
+                "ratio": "0.2345"
+            },
+            {
+                "appName": "氧气听书",
+                "appId": 1448,
+                "contrastValue": 88,
+                "currentValue": 228,
+                "variation": 140,
+                "ratio": "1.5909"
+            },
+            {
+                "appName": "澎湃新闻（生产环境）",
+                "appId": 12091,
+                "contrastValue": 378,
+                "currentValue": 512,
+                "variation": 134,
+                "ratio": "0.3545"
+            },
+            {
+                "appName": "蛙鸣健康",
+                "appId": 5189,
+                "contrastValue": 87,
+                "currentValue": 211,
+                "variation": 124,
+                "ratio": "1.4253"
+            }
+        ]
+    }
+}

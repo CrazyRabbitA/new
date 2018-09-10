@@ -1,0 +1,25 @@
+{
+    "data": {
+        "table": [
+            {
+                "curDate": "2001-01-01",
+                "activityName": "三体",
+                "appId": 1,
+                "accessPv": 1,
+                "accessUv": 1,
+                "cityCount": 2,
+                "province": "三体"
+            }
+        ],
+        "count": 1,
+        "map": [
+            {
+                "name": "广东",
+                "value": 1
+            }
+        ]
+    },
+    "desc": "string",
+    "errorCode": "string",
+    "success": true
+}

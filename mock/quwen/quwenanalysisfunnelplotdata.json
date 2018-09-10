@@ -1,0 +1,119 @@
+{
+  "success": true,
+  "errorCode": null,
+  "desc": null,
+  "data": {
+    "funnelChart": {
+      "curDate": "汇总",
+      "appStartUser": 378794,
+      "loginUser": 359355,
+      "startLoginPer": "94.87%",
+      "participateUserCt": 223920,
+      "loginPartPer": "62.31%",
+      "participateIssueUser": 254892,
+      "partCoinPer": "113.83%",
+      "cashUserCt": 6845,
+      "issueCashPer": "2.69%",
+      "appStartPer": "100.0%"
+    },
+    "lineChart": {
+      "2018-04-25": {
+        "curDate": "2018-04-25",
+        "appStartUser": null,
+        "loginUser": null,
+        "startLoginPer": "95.44%",
+        "participateUserCt": null,
+        "loginPartPer": "43.38%",
+        "participateIssueUser": null,
+        "partCoinPer": "143.20%",
+        "cashUserCt": null,
+        "issueCashPer": "1.74%"
+      },
+      "2018-04-26": {
+        "curDate": "2018-04-26",
+        "appStartUser": null,
+        "loginUser": null,
+        "startLoginPer": "95.51%",
+        "participateUserCt": null,
+        "loginPartPer": "57.65%",
+        "participateIssueUser": null,
+        "partCoinPer": "126.31%",
+        "cashUserCt": null,
+        "issueCashPer": "3.40%"
+      },
+      "2018-04-27": {
+        "curDate": "2018-04-27",
+        "appStartUser": null,
+        "loginUser": null,
+        "startLoginPer": "95.48%",
+        "participateUserCt": null,
+        "loginPartPer": "62.44%",
+        "participateIssueUser": null,
+        "partCoinPer": "117.65%",
+        "cashUserCt": null,
+        "issueCashPer": "3.37%"
+      },
+      "2018-04-28": {
+        "curDate": "2018-04-28",
+        "appStartUser": null,
+        "loginUser": null,
+        "startLoginPer": "95.57%",
+        "participateUserCt": null,
+        "loginPartPer": "68.11%",
+        "participateIssueUser": null,
+        "partCoinPer": "111.92%",
+        "cashUserCt": null,
+        "issueCashPer": "3.12%"
+      },
+      "2018-04-29": {
+        "curDate": "2018-04-29",
+        "appStartUser": null,
+        "loginUser": null,
+        "startLoginPer": "94.24%",
+        "participateUserCt": null,
+        "loginPartPer": "67.85%",
+        "participateIssueUser": null,
+        "partCoinPer": "106.69%",
+        "cashUserCt": null,
+        "issueCashPer": "1.35%"
+      },
+      "2018-04-30": {
+        "curDate": "2018-04-30",
+        "appStartUser": null,
+        "loginUser": null,
+        "startLoginPer": "93.78%",
+        "participateUserCt": null,
+        "loginPartPer": "67.68%",
+        "participateIssueUser": null,
+        "partCoinPer": "103.55%",
+        "cashUserCt": null,
+        "issueCashPer": "1.95%"
+      },
+      "2018-05-01": {
+        "curDate": "2018-05-01",
+        "appStartUser": null,
+        "loginUser": null,
+        "startLoginPer": "94.40%",
+        "participateUserCt": null,
+        "loginPartPer": "68.52%",
+        "participateIssueUser": null,
+        "partCoinPer": "103.20%",
+        "cashUserCt": null,
+        "issueCashPer": "3.80%"
+      },
+      "2018-05-02": {
+        "curDate": "2018-05-02",
+        "appStartUser": null,
+        "starPer": null,
+        "loginUser": null,
+        "startLoginPer": null,
+        "participateUserCt": null,
+        "loginPartPer": null,
+        "partCoinPer": null,
+        "participateIssueUser": null,
+        "cashUserCt": null,
+        "issueCashPer": null
+      }
+    }
+  }
+}

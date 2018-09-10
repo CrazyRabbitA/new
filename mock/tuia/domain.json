@@ -1,0 +1,23 @@
+{
+  "success": true,
+  "errorCode": null,
+  "desc": null,
+  "data": {
+    "data": [
+      {
+        "id": 1,
+        "domain": "domain",
+        "ip": "1.1.1.1,2.2.2.2,1.1.2.2.2",
+        "domainStatus": 0,
+        "cert": 0,
+        "record": 0,
+        "http": 0,
+        "situation": "situation",
+        "remark": "合肥分行覅耦合哦豁我哈佛我哈佛我哈佛我和覅偶和覅哦豁1",
+        "gmtCreate": 1512546755000,
+        "gmtModified": 1512546755000
+      }
+    ],
+    "count": 100
+  }
+}

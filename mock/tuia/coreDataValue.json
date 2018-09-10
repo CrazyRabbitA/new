@@ -1,0 +1,115 @@
+{
+  "success": true,
+  "errorCode": null,
+  "desc": null,
+  "data": {
+    "data": [
+      {
+        "adConsume": {
+          "data": "3029667.20",
+          "sequential": 0.059,
+          "comparedSame": -0.0612,
+          "label": "消耗"
+        }
+      },
+      {
+        "sdkUv": {
+          "data": 25248994,
+          "sequential": -0.0239,
+          "comparedSame": -0.0722,
+          "label": "广告位访问UV"
+        }
+      },
+      {
+        "launchPerUv": {
+          "data": 1.1392,
+          "sequential": 0.0606,
+          "comparedSame": 0.0412,
+          "label": "每UV发券"
+        }
+      },
+      {
+        "clickPerUv": {
+          "data": 0.373,
+          "sequential": 0.046,
+          "comparedSame": -0.014,
+          "label": "每UV券点击"
+        }
+      },
+      {
+        "launchSuccessRate": {
+          "data": 0.9645,
+          "sequential": 0.0039,
+          "comparedSame": -0.0108,
+          "label": "发券成功率"
+        }
+      },
+      {
+        "plpPlc": {
+          "data": 0.7578,
+          "sequential": 0.0209,
+          "comparedSame": 0.0177,
+          "label": "付费券占比"
+        }
+      },
+      {
+        "plpClickRate": {
+          "data": 0.3593,
+          "sequential": -0.0305,
+          "comparedSame": -0.0495,
+          "label": "付费券点击率"
+        }
+      },
+      {
+        "plpClickPrice": {
+          "data": "0.41",
+          "sequential": 0.0,
+          "comparedSame": -0.0238,
+          "label": "付费券点击单价"
+        }
+      },
+      {
+        "acPplp": {
+          "data": "0.14",
+          "sequential": 0.0,
+          "comparedSame": -0.0667,
+          "label": "付费券arpu值"
+        }
+      },
+      {
+        "launchCount": {
+          "data": 28764070,
+          "sequential": 0.0353,
+          "comparedSame": -0.034,
+          "label": "广告发券量"
+        }
+      },
+      {
+        "efClickCount": {
+          "data": 9417350,
+          "sequential": 0.0209,
+          "comparedSame": -0.0852,
+          "label": "广告点击量"
+        }
+      },
+      {
+        "advertClickRate": {
+          "data": 0.3509,
+          "sequential": -0.0339,
+          "comparedSame": -0.0623,
+          "label": "广告点击率"
+        }
+      },
+      {
+        "launchArpu": {
+          "data": "0.11",
+          "sequential": 0.1,
+          "comparedSame": 0.0,
+          "label": "arpu值（大盘）"
+        }
+      }
+    ],
+    "time": { "date": "2018-07-03", "endDate": "2018-07-03" },
+    "info": { "name": null, "id": null }
+  }
+}

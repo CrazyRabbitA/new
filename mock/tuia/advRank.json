@@ -1,0 +1,138 @@
+{
+    "success": true,
+    "errorCode": null,
+    "desc": null,
+    "data": {
+        "basic": {
+            "quota12": 117704313.0000,
+            "quota11": 113993538.0000,
+            "quota22": 3246793.0000,
+            "diffValue": "0.00",
+            "contrastValue": "0.36",
+            "quota21": 3119739.0000,
+            "currentValue": "0.37"
+        },
+        "table": [
+            {
+                "advertName": "公众号-百元礼券-签到",
+                "quota12": 0.0000,
+                "quota11": 0.0000,
+                "quota22": 44732.0000,
+                "contrastValue": "0.00",
+                "advertId": 23574,
+                "quota21": 4130.0000,
+                "currentValue": "0.00",
+                "variation": "0.00",
+                "ratio": 0.11534450801610707
+            },
+            {
+                "advertName": "交通银行",
+                "quota12": 0.0000,
+                "quota11": 0.0000,
+                "quota22": 42275.0000,
+                "contrastValue": "0.00",
+                "advertId": 21795,
+                "quota21": 3500.0000,
+                "currentValue": "0.00",
+                "variation": "0.00",
+                "ratio": 0.1101093744413836
+            },
+            {
+                "advertName": "QPJ-万豪地主-Android",
+                "quota12": 894222.0000,
+                "quota11": 3995097.0000,
+                "quota22": 21992.0000,
+                "contrastValue": "0.41",
+                "advertId": 22459,
+                "quota21": 79905.0000,
+                "currentValue": "0.50",
+                "variation": "0.09",
+                "ratio": 0.08152332011774403
+            },
+            {
+                "advertName": "129_push3_0714",
+                "quota12": 1880879.0000,
+                "quota11": 3250261.0000,
+                "quota22": 18584.0000,
+                "contrastValue": "1.01",
+                "advertId": 10808,
+                "quota21": 30828.0000,
+                "currentValue": "1.05",
+                "variation": "0.04",
+                "ratio": 0.07898333816791998
+            },
+            {
+                "advertName": "129-push8-1218",
+                "quota12": 989025.0000,
+                "quota11": 2173491.0000,
+                "quota22": 14549.0000,
+                "contrastValue": "0.68",
+                "advertId": 21934,
+                "quota21": 26056.0000,
+                "currentValue": "0.83",
+                "variation": "0.15",
+                "ratio": 0.06346525738216285
+            },
+            {
+                "advertName": "QPZ-万豪娱乐1-apk-2",
+                "quota12": 598030.0000,
+                "quota11": 1759665.0000,
+                "quota22": 14030.0000,
+                "contrastValue": "0.43",
+                "advertId": 23219,
+                "quota21": 31442.0000,
+                "currentValue": "0.56",
+                "variation": "0.13",
+                "ratio": 0.04284335611396815
+            },
+            {
+                "advertName": "万年历-1包",
+                "quota12": 0.0000,
+                "quota11": 0.0000,
+                "quota22": 11471.0000,
+                "contrastValue": "0.00",
+                "advertId": 22796,
+                "quota21": 7.0000,
+                "currentValue": "0.00",
+                "variation": "0.00",
+                "ratio": 0.03234996710987272
+            },
+            {
+                "advertName": "公众号-最爱小电影-签到（微信）",
+                "quota12": 0.0000,
+                "quota11": 0.0000,
+                "quota22": 68032.0000,
+                "contrastValue": "0.00",
+                "advertId": 23304,
+                "quota21": 54526.0000,
+                "currentValue": "0.00",
+                "variation": "0.00",
+                "ratio": 0.03170449157586269
+            },
+            {
+                "advertName": "07火山小视频 1225 14：39",
+                "quota12": 9776255.0000,
+                "quota11": 10356914.0000,
+                "quota22": 167312.0000,
+                "contrastValue": "0.58",
+                "advertId": 22393,
+                "quota21": 176605.0000,
+                "currentValue": "0.59",
+                "variation": "0.00",
+                "ratio": 0.030581195491036117
+            },
+            {
+                "advertName": "129_push12_0118",
+                "quota12": 0.0000,
+                "quota11": 614600.0000,
+                "quota22": 0.0000,
+                "contrastValue": "0.00",
+                "advertId": 23701,
+                "quota21": 7719.0000,
+                "currentValue": "0.80",
+                "variation": "0.80",
+                "ratio": 0.026912038718579168
+            }
+        ]
+    }
+}
