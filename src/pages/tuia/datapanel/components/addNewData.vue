@@ -1,44 +1,34 @@
 <template>
-    <div>
-        <p class="data-title">
-            <span>日期:</span>
-            <daterangepicker :error-show.sync="errorShow" :start.sync="startDate" :end.sync="endDate"></daterangepicker>
-            <d-button size="large" type="warning" @click="search">查询</d-button>
-            <d-button class="download" size="large" type="primary" @click="download">下载</d-button>
-        </p>
-        <div class="advance-table">
-            <table class="recommend-list mt10">
-                <thead class="header">
-                    <tr class="tr-header">
-                        <template v-for="(index, item) in newHead">
-                            <th :key="index">
-                                <label class="trade-warp">
-                                    {{item}}
-                                </label>
-                            </th>
-                        </template>
-                    </tr>
-                </thead>
+  <div>
+    <p class="data-title">
+      <span>日期:</span>
+      <daterangepicker :error-show.sync="errorShow" :start.sync="startDate" :end.sync="endDate"></daterangepicker>
+      <d-button size="large" type="warning" @click="search">查询</d-button>
+      <d-button class="download" size="large" type="primary" @click="download">下载</d-button>
+    </p>
+    <div class="advance-table">
+      <table class="recommend-list mt10">
+        <thead class="header">
+          <tr class="tr-header">
+            <template v-for="(val, key) in mapArr[0]">
+              <th :key="index">
+                <label class="trade-warp">
+                  {{val}}
+                </label>
+              </th>
+            </template>
+          </tr>
+        </thead>
 
-                <tbody v-if="showTable">
-                    <tr class="tr-items" v-for="(date,key) in mapArr">
-                        <td>2</td>
-                        <template v-for="(index, item) in mapArr">
-                            <template v-for="(key, val) in item[1]">
-                                <td :key="index">
-                                    <label class="trade-warp">
-                                        <span :class="{'green': val.consume[tipIndex(date,val.consume)].green}">{{val.consume[tipIndex(date,val.consume)].tradeConsumeTotal}}</span>
-                                    </label>
-                                </td>
-                            </template>
-                        </template>
-                        <td :class="{'green': key.green}">{{key.tradeConsumeTotal}}</td>
-                    </tr>
-                </tbody>
-            </table>
-            <tableempty v-if="!showTable"></tableempty>
-        </div>
+        <tbody>
+          <tr class="tr-items" v-for="(item,indexs) in mapArr">
+            <td v-for="(item,index) in indexs ">{{index}}</td>
+          </tr>
+        </tbody>
+      </table>
+      <tableempty v-if="!showTable"></tableempty>
     </div>
+  </div>
 </template>
 <script>
 import { _fixNum, getPrecent } from 'components/utils/cheatDataUtils';
@@ -56,7 +46,6 @@ export default {
   data() {
     return {
       showTable: false,
-      newHead: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
       data: {},
       mapArr: [],
       startDate: this._getStartDay(formatDate(new Date())),

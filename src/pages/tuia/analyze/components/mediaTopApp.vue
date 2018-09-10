@@ -2,48 +2,48 @@
   <div class="mediatop-table">
     <div class="media-top">
       <div class="up-type" :class="{'active': upType}" @click="changeType()">涨幅TOP</div>
-      <div class="down-type" :class="{'active': !upType}"  @click="changeType()">跌幅TOP</div>
+      <div class="down-type" :class="{'active': !upType}" @click="changeType()">跌幅TOP</div>
     </div>
     <div class="advance-table">
-    <table class="recommend-list mt10">
-      <thead>
-        <tr class="tr-header">
+      <table class="recommend-list mt10">
+        <thead>
+          <tr class="tr-header">
             <template v-for="(index, item) in columns">
-              <th :key="index">               
-                 <label class="trade-warp">
-                    {{item.title}}
-                     <d-tooltip v-if="item.tooltip" :content="item.content" type="disable" maxwidth="none">
-                      <a href="javascript:void(0)" class="iconhandle disable icon-positon">&#xe649;</a>
-                    </d-tooltip>
+              <th :key="index">
+                <label class="trade-warp">
+                  {{item.title}}
+                  <d-tooltip v-if="item.tooltip" :content="item.content" type="disable" maxwidth="none">
+                    <a href="javascript:void(0)" class="iconhandle disable icon-positon">&#xe649;</a>
+                  </d-tooltip>
                 </label>
               </th>
             </template>
-        </tr>
-      </thead>
-      <tbody v-if="showTable">
-        <tr class="tr-items" v-for="(index, item) in topTable" :key="index">
-          <template v-for="column in columns" >
-            <td v-if="column.render">
-               {{column.render(item[column.key], item)}}
-            </td>
-            <td v-else>
-              <span v-if="column.key === 'id'">
-                 <a @click='onClickId(item.id)'>{{item.id}}</a>
-              </span>
-              <span v-else>
-                {{item[column.key]}}
-              </span>
-            </td>
-          </template>
-        </tr>
-      </tbody>
-    </table>
-    <tableempty v-if="!showTable"></tableempty>
-  </div>
-    <d-pagination :total="totalList" :current-page="pageNum" :page-size="pageSize" @change="onPageChange" ></d-pagination>
+          </tr>
+        </thead>
+        <tbody v-if="showTable">
+          <tr class="tr-items" v-for="(index, item) in topTable" :key="index">
+            <template v-for="column in columns">
+              <td v-if="column.render">
+                {{column.render(item[column.key], item)}}
+              </td>
+              <td v-else>
+                <span v-if="column.key === 'id'">
+                  <a @click='onClickId(item.id)'>{{item.id}}</a>
+                </span>
+                <span v-else>
+                  {{item[column.key]}}
+                </span>
+              </td>
+            </template>
+          </tr>
+        </tbody>
+      </table>
+      <tableempty v-if="!showTable"></tableempty>
+    </div>
+    <d-pagination :total="totalList" :current-page="pageNum" :page-size="pageSize" @change="onPageChange"></d-pagination>
     <tableempty v-if="basic && !basic.topIncreaseApp.length && !basic.topPlummetApp.length"></tableempty>
     <div class='top-tip'>
-       <p>提示：点击媒体id可查看媒体消耗波动分析的具体原因</p>
+      <p>提示：点击媒体id可查看媒体消耗波动分析的具体原因</p>
     </div>
   </div>
 </template>
@@ -166,15 +166,13 @@ export default {
       plummetTable: []
     };
   },
-  computed: {
-  },
+  computed: {},
   ready() {
     this.upType = this.basic.diff > 0; // 根据消耗分析变化值来区分涨幅和跌幅TOP
     this.initTable();
   },
   watch: {
-    basic() {
-    }
+    basic() {}
   },
   methods: {
     fixNum: _fixNum,
@@ -198,7 +196,9 @@ export default {
       this.pageNum = page;
       let start = (this.pageNum - 1) * this.pageSize;
       let end = start + 10;
-      this.topTable = this.upType ? this.basic.topIncreaseApp.slice(start, end) : this.basic.topPlummetApp.slice(start, end);
+      this.topTable = this.upType
+        ? this.basic.topIncreaseApp.slice(start, end)
+        : this.basic.topPlummetApp.slice(start, end);
     }
   }
 };
@@ -218,7 +218,7 @@ export default {
       line-height: 36px;
       color: #444;
       border: 1px solid #ccc;
-      border-right: none;    
+      border-right: none;
       text-align: center;
       cursor: pointer;
       &:hover {
@@ -228,7 +228,7 @@ export default {
       }
       &.active {
         color: #fff;
-        background-color:#ff5b5b;
+        background-color: #ff5b5b;
         border: 1px solid #ff5b5b;
       }
     }
@@ -245,12 +245,12 @@ export default {
       font-size: 14px;
       &:hover {
         color: #fff;
-        background-color:#2ac993;
+        background-color: #2ac993;
         border: 1px solid #2ac993;
       }
       &.active {
         color: #fff;
-        background-color:#2ac993;
+        background-color: #2ac993;
         border: 1px solid #2ac993;
       }
     }
@@ -277,41 +277,41 @@ export default {
   // }
 }
 .tooltip1 {
-    // position: relative;
-    float: right;
-    width: 17px;
-    margin-left: 3px;
+  // position: relative;
+  float: right;
+  width: 17px;
+  margin-left: 3px;
 }
 
 .tooltip1 .tooltiptext {
-    visibility: hidden;
-    width: 200px;
-    background-color: #eee;
-    color: #888;
-    text-align: center;
-    border-radius: 6px;
-    padding: 5px 5px;
-    position: absolute;
-    font-weight: normal;
-    z-index: 1;
-    // bottom: 99%;
-    left: 422px;
-    top:-18px;
+  visibility: hidden;
+  width: 200px;
+  background-color: #eee;
+  color: #888;
+  text-align: center;
+  border-radius: 6px;
+  padding: 5px 5px;
+  position: absolute;
+  font-weight: normal;
+  z-index: 1;
+  // bottom: 99%;
+  left: 422px;
+  top: -18px;
 }
 
 .tooltip1 .tooltiptext::after {
-    content: "";
-    position: absolute;
-    top: 100%;
-    left: 50%;
-    margin-left: -5px;
-    border-width: 5px;
-    border-style: solid;
-    border-color: #eee transparent transparent transparent;
+  content: '';
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  margin-left: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: #eee transparent transparent transparent;
 }
 
 .tooltip1:hover .tooltiptext {
-    visibility: visible;
+  visibility: visible;
 }
 
 .advance-table {
@@ -320,16 +320,16 @@ export default {
   .tr-header {
     line-height: 25px !important;
   }
-  .recommend-list{
+  .recommend-list {
     width: 100%;
-    border-radius:2px;
+    border-radius: 2px;
     margin-bottom: 20px;
     th {
-      min-width:100px;
-      position:relative;
+      min-width: 100px;
+      position: relative;
       vertical-align: middle;
       // text-align: center;
-      }
+    }
     td {
       div {
         text-align: center;
