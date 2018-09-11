@@ -55,7 +55,7 @@ export default {
   },
   methods: {
     realtime: function(transition) {
-      this.$http.get('/ka/newT').then(
+      this.$http.get('/ka/newTable').then(
         res => {
           res = res.json();
           if (res.success) {
