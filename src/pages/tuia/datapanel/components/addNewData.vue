@@ -13,7 +13,7 @@
             <template v-for="(val, key) in mapArr[0]">
               <th :key="index">
                 <label class="trade-warp">
-                  {{val}}
+                  {{val|translate}}
                 </label>
               </th>
             </template>
@@ -22,7 +22,7 @@
 
         <tbody>
           <tr class="tr-items" v-for="(item,indexs) in mapArr">
-            <td v-for="(item,index) in indexs ">{{index}}</td>
+            <td v-for="(item,index) in indexs ">{{index|saveFour}}</td>
           </tr>
         </tbody>
       </table>
