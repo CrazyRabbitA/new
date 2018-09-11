@@ -22,52 +22,43 @@
 
         <tbody>
           <tr class="tr-items" v-for="(item,indexs) in mapArr">
-            <td v-for="(item,index) in indexs ">{{index|saveFour}}</td>
+            <td v-for="(item,index) in indexs ">{{index|fixNum}}</td>
           </tr>
         </tbody>
       </table>
-      <tableempty v-if="!showTable"></tableempty>
+      <!-- <tableempty v-if="!showTable"></tableempty> -->
     </div>
   </div>
 </template>
 <script>
-import { _fixNum, getPrecent } from 'components/utils/cheatDataUtils';
+import { _fixNum } from 'components/utils/cheatDataUtils';
 import MessageBox from 'components/basic/MessageBox';
-import { formatDate } from 'components/utils/dateUtils';
-
 export default {
-  components: {},
-  props: {},
-  watch: {},
-  computed: {},
   ready() {
     this.getData();
   },
   data() {
     return {
-      showTable: false,
       data: {},
-      mapArr: [],
-      startDate: this._getStartDay(formatDate(new Date())),
-      endDate: this._getEndDay(formatDate(new Date()))
+      mapArr: []
     };
   },
+  filters: {
+    fixNum(data) {
+      if (typeof data === 'number') {
+        return _fixNum(data, 4);
+      } else if (data === 'NaN') {
+        return '-';
+      } else {
+        return data;
+      }
+    }
+  },
   methods: {
-    fixNum: _fixNum,
-    getPrecent: getPrecent,
-    _getStartDay(dateStr, type = 7) {
-      let start = new Date(dateStr) - 1000 * 60 * 60 * 24 * type;
-      return formatDate(start);
-    },
-    _getEndDay(dateStr) {
-      let end = new Date(dateStr) - 1000 * 60 * 60 * 24;
-      return formatDate(end);
-    },
     search() {
       this.getData();
     },
     download() {
-      // 下载地址拼接
       let url =
         '/ka/table/download?startDate=' +
         this.startDate +
@@ -76,19 +67,10 @@ export default {
       window.open(url);
     },
     getData() {
-      console.log(this.startDate);
       this.$http.get('/ka/newTable').then(
         res => {
           res = res.json();
-          console.dir(res);
-          console.dir(res.data);
           if (res.success) {
-            // this.data = res.data;
-            // const reg = /[a-zA-Z]/;
-            // const dataArr = Object.entries(res.data);
-            // this.mapArr = dataArr.filter(el => !reg.test(el[0]));
-            // console.log(this.mapArr);
-            // this.showTable = !!dataArr.length;
             this.mapArr = res.data;
           } else {
             MessageBox({
@@ -157,6 +139,7 @@ export default {
       cursor: pointer;
       display: inline-block;
       vertical-align: top;
+      padding: 10px;
     }
   }
   .green {
