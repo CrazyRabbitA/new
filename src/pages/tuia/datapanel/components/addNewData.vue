@@ -37,7 +37,6 @@
           </tr>
         </tbody>
       </table>
-      <!-- <tableempty v-if="!showTable "></tableempty> -->
     </div>
   </div>
 </template>
@@ -223,11 +222,9 @@ export default {
     border-radius: 2px;
     margin-bottom: 20px;
     th {
-      // min-width:68px;
       position: relative;
       text-align: center;
       white-space: nowrap;
-      border-right: 1px solid #ccc;
       &:last-child {
         border-right: none;
       }
